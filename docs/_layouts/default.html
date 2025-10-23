@@ -6,8 +6,13 @@
     <title>{{ page.title | default: site.title }}</title>
     <!-- Carrega o Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Carrega as Fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Orbitron:wght@700&display=swap" rel="stylesheet">
+    
     <style>
+        /* --- Configuração Base e Estética --- */
         body {
             font-family: 'Inter', sans-serif;
             background-color: #000;
@@ -18,8 +23,11 @@
             color: #fff;
             border-bottom: 1px solid #333;
             padding-bottom: 8px;
+            margin-top: 1.5rem;
+            margin-bottom: 1rem;
         }
-        /* Estiliza o conteúdo Markdown que o Jekyll gera */
+
+        /* --- Estilização do Conteúdo Principal (Injetado pelo Jekyll) --- */
         .markdown-body {
             max-width: 800px;
         }
@@ -37,7 +45,34 @@
         .markdown-body ul, .markdown-body ol {
             margin-left: 1.5rem;
             margin-bottom: 1rem;
+            list-style: disc;
         }
+        .markdown-body li {
+            margin-bottom: 0.5rem;
+        }
+
+        /* --- Estilos Corrigidos para o Menu Lateral (Sidebar) --- */
+        /* Títulos (###) dentro do menu */
+        .sidebar h3 {
+            font-family: 'Orbitron', sans-serif;
+            color: #eee;
+            font-size: 1.1rem;
+            margin-top: 1rem;
+            margin-bottom: 0.5rem;
+            border-bottom: 1px solid #444;
+            padding-bottom: 4px;
+        }
+        /* Lista (*) dentro do menu */
+        .sidebar ul {
+            list-style: none;
+            padding-left: 0;
+            margin-bottom: 1rem;
+        }
+        .sidebar li {
+            padding: 0;
+            margin-bottom: 0;
+        }
+        /* Links dentro do menu */
         .sidebar a {
             color: #999;
             text-decoration: none;
@@ -45,10 +80,15 @@
             padding: 6px 0;
             border-bottom: 1px solid #222;
             transition: all 0.2s ease;
+            font-size: 0.9rem;
         }
         .sidebar a:hover, .sidebar a.active {
             color: #00FFFF;
             transform: translateX(5px);
+        }
+        .sidebar p {
+            color: #777;
+            font-style: italic;
         }
     </style>
 </head>
@@ -71,8 +111,15 @@
             <aside class="w-full lg:w-1/4 lg:pl-8 lg:border-l lg:border-gray-800 sidebar">
                 <h3 class="text-xl text-white mb-4">Índice da Biblioteca</h3>
                 
-                <!-- Aqui, incluímos o ficheiro do menu -->
-                {% include sidebar.md | markdownify %}
+                <!-- 
+                  Protocolo de Renderização Robusto:
+                  Primeiro, capturamos o conteúdo do include para uma variável.
+                  Depois, aplicamos o filtro markdownify a essa variável.
+                -->
+                {% capture sidebar_content %}
+                  {% include sidebar.md %}
+                {% endcapture %}
+                {{ sidebar_content | markdownify }}
 
             </aside>
         </div>
@@ -80,3 +127,4 @@
 
 </body>
 </html>
+
