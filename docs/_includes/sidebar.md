@@ -1,4 +1,5 @@
-### Governança e Ética
+# Nexus Aetheria
+
 * [Tema 1.1: Ética Pós-Humana](tema-1.1.html)
 * [Tema 2.1: Constituição como OS](tema-2.1.html)
 * [Tema 3.1: Prova de Integridade](tema-3.1.html)
