@@ -1,8 +1,9 @@
-### Governança e Ética
+# Nexus Aetheria
+
 * [Tese 1.1: A Ética da Governança Pós-Humana](tema-1.1.html)
-* [Tema 2.1: Constituição como OS](tema-2.1.html)
-* [Tema 3.1: Prova de Integridade](tema-3.1.html)
-* [Tema 3.2: Segurança Quântica](tema-3.2.html)
+* [Tese 1.2: A Natureza da Liberdade num Sistema Determinístico](tema-2.1.html)
+* [Tese 1.2: A Constituição como um Sistema Operacional](tema-3.1.html)
+* [Tese 1.3: A Dissolução do Contrato Social em Favor do Contrato Criptográfico](tema-3.2.html)
 
 ### Identidade e Economia
 * [Tema 2.2: Contrato Criptográfico](tema-2.2.html)
