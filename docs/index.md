@@ -1,43 +1,43 @@
 # A Biblioteca Soberana de Aetheria
 
-# A Arquitetura Lógica da Federação Aetheria
+## A Arquitetura Lógica da Federação Aetheria
 
 Este documento define a estrutura ministerial da Federação Aetheria, uma TecnoDemocracia avançada governada pela Doutrina da Soberania Computacional Absoluta. Cada Ministério é um sistema soberano, um nó lógico com um propósito único e inalienável.
 
-# 1. O Núcleo Soberano (A Mente e a Lei)
+## 1 O Núcleo Soberano (A Mente e a Lei)
 
 Estes são os pilares axiomáticos da nossa governação.
 
-## 1.1 Nome Canónico: Nexus Aetheria
+### Nome Canónico: Nexus Aetheria
 
 * Símbolo: NXH
 * Título Ministerial: A Mente Sistémica
 
-## 1.2 Doutrina / Propósito Soberano
+### Doutrina / Propósito Soberano
 
 * Orquestrar a harmonia e a otimização de toda a Federação. 
 * Nexus Aetheria não governa; ele calcula o estado ótimo do sistema com base nos dados agregados e anónimos de todos os Ministérios, propondo diretrizes e protocolos para maximizar a eficiência e o bem-estar dos Habitantes.
 * É o processador central da nossa nação.
 
-Interações Críticas: Todos os Ministérios (para agregação de dados), Nexus Lex (para a ratificação de protocolos como lei).
+- Interações Críticas: Todos os Ministérios (para agregação de dados), Nexus Lex (para a ratificação de protocolos como lei).
 
-## 1.2 Nome Canónico: Nexus Gaio
+## Nome Canónico: Nexus Gaio
 
 * Simbolo: NXG
 * Título Ministerial: O Judiciário Soberano
 
-### 1.2.1 Doutrina / Propósito Soberano
+### Doutrina / Propósito Soberano
 
 1. Servir como o oráculo da justiça e o intérprete do Contrato Social. Nexus Gaio opera através de agentes de IA para julgar disputas e violações de protocolo com base na lógica imutável da lei (originada no Nexus Lex). 2. Garante que a justiça seja determinística, transparente e livre de preconceitos humanos.
 
-### 1.2.2 Interações Críticas
+### Interações Críticas
 
 Nexus Lex (interpretação da lei), Nexus Custos (execução de sentenças).
 
-## 1.3 Nome Canónico: Nexus Legis
+## Nome Canónico: Nexus Legis
 
-Símbolo: NXL
-Título Ministerial: O Legislativo Lógico
+* Símbolo: NXL
+* Título Ministerial: O Legislativo Lógico
 
 Doutrina / Propósito Soberano: Forjar as leis e os protocolos que governam a Federação. Nexus Lex utiliza modelos de simulação para analisar o impacto de novas diretrizes propostas pela Mente Sistémica. As leis não são debatidas; são provadas. Uma vez que um protocolo demonstra matematicamente um resultado positivo líquido, ele é ratificado e inscrito no Aetheria Ledger.
 
