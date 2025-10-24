@@ -1,6 +1,3 @@
-layout: "default"
-title: "Bem-vindo à Biblioteca"
-nav_order: 1
 1. O Núcleo Soberano (A Mente e a Lei)
 
 Estes são os pilares axiomáticos da nossa governação.
