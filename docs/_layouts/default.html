@@ -6,17 +6,53 @@
     <title>{{ page.title | default: site.title }}</title>
     <!-- Carrega o Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Carrega as Fontes -->
+    <!-- Carrega as Fontes (Apenas Inter) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Orbitron:wght@700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     
     <style>
-        /* --- Configuração Base e Estética --- */
+        /* --- Configuração Base e Estética (Sóbria) --- */
         body {
             font-family: 'Inter', sans-serif;
-            background-color: #000;
-            color: #ccc;
+            /* Fundo suavizado (não preto puro) */
+            background-color: #1a1a1a; 
+            /* Texto principal mais claro para melhor contraste */
+            color: #e0e0e0; 
+        }
+        h1, h2, h3, h4, h5, h6 {
+            /* Fonte 'Inter' para os cabeçalhos, para seriedade */
+            font-family: 'Inter', sans-serif;
+            font-weight: 600;
+            color: #ffffff;
+            /* Borda inferior mais suave */
+            border-bottom: 1px solid #444; 
+            padding-bottom: 8px;
+            margin-top: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        /* --- Estilização do Conteúdo Principal (Legibilidade) --- */
+        .markdown-body {
+            max-width: 800px;
+        }
+        .markdown-body a {
+            /* Links mais sóbrios: branco com sublinhado */
+            color: #ffffff;
+            font-weight: 500;
+            text-decoration: underline;
+            text-decoration-color: #555; /* Sublinhado subtil */
+            transition: all 0.2s ease;
+        }
+        .markdown-body a:hover {
+            /* Destaque no hover */
+            color: #22d3ee; /* Ciano subtil no hover */
+            text-decoration-color: #22d3ee;
+        }
+        .markdown-body p {
+            /* Maior altura de linha para leitura */
+            line-height: 1.8; 
+            margin-bottom: 1.25rem;
         }
         h1, h2, h3, h4, h5, h6 {
             font-family: 'Orbitron', sans-serif;
@@ -54,10 +90,10 @@
         /* --- Estilos Corrigidos para o Menu Lateral (Sidebar) --- */
         /* Títulos (###) dentro do menu */
         .sidebar h3 {
-            font-family: 'Orbitron', sans-serif;
-            color: #eee;
-            font-size: 1.1rem;
-            margin-top: 1rem;
+            font-family: 'Inter', sans-serif; /* Consistência */
+            font-weight: 500;
+            color: #e0e0e0;
+            font-size: 1rem;
             margin-bottom: 0.5rem;
             border-bottom: 1px solid #444;
             padding-bottom: 4px;
@@ -74,16 +110,16 @@
         }
         /* Links dentro do menu */
         .sidebar a {
-            color: #999;
+            color: #a0a0a0; /* Cor mais suave */
             text-decoration: none;
             display: block;
             padding: 6px 0;
-            border-bottom: 1px solid #222;
+            border-bottom: 1px solid #333; /* Borda mais suave */
             transition: all 0.2s ease;
             font-size: 0.9rem;
         }
         .sidebar a:hover, .sidebar a.active {
-            color: #00FFFF;
+            color: #ffffff; /* Destaque branco */
             transform: translateX(5px);
         }
         .sidebar p {
@@ -96,7 +132,8 @@
 
     <div class="container mx-auto max-w-7xl p-4 lg:p-8">
         <header class="mb-8 text-center">
-            <h1 class="text-4xl text-cyan-400">{{ site.title }}</h1>
+            <!-- Título principal em branco sóbrio -->
+            <h1 class="text-4xl text-white">{{ site.title }}</h1>
         </header>
 
         <div class="flex flex-col lg:flex-row gap-8">
@@ -108,8 +145,9 @@
             </main>
 
             <!-- MENU LATERAL DIREITO -->
-            <aside class="w-full lg:w-1/4 lg:pl-8 lg:border-l lg:border-gray-800 sidebar">
-                <h3 class="text-xl text-white mb-4">Índice da Biblioteca</h3>
+            <aside class="w-full lg:w-1/4 lg:pl-8 lg:border-l lg:border-gray-700 sidebar">
+                <!-- Título do índice mais subtil -->
+                <h3 class="text-xl text-gray-300 mb-4">Índice da Biblioteca</h3>
                 
                 <!-- 
                   Protocolo de Renderização Robusto:
@@ -127,4 +165,5 @@
 
 </body>
 </html>
+
 
