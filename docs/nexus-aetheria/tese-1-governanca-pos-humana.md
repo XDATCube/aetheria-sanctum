@@ -1,5 +1,7 @@
 ---
-
+layout: "default"
+title: "Nexus Aetheria - NXT"
+nav_order: 1
 ---
 
 * Título: O Imperativo Categórico Computacional: Uma Análise Ética da Soberania da Máquina em Aetheria
