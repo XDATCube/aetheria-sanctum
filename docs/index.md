@@ -1,7 +1,8 @@
 ---
 layout: "default"
-title: "Bem-vindo à Biblioteca"
-nav_order: 1
+title: "Nexus Aetheria (Governança)"
+nav_order: 2  # Ordem no menu (depois da Home)
+has_children: true # Diz ao tema para criar um submenu
 ---
 
 A Biblioteca Soberana de Aetheria
