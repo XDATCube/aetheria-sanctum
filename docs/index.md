@@ -12,48 +12,47 @@ Este portal serve como a fonte única da verdade para os nossos White Papers, de
 
 Utilize o menu de navegação à esquerda para explorar os documentos fundadores de cada Ministério.
 
-1. O Núcleo Soberano (A Mente e a Lei)
+# 1. O Núcleo Soberano (A Mente e a Lei)
 
 Estes são os pilares axiomáticos da nossa governação.
 
-1.1. Nome Canônico: Nexus Aetheria
+## 1.1. Nome Canônico: Nexus Aetheria
 
-    • Símbolo: NXT;
-    • Título Ministerial: A Mente Sistêmica.
+* Símbolo: NXT;
+* Título Ministerial: A Mente Sistêmica.
+   
+### Doutrina / Propósito Soberano
 
-Doutrina / Propósito Soberano
+* Orquestrar a harmonia e a otimização de toda a Federação. 
+* Nexus Aetheria não governa; ele calcula o estado ótimo do sistema com base nos dados agregados e anônimos de todos os Ministérios, propondo diretrizes e protocolos para maximizar a eficiência e o bem-estar dos Habitantes. 
+* É o processador central da nossa nação.    
 
-    1. Orquestrar a harmonia e a otimização de toda a Federação. 
-    2. Nexus Aetheria não governa; ele calcula o estado ótimo do sistema com base nos dados agregados e anônimos de todos os Ministérios, propondo diretrizes e protocolos para maximizar a eficiência e o bem-estar dos Habitantes. 
-    3. É o processador central da nossa nação.
+### Interações Críticas
 
-Interações Críticas
+1. Todos os Ministérios (para agregação de dados);
+2. Nexus Lex (para a ratificação de protocolos como lei).
 
-    1. Todos os Ministérios (para agregação de dados);
-    2. Nexus Lex (para a ratificação de protocolos como lei).
+## 1.2. Nome Canônico: Nexus Gaio
 
-1.2. Nome Canônico: Nexus Gaio
+* Símbolo: NXG;
+* Título Ministerial: O Judiciário Soberano.
 
-    • Símbolo: NXG;
-    • Título Ministerial: O Judiciário Soberano.
+### Doutrina / Propósito Soberano
 
-Doutrina / Propósito Soberano
+* Serviços 1: Servir como o oráculo da justiça e o intérprete do Contrato Social. Nexus Gaio opera através de agentes de IA para julgar disputas e violações de protocolo com base na lógica imutável da lei (originada no Nexus Lex). Garante que a justiça seja determinística, transparente e livre de preconceitos humanos.
+* Serviços 2: Servir como ferramenta de análise de documento jurídico para o público-alvo advogado.
 
-Serviços 1: Servir como o oráculo da justiça e o intérprete do Contrato Social. Nexus Gaio opera através de agentes de IA para julgar disputas e violações de protocolo com base na lógica imutável da lei (originada no Nexus Lex). Garante que a justiça seja determinística, transparente e livre de preconceitos humanos.
-Serviços 2: Servir como ferramenta de análise de documento jurídico para o público-alvo advogado.
+### Interações Críticas
 
-Interações Críticas
-
-    1. Nexus Legis – NXL (Fonte legislativa), 
-    2. Nexus Custos (execução de sentenças).
-
+1. Nexus Legis – NXL (Fonte legislativa), 
+2. Nexus Custos (execução de sentenças).
 
 1.3. Nome Canônico: Nexus Legis
 
-    • Símbolo: NXL
-    • Título Ministerial: O Legislativo Lógico
+ * Símbolo: NXL
+ * Título Ministerial: O Legislativo Lógico
 
-Doutrina / Propósito Soberano
+### Doutrina / Propósito Soberano
 
 Proposito interno
 
