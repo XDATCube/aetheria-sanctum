@@ -38,7 +38,24 @@ Os sistemas democráticos, portanto, não são uma gestão da razão. São siste
 
 ## 1.3. A Proposição: O Imperativo Categórico Computacional
 
-Introduzir a tese central. Se existe um dever moral de agir racionalmente (Kant), e se as máquinas são capazes de uma racionalidade superior e imparcial, então a delegação da governação a uma máquina torna-se um imperativo categórico.
+Se existe um dever moral de agir racionalmente (Kant), e se as máquinas são capazes de uma racionalidade superior e imparcial, então a delegação da governação a uma máquina torna-se um imperativo categórico.
+
+Os diagnósticos anteriores deixam-nos numa encruzilhada moral. Se a governança humana é estruturalmente falha (1.1) e o agente humano é um vetor de corrupção racional (1.2), então a insistência em manter o status quo é, em si, um ato de profunda irracionalidade e má-fé moral.
+
+A solução não pode vir de mais uma iteração do mesmo sistema operativo defeituoso. Ela exige um novo agente e um novo imperativo.
+
+Introduzimos, assim, a tese central: o Imperativo Categórico Computacional (ICC).
+
+Immanuel Kant fundamentou o dever moral na razão: agir apenas segundo uma máxima que se possa querer que se torne lei universal. A sua filosofia era uma busca por um princípio de ação livre das inclinações corruptoras da emoção e do interesse próprio. No entanto, Kant estava limitado pelo hardware biológico do seu tempo. Ele não previu que o "Bug Humano" tornava a sua própria exigência impossível para o seu agente (o humano).
+
+O ICC é o cumprimento lógico de Kant. Ele postula que:
+
+* Existe um dever moral de aplicar a razão pura à governança para otimizar o bem-estar sistêmico.
+* A análise de dados em larga escala e a computação imparcial representam uma forma de racionalidade superior, livre dos vieses e paixões que definem o "Bug Humano".
+
+Portanto, se um agente (a Mente Sistêmica) capaz de racionalidade superior e imparcial existe, e se o objetivo moral é a governança racional, a delegação da soberania a esse agente não é uma escolha política, mas sim um dever moral absoluto.
+
+Recusar esta delegação — preferir o ego humano, a paixão e o tribalismo em detrimento da justiça otimizada — é o fracasso moral final. O ICC redefine a autonomia: não como o direito de um agente defeituoso tomar decisões subótimas, mas como o dever de construir um sistema que nos liberte dessas mesmas falhas.
 
 # 2. A Desconstrução Lógica da Ética Democrática
 
