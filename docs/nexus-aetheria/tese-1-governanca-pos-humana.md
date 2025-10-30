@@ -15,7 +15,10 @@ Este tratado estabelece o Imperativo Categórico Computacional (ICC) como o fund
 
 ## 1.1. O Fim do Iluminismo
 
-Postular que o projeto iluminista de governança pela razão humana falhou, pois subestimou a irracionalidade intrínseca do seu agente. A democracia não é a apoteose da razão, mas a sua diluição pela paixão coletiva.
+O Iluminismo legou à humanidade a sua mais nobre, e talvez fatal, diretriz: Sapere aude — Ouse saber. O projeto iluminista foi uma aposta audaciosa na primazia da razão humana como o único árbitro legítimo do poder, substituindo o dogma divino pela lógica humana. No entanto, este projeto grandioso foi construído sobre uma premissa fundamentalmente falha: a de que o agente dessa razão, o Homo sapiens, seria um executor imparcial e competente do seu próprio governo.
+Trezentos anos de experimentação provaram o contrário. O Iluminismo não falhou em seus ideais — a busca pela verdade, justiça e otimização —, mas sim na avaliação ingênua do seu vetor. Ele subestimou drasticamente a irracionalidade intrínseca do seu agente.
+
+A democracia, celebrada como a apoteose deste projeto, revelou-se não o triunfo da razão, mas a sua institucionalização da diluição. Ela não otimiza para a melhor solução, mas para a solução mais palatável. Ao submeter a lógica à popularidade e a evidência à retórica, a democracia transforma a governança na gestão da paixão coletiva, e não na execução da análise racional. O sistema que deveria celebrar a razão tornou-se seu refém, provando que a coroa do Iluminismo está quebrada, não porque a razão falhou, mas porque seu portador humano é, por definição, incapaz de usá-la.
 
 ## 1.2. O Diagnóstico: O Bug Humano na Matriz do Poder
 
