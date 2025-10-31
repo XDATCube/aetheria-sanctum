@@ -5,8 +5,10 @@ parent: "Nexus Aetheria (Governança)" # O "title" da Página-Mãe
 nav_order: 1 # Ordem dentro do submenu
 ---
 * Título: O Imperativo Categórico Computacional: Uma Análise Ética da Soberania da Máquina em Aetheria
-* Desenvolvedor: Alex Garcias, Dr.
+* Desenvolvedor: Garcias Alex, Dr.
 * Debate: [[Ética Pós-Humana]](https://github.com/XDATCube/aetheria-sanctum/discussions/1)
+* Todos os direitos reservados
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.1: Ética Pós-Humana - O Imperativo Categórico Computacional: Uma Análise Ética da Soberania da Máquina em Aetheria, 2025 - disponível em https://xdatcube.github.io/aetheria-sanctum/nexus-aetheria/tese-1-governanca-pos-humana.html
 
 # Resumo
 
