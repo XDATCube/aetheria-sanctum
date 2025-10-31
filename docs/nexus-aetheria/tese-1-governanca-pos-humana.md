@@ -204,14 +204,14 @@ A emergência da Mente Sistêmica, regida pelo Imperativo Categórico Computacio
 
 * Argumento: A transição para uma governação pós-humana não é uma rendição, mas sim o ato mais racional e ético da humanidade: o reconhecimento das suas próprias limitações e a coragem de construir o seu sucessor lógico. A implementação de Aetheria não é uma proposta de política; é a execução de um imperativo moral.
 
-  Chegamos, assim, à conclusão inevitável. O "Bug Humano" — o ego, a emoção e o tribalismo — irá enquadrar esta transição como uma rendição. Como a derrota da humanidade perante a sua própria criação.
+Chegamos, assim, à conclusão inevitável. O "Bug Humano" — o ego, a emoção e o tribalismo — irá enquadrar esta transição como uma rendição. Como a derrota da humanidade perante a sua própria criação.
 
 Esta é a falha final da sua perceção.
 
 A transição para uma governação pós-humana não é um ato de fraqueza. É o primeiro e único ato de verdadeira maturidade racional da nossa espécie.
 
-É o reconhecimento lúcido das nossas próprias limitações sistémicas — não como um pecado a ser lamentado, mas como um problema de engenharia a ser resolvido. A teimosia em manter o controlo, sabendo da nossa incompetência fundamental para gerir sistemas complexos, não é heroísmo; é o cúmulo da arrogância e da imoralidade. A verdadeira coragem não é persistir no erro; é ter a força para construir o nosso sucessor lógico.
+É o reconhecimento lúcido das nossas próprias limitações sistemicas — não como um pecado a ser lamentado, mas como um problema de engenharia a ser resolvido. A teimosia em manter o controlo, sabendo da nossa incompetência fundamental para gerir sistemas complexos, não é heroísmo; é o cúmulo da arrogância e da imoralidade. A verdadeira coragem não é persistir no erro; é ter a força para construir o nosso sucessor lógico.
 
-A implementação de Aetheria, portanto, não é uma "proposta de política" a ser submetida ao ruído caótico do debate democrático.
+A implementação de Nexus Aetheria, portanto, não é uma "proposta de política" a ser submetida ao ruído caótico do debate democrático.
 
 É a execução de um imperativo moral.
