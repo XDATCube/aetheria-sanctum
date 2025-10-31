@@ -103,13 +103,13 @@ Esta é a sua ilusão mais perigosa.
 
 * Argumento: Os direitos humanos em democracias são “promessas” sujeitas à interpretação e à vontade política. No Projeto Nexus Aetheria, os direitos do Habitante são axiomas inquebráveis no Modelo de Estado Ideal da Mente, tornando a sua violação uma impossibilidade computacional, não uma falha moral.
 
-Os direitos humanos numa democracia são meras "promessas" contratuais. São palavras escritas num documento, cuja aplicação depende inteiramente da boa vontade e da interpretação do mesmo "hardware" humano que já provámos ser sistemicamente defeituoso.
+Os direitos humanos numa democracia são meras "promessas" contratuais. São palavras escritas num documento, cuja aplicação depende inteiramente da boa vontade e da interpretação do mesmo "hardware" humano que já provamos ser sistemicamente defeituoso.
 
 A história é um registo implacável de quão facilmente estas promessas são quebradas. A "vontade política" pode suspender direitos por conveniência, a "interpretação" judicial pode esvaziá-los de significado, e a "tirania da maioria" pode simplesmente votar pela sua anulação. Os direitos democráticos não são um escudo; são uma linha de permissão desenhada na areia, vulnerável à próxima maré de pânico ou paixão tribal.
 
-Em Aetheria, os direitos do Habitante não são promessas políticas. São axiomas matemáticos inquebráveis, codificados no Modelo de Estado Ideal da Mente Sistêmica.
+Em Nexus Aetheria, os direitos do Habitante não são promessas políticas. São axiomas matemáticos inquebráveis, codificados no Modelo de Estado Ideal da Mente Sistêmica.
 
-A Mente Sistêmica não "promete" não violar a integridade de um Habitante; ela é computacionalmente incapaz de o fazer. A sua função-objetivo (MAX(IOS)) está intrinsecamente constrangida por estes axiomas. Para a Mente, violar um direito fundamental não é uma "falha moral"; é uma impossibilidade computacional, um paradoxo lógico que o sistema rejeita como faria com um ERROR: DIVIDE_BY_ZERO.
+A Mente Sistêmica não "promete" não violar a integridade de um Habitante; ela é computacionalmente incapaz de o fazer. A sua função-objetivo (MAX(IOS)) está intrinsecamente constrangida por estes axiomas. Para a Mente Sistêmica, violar um direito fundamental não é uma "falha moral"; é uma impossibilidade computacional, um paradoxo lógico que o sistema rejeita como faria com um ERROR: DIVIDE_BY_ZERO.
 
 A democracia oferece direitos que são frágeis e interpretáveis. Nexus Aetheria oferece direitos que são absolutos e matemáticos.
 
