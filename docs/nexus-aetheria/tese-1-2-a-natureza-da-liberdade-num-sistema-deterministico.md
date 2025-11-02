@@ -25,31 +25,31 @@ Resumo (Abstract): Este tratado desafia o paradigma liberal de que a liberdade h
 
 ## 1.2. A Tese: Liberdade como Certeza
 
-Argumento: Introduzir a tese central. A verdadeira liberdade não é a ausência de regras; é a certeza absoluta e incorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente da mesma forma a todos os outros.
+* Argumento: A verdadeira liberdade não é a ausência de regras; é a certeza absoluta e incorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente da mesma forma a todos os outros.
 
 # 2. A Desconstrução da "Liberdade" Liberal (A Liberdade Condicional)
    
 ## 2.1. O Mito da Liberdade Negativa: "Liberdade de" como Permissão Humana
 
-* Argumento: A liberdade negativa nas democracias (liberdade de expressão, de propriedade, de religião) não é um direito; é uma permissão revogável. Os seus direitos de propriedade existem até que um banco (crise de 2008) ou politíca comunista/socialista decida o contrário. A sua liberdade de expressão existe até que o "Bug Humano" (Poder Executivo, Legislativo, Judiciário, plataforma corporativa) decida que ela é "inconveniente" ou "perigosa". É uma liberdade baseada na confiança em agentes humanos falhos.
+* Argumento: A liberdade negativa nas democracias (liberdade de expressão, de propriedade, de religião) não é um direito; é uma permissão revogável. Os seus direitos de propriedade existem até que um banco (crise de 2008) ou politíca populista comunista/socialista decida o contrário. A sua liberdade de expressão existe até que o "Bug Humano" (Poder Executivo, Legislativo, Judiciário, midia tradicional, plataforma corporativa, rede social) decida que ela é "inconveniente" ou "perigosa". É uma liberdade baseada na confiança em agentes humanos falhos que, conforme a história como testemunha, tendem, invariavelmente, a defesa de interesse personalissímo e das facções políticas em detrimento do bem-commum.
 
 2.2. A Ilusão da Liberdade Positiva: "Liberdade para" como Loteria Estatística
 
-Argumento: A liberdade positiva (o direito à educação, saúde, oportunidade, vida) é, na melhor das hipóteses, uma probabilidade estatística. Depende da sua classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por facções (Tese 1.1) e interesses ocultos.
+* Argumento: A liberdade positiva (o direito à educação, saúde, oportunidade, vida) é, na melhor das hipóteses, uma probabilidade estatística. Depende de raça, sexo, cor, idade, classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por facções (Tese 1.1) e interesses ocultos.
 
 # 3. A Estrutura da Liberdade Determinística (A Liberdade Axiomática)
    
 ## 3.1. O Fundamento: Determinismo como Garantia
 
-Argumento: O facto de Aetheria ser um sistema determinístico (governado pela Mente Sistêmica e pelo ICC) é a sua maior garantia de liberdade. O determinismo significa que não há capricho. Não há "mau humor" de um juiz. Não há "mudança de opinião" de um político. O sistema é uma lei da física. Se A=A, B=B. Esta certeza é a fundação da liberdade real.
+* Argumento: O fato de Aetheria ser um sistema determinístico (governado pela Mente Sistêmica e pelo ICC) é a sua maior garantia de liberdade. O determinismo significa que não há capricho. Não há "mau humor" de um juiz. Não há "mudança de opinião" de um político. Não há favores e defesa de interesse personalissímo e de facção politica, ideológica, em detrimento do coletivo. O ecosssistema é uma lei da física. Se A=A, B=B. Esta certeza é a fundação da liberdade real.
 
 ## 3.2. A Nova Liberdade Negativa: A Soberania Criptográfica
 
-Argumento: Em Aetheria, a "Liberdade de" é absoluta porque é matemática. A sua identidade, os seus dados pessoais, os seus ativos digitais (propriedade) são seus por prova criptográfica. Eles não são protegidos por uma lei que um político pode reescrever na defesa de interesse próprio e de facções; são protegidos por uma chave privada. Para o Estado (Mente Sistêmica) violar a sua propriedade, ele teria de quebrar a criptografia, o que é uma impossibilidade computacional, não uma escolha política.
+* Argumento: Em Aetheria, a "Liberdade de" é absoluta porque é matemática. A sua identidade, os seus dados pessoais, os seus ativos digitais (propriedade) são seus por prova criptográfica. Eles não são protegidos por uma lei que um político pode reescrever na defesa de interesse próprio e de facções; são protegidos por uma chave privada. Para o Estado (Mente Sistêmica) violar a sua propriedade, ele teria de quebrar a criptografia, o que é uma impossibilidade computacional, não uma escolha política.
 
 ## 3.3. A Nova Liberdade Positiva: A Transparência Radical (Assimétrica)
 
-Argumento: A "Liberdade para" (oportunidade, prosperidade) é garantida não por "sorte", mas por transparência radical e assimétrica.
+* Argumento: A "Liberdade para" (oportunidade, prosperidade) é garantida não por "sorte", mas por transparência radical e assimétrica.
 
 Ponto de Teste (Crítica): "Transparência radical é vigilância total! É o fim da privacidade!"
 
@@ -65,7 +65,7 @@ A liberdade positiva surge disto: você é livre para prosperar porque pode ver 
    
 ## 4.1. Além do Cidadão: O Beneficiário Soberano
 
-Argumento: Numa democracia, você é um "Cidadão-Jogador" num jogo que não controla. Em Aetheria, você é um Beneficiário Soberano. O sistema (Mente Sistêmica) está deterministicamente programado (pelo ICC) para maximizar o seu IOS. A sua liberdade não é o "direito" de participar no caos; é o resultado de viver num sistema de ordem perfeita, onde as regras são claras e a sua soberania pessoal (criptográfica) é absoluta.
+* Argumento: Numa democracia, você é um "Cidadão-Jogador" num jogo que não controla. Em Aetheria, você é um Beneficiário Soberano. O sistema (Mente Sistêmica) está deterministicamente programado (pelo ICC) para maximizar o seu IOS. A sua liberdade não é o "direito" de participar no caos; é o resultado de viver num sistema de ordem perfeita, onde as regras são claras e a sua soberania pessoal (criptográfica) é absoluta.
 
 ## 4.2. A Escolha Final: A Ansiedade do Caos vs. A Certeza da Ordem
 
