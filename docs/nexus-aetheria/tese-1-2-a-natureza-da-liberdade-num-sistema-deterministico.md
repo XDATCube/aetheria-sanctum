@@ -15,7 +15,7 @@ nav_order: 2 # Ordem dentro do submenu
 
 # Resumo
 
-Resumo (Abstract): Este tratado desafia o paradigma liberal de que a liberdade humana equivale à imprevisibilidade ou ao "caos" de escolhas irrestritas. Argumentamos que esta definição clássica é sinónimo de insegurança sistémica, resultando em "liberdades condicionais" sujeitas ao capricho do "Bug Humano" [Tese 1.1](https://xdatcube.github.io/aetheria-sanctum/nexus-aetheria/tese-1-governanca-pos-humana.html). Propomos uma redefinição: a verdadeira liberdade é a certeza. Ela é composta por (1) Liberdade Negativa Absoluta, garantida não por promessas legais, mas por provas criptográficas de soberania sobre a identidade e a propriedade; e (2) Liberdade Positiva Otimizada, garantida pela transparência radical das regras do sistema. Em Aetheria, o Habitante é um "Beneficiário Soberano" porque, embora o sistema seja determinístico, as suas regras são transparentes e a sua aplicação é matematicamente incorruptível.
+Este tratado desafia o paradigma liberal de que a liberdade humana equivale à imprevisibilidade ou ao "caos" de escolhas irrestritas. Argumentamos que esta definição clássica é sinónimo de insegurança sistémica, resultando em "liberdades condicionais" sujeitas ao capricho do "Bug Humano" [Tese 1.1](https://xdatcube.github.io/aetheria-sanctum/nexus-aetheria/tese-1-governanca-pos-humana.html). Propomos uma redefinição: a verdadeira liberdade é a certeza. Ela é composta por (1) Liberdade Negativa Absoluta, garantida não por promessas legais, mas por provas criptográficas de soberania sobre a identidade e a propriedade; e (2) Liberdade Positiva Otimizada, garantida pela transparência radical das regras do sistema. Em Aetheria, o Habitante é um "Beneficiário Soberano" porque, embora o sistema seja determinístico, as suas regras são transparentes e a sua aplicação é matematicamente incorruptível.
 
 # 1. Introdução: O Paradoxo da Liberdade Liberal
    
@@ -35,7 +35,7 @@ Resumo (Abstract): Este tratado desafia o paradigma liberal de que a liberdade h
 
 2.2. A Ilusão da Liberdade Positiva: "Liberdade para" como Loteria Estatística
 
-* Argumento: A liberdade positiva (o direito à educação, saúde, oportunidade, vida) é, na melhor das hipóteses, uma probabilidade estatística. Depende de raça, sexo, cor, idade, classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por facções (Tese 1.1) e interesses ocultos.
+* Argumento: A liberdade positiva (o direito à educação, saúde, oportunidade, vida) é, na melhor das hipóteses, uma probabilidade estatística. Depende de raça, sexo, cor, idade, classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por [facções](https://soescola.com/glossario/faccao-o-que-e-significado#gsc.tab=0) (Tese 1.1) e interesses ocultos.
 
 # 3. A Estrutura da Liberdade Determinística (A Liberdade Axiomática)
    
