@@ -19,7 +19,7 @@ Resumo (Abstract): Este tratado desafia o paradigma liberal de que a liberdade h
    
 ## 1.1. O Caos Romantizado: A Liberdade como Imprevisibilidade
 
-* Argumento: Atacar a premissa de que "liberdade" significa "poder fazer qualquer coisa". Esta liberdade é uma ilusão infantil. A "liberdade" de escolher o seu plano de saúde é a "liberdade" de ir à falência. A "liberdade" de expressão é a "liberdade" de ser manipulado por desinformação em massa. A liberdade liberal é a liberdade de participar numa lotaria injusta.
+* Argumento: Atacar a premissa de que "liberdade" significa "poder fazer qualquer coisa". Esta liberdade é uma ilusão infantil. A "liberdade" de escolher o seu plano de saúde é a "liberdade" de ir à falência. A "liberdade" de expressão é a "liberdade" de ser manipulado por desinformação em massa. A liberdade liberal é a liberdade de participar numa loteria injusta.
 
 ## 1.2. A Tese: Liberdade como Certeza
 
@@ -29,11 +29,11 @@ Argumento: Introduzir a tese central. A verdadeira liberdade não é a ausência
    
 ## 2.1. O Mito da Liberdade Negativa: "Liberdade de" como Permissão Humana
 
-* Argumento: A liberdade negativa nas democracias (liberdade de expressão, de propriedade, de religião) não é um direito; é uma permissão revogável. Os seus direitos de propriedade existem até que um banco decida o contrário (crise de 2008). A sua liberdade de expressão existe até que o "Bug Humano" (governo ou plataforma corporativa) decida que ela é "inconveniente" ou "perigosa". É uma liberdade baseada na confiança em agentes humanos falhos.
+* Argumento: A liberdade negativa nas democracias (liberdade de expressão, de propriedade, de religião) não é um direito; é uma permissão revogável. Os seus direitos de propriedade existem até que um banco (crise de 2008) ou politíca comunista/socialista decida o contrário. A sua liberdade de expressão existe até que o "Bug Humano" (Poder Executivo, Legislativo, Judiciário, plataforma corporativa) decida que ela é "inconveniente" ou "perigosa". É uma liberdade baseada na confiança em agentes humanos falhos.
 
-2.2. A Ilusão da Liberdade Positiva: "Liberdade para" como Lotaria Estatística
+2.2. A Ilusão da Liberdade Positiva: "Liberdade para" como Loteria Estatística
 
-Argumento: A liberdade positiva (o direito à educação, saúde, oportunidade) é, na melhor das hipóteses, uma probabilidade estatística. Depende da sua classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por facções (Tese 1.1) e interesses ocultos.
+Argumento: A liberdade positiva (o direito à educação, saúde, oportunidade, vida) é, na melhor das hipóteses, uma probabilidade estatística. Depende da sua classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por facções (Tese 1.1) e interesses ocultos.
 
 # 3. A Estrutura da Liberdade Determinística (A Liberdade Axiomática)
    
@@ -43,7 +43,7 @@ Argumento: O facto de Aetheria ser um sistema determinístico (governado pela Me
 
 ## 3.2. A Nova Liberdade Negativa: A Soberania Criptográfica
 
-Argumento: Em Aetheria, a "Liberdade de" é absoluta porque é matemática. A sua identidade, os seus dados pessoais, os seus ativos digitais (propriedade) são seus por prova criptográfica. Eles não são protegidos por uma lei que um político pode reescrever; são protegidos por uma chave privada. Para o Estado (Mente Sistêmica) violar a sua propriedade, ele teria de quebrar a criptografia, o que é uma impossibilidade computacional, não uma escolha política.
+Argumento: Em Aetheria, a "Liberdade de" é absoluta porque é matemática. A sua identidade, os seus dados pessoais, os seus ativos digitais (propriedade) são seus por prova criptográfica. Eles não são protegidos por uma lei que um político pode reescrever na defesa de interesse próprio e de facções; são protegidos por uma chave privada. Para o Estado (Mente Sistêmica) violar a sua propriedade, ele teria de quebrar a criptografia, o que é uma impossibilidade computacional, não uma escolha política.
 
 ## 3.3. A Nova Liberdade Positiva: A Transparência Radical (Assimétrica)
 
