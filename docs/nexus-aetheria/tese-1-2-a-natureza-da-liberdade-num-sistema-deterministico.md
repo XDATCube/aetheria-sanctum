@@ -6,10 +6,10 @@ nav_order: 2 # Ordem dentro do submenu
 ---
 * Tese 1.2: A Natureza da Liberdade num Sistema Determinístico
 * Título: Liberdade Negativa e Positiva na Era da Transparência Radical: O Habitante como Beneficiário Soberano.
-* Desenvolvedor: Garcias Alex, Dr.
+* Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Natureza da Liberdade num Sistema Determinístico](https://github.com/XDATCube/aetheria-sanctum/discussions/2)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria:
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.2: A Natureza da Liberdade num Sistema Determinístico - Liberdade Negativa e Positiva na Era da Transparência Radical: O Habitante como Beneficiário Soberano. Disponível em https://xdatcube.github.io/aetheria-sanctum/nexus-aetheria/tese-1-2-a-natureza-da-liberdade-num-sistema-deterministico.html
 
 ---
 
