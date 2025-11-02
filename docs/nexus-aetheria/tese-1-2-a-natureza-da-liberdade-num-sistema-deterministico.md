@@ -31,7 +31,7 @@ Este tratado desafia o paradigma liberal de que a liberdade humana equivale à i
    
 ## 2.1. O Mito da Liberdade Negativa: "Liberdade de" como Permissão Humana
 
-* Argumento: A liberdade negativa nas democracias (liberdade de expressão, de propriedade, de religião) não é um direito; é uma permissão revogável. Os seus direitos de propriedade existem até que um banco (crise de 2008) ou politíca populista comunista/socialista decida o contrário. A sua liberdade de expressão existe até que o "Bug Humano" (Poder Executivo, Legislativo, Judiciário, midia tradicional, plataforma corporativa, rede social) decida que ela é "inconveniente" ou "perigosa". É uma liberdade baseada na confiança em agentes humanos falhos que, conforme a história como testemunha, tendem, invariavelmente, a defesa de interesse personalissímo e das facções políticas em detrimento do bem-commum.
+* Argumento: A liberdade negativa nas democracias (liberdade de expressão, de propriedade, de religião) não é um direito; é uma permissão revogável. Os seus direitos de propriedade existem até que um banco (crise de 2008) ou politíca populista comunista/socialista decida o contrário. A sua liberdade de expressão existe até que o "Bug Humano" (Poder Executivo, Legislativo, Judiciário, midia tradicional, plataforma corporativa, rede social) decida que ela é "inconveniente" ou "perigosa". É uma liberdade baseada na confiança em agentes humanos falhos que, conforme a história como testemunha, tendem, invariavelmente, a defesa de interesse personalissímo e das facções em detrimento do bem-commum.
 
 2.2. A Ilusão da Liberdade Positiva: "Liberdade para" como Loteria Estatística
 
