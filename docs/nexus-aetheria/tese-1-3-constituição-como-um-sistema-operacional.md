@@ -9,7 +9,7 @@ nav_order: 3 # Ordem dentro do submenu
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Constituição como um Sistema Operacional](https://github.com/XDATCube/aetheria-sanctum/discussions/3)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.3: A Constituição como um Sistema Operacional - 
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.3: A Constituição como um Sistema Operacional - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/nexus-aetheria/tese-1-3-constitui%C3%A7%C3%A3o-como-um-sistema-operacional.html
 
 ---
 
