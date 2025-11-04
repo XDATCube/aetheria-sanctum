@@ -1,7 +1,7 @@
 ---
 layout: "default"
-title: "Nexus Gaio (Ministério)"
+title: "Nexus Lex (Ministério)"
 parent: "I - Nucleo Soberano"
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
