@@ -14,3 +14,11 @@ just_the_docs:
 aux_links:
   "Fórum Soberano":
     - "https://github.com/XDATCube/aetheria-sanctum/discussions"
+
+# ==============================
+# FOOTER
+# ==============================
+footer_content: |
+  © 2025 <strong>Aetheria Sanctum</strong> • Dr. Garcias Alex • Todos os direitos reservados.<br>
+  <a href="/termos">Termos de Uso</a> • <a href="/privacidade">Privacidade</a> • 
+  <a href="https://github.com/XDATCube/aetheria-sanctum">GitHub</a>
