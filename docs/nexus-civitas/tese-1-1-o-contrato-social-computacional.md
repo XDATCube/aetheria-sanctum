@@ -1,7 +1,7 @@
 ---
 layout: "default"
 title: "Tese 1.2: A Natureza da Liberdade num Sistema Determinístico"
-parent: "Nexus Civitas" # O "title" da Página-Mãe
+parent: "Nexus Civitas (Cidadania)" # O "title" da Página-Mãe
 nav_order: 1 # Ordem dentro do submenu
 ---
 * Tese 1.1:  O Contrato Social Computacional
