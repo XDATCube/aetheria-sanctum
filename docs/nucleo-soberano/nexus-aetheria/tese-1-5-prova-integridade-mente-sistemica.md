@@ -12,7 +12,7 @@ nav_order: 5
 * Debate: [A Prova de Integridade da Mente Sistêmica](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
 * Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.5: A Prova de Integridade da Mente Sistêmica - Verificação Formal Contínua: Garantindo a Integridade e a Racionalidade
-do Nexus Aetheria - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/1-4-dissolucao-do-contrato-social.html
+do Nexus Aetheria - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/tese-1-5-prova-integridade-mente-sistemica.html
 
 ---
 
