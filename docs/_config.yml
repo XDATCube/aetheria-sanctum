@@ -18,24 +18,24 @@ just_the_docs:
   collections:
   nucleo_soberano:    
     output: true
-    permalink: teses/nucleo-soberano/:path/    
+    permalink: /teses/nucleo-soberano/:path/    
 
   fundacao_sociedade:
     
     output: true
-    permalink: teses/fundacao-sociedade/:path/
+    permalink: /teses/fundacao-sociedade/:path/
     
 
   infraestrutura_nacao:
     
     output: true
-    permalink: teses/infraestrutura-nacao/:path/
+    permalink: /teses/infraestrutura-nacao/:path/
     
 
   bem_estar_habitante:
     
     output: true
-    permalink: teses/bem-estar-habitante/:path/
+    permalink: /teses/bem-estar-habitante/:path/
     
 
   search_enabled: true
