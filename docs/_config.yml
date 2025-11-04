@@ -1,0 +1,16 @@
+# Título e descrição do seu site
+title: A Biblioteca de Aetheria
+description: A tese intelectual e filosófica da Federação Aetheria.
+
+# Define o tema "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
+
+# Ativa o tema escuro como padrão
+just_the_docs:
+  color_scheme: "dark"
+
+# (Opcional) Link no topo da página para o seu Fórum
+# Lembre-se de atualizar [SEU_UTILIZADOR] com o seu nome de utilizador ou organização do GitHub
+aux_links:
+  "Fórum Soberano":
+    - "https://github.com/XDATCube/aetheria-sanctum/discussions"

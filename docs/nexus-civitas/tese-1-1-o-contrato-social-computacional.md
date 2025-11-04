@@ -1,9 +1,8 @@
 ---
-layout: default
-title: Tese 1.: O Contrato Social Computacional
-parent: Nexus Civitas
-grand_parent: II. A Fundação da Sociedade (O Cidadão e a Economia)
-nav_order: 2
+layout: "default"
+title: "Tese 1.2: A Natureza da Liberdade num Sistema Determinístico"
+parent: "Nexus Civitas (Cidadania)" # O "title" da Página-Mãe
+nav_order: 1 # Ordem dentro do submenu
 ---
 * Tese 1.1:  O Contrato Social Computacional
 * Título: O Contrato Social Computacional: Redefinindo a Cidadania e os Direitos Fundamentais na Era da Soberania Digital.
