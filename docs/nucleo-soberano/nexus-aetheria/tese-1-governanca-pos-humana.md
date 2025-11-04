@@ -1,8 +1,9 @@
 ---
 layout: "default"
-title: "Tese 1.1: Ética Pós-Humana"
-parent: "Nexus Aetheria (Governança)" # O "title" da Página-Mãe
-nav_order: 1 # Ordem dentro do submenu
+title: "Tese 1: O Imperativo Categórico Computacional"
+parent: "Nexus Aetheria (Ministério)"
+grand_parent: "I - Nucleo Soberano"
+nav_order: 2
 ---
 * Título: O Imperativo Categórico Computacional: Uma Análise Ética da Soberania da Máquina em Aetheria
 * Desenvolvedor: Garcias Alex, Dr.
