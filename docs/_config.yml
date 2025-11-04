@@ -19,28 +19,28 @@ just_the_docs:
   nucleo_soberano:
     name: "I. Núcleo Soberano"
     output: true
-    permalink: /nucleo-soberano/:path/
+    permalink: teses/nucleo-soberano/:path/
     sort_by: nav_order
     nav_order: 1
 
   fundacao_sociedade:
     name: "II. A Fundação da Sociedade (O Cidadão e a Economia)"
     output: true
-    permalink: /fundacao-sociedade/:path/
+    permalink: teses/fundacao-sociedade/:path/
     sort_by: nav_order
     nav_order: 2
 
   infraestrutura_nacao:
     name: "III. Infraestrutura da Nação"
     output: true
-    permalink: /infraestrutura-nacao/:path/
+    permalink: teses/infraestrutura-nacao/:path/
     sort_by: nav_order
     nav_order: 3
 
   bem_estar_habitante:
     name: "IV. Bem-Estar do Habitante"
     output: true
-    permalink: /bem-estar-habitante/:path/
+    permalink: teses/bem-estar-habitante/:path/
     sort_by: nav_order
     nav_order: 4
 
