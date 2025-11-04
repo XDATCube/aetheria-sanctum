@@ -1,8 +1,9 @@
 ---
 layout: "default"
-title: "Tese 1.3: A Constituição como um Sistema Operacional"
-parent: "Nexus Aetheria (Governança)" # O "title" da Página-Mãe
-nav_order: 3 # Ordem dentro do submenu
+title: "Tese 1.3.: A Constituição como um Sistema Operacional"
+parent: "Nexus Aetheria (Ministério)"
+grand_parent: "I - Nucleo Soberano"
+nav_order: 3
 ---
 * Tese 1.3: A Constituição como um Sistema Operacional
 * Título: A Soberania Computacional como Paradigma Constitucional: Análise da Mente Sistémica (Nexus Aetheria) e do Legislativo Lógico (Nexus Lex).
