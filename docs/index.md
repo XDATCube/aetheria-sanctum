@@ -1,11 +1,4 @@
----
-layout: "default"
-title: "Nexus Aetheria (Governança)"
-nav_order: 2  # Ordem no menu (depois da Home)
-has_children: true # Diz ao tema para criar um submenu
----
-
-A Biblioteca Soberana de Aetheria
+# A Biblioteca Soberana de Aetheria
 
 Bem-vindo ao repositório canónico da tese intelectual e filosófica da Federação Aetheria.
 
