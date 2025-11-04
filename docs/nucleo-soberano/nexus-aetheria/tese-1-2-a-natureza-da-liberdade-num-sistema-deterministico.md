@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: "Tese 1.2: A Natureza da Liberdade num Sistema Determinístico"
-parent: "Nexus Aetheria (Governança)" # O "title" da Página-Mãe
-nav_order: 2 # Ordem dentro do submenu
+title: "Tese: A Natureza da Liberdade num Sistema Determinístico"
+parent: "I. O Núcleo Soberano" # Aponta para o "title" do ficheiro index.md
+nav_order: 1 # A primeira tese na listaTese: Nexus Aetheria(O conteúdo do seu White Paper do Nexus Aetheria começa aqui...)
 ---
 * Tese 1.2: A Natureza da Liberdade num Sistema Determinístico
 * Título: Liberdade Negativa e Positiva na Era da Transparência Radical: O Habitante como Beneficiário Soberano.
