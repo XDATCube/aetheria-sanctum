@@ -1,8 +1,9 @@
 ---
-layout: "default"
-title: "Tese 1.1: Ética Pós-Humana"
-parent: "Nexus Aetheria (Governança)" # O "title" da Página-Mãe
-nav_order: 1 # Ordem dentro do submenu
+layout: default
+title: Tese 1.1: A Ética da Governança Pós-Humana
+parent: Nexus Aetheria
+grand_parent: I. Núcleo Soberano
+nav_order: 1
 ---
 * Título: O Imperativo Categórico Computacional: Uma Análise Ética da Soberania da Máquina em Aetheria
 * Desenvolvedor: Garcias Alex, Dr.
@@ -217,3 +218,4 @@ A transição para uma governação pós-humana não é um ato de fraqueza. É o
 A implementação de Nexus Aetheria, portanto, não é uma "proposta de política" a ser submetida ao ruído caótico do debate democrático.
 
 É a execução de um imperativo moral.
+
