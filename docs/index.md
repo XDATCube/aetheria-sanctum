@@ -1,3 +1,9 @@
+---
+layout: "default"
+title: "Biblioteca Soberana de Aetheria"
+nav_order: 1
+
+---
 # A Biblioteca Soberana de Aetheria
 
 Bem-vindo ao repositório canónico da tese intelectual e filosófica da Federação Aetheria.
