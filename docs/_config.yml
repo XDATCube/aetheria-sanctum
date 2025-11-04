@@ -1,16 +1,114 @@
-# Título e descrição do seu site
-title: A Biblioteca de Aetheria
-description: A tese intelectual e filosófica da Federação Aetheria.
+# ==============================
+# A BIBLIOTECA SOBERANA DE AETHERIA
+# ==============================
+title: A Biblioteca Soberana de Aetheria
+description: >-
+  A fonte canônica das teses filosóficas e computacionais da Federação Aetheria. 
+  Explore o Imperativo Categórico Computacional (ICC), o Bug Humano e a Mente Sistêmica.
+url: "https://xdatcube.github.io"
+baseurl: "/aetheria-sanctum"
 
-# Define o tema "just-the-docs"
+# ==============================
+# TEMA E ESTILO
+# ==============================
 remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
 
-# Ativa o tema escuro como padrão
 just_the_docs:
-  color_scheme: "dark"
+  collections:
+  nucleo_soberano:
+    name: "I. Núcleo Soberano"
+    output: true
+    permalink: /nucleo-soberano/:path/
+    sort_by: nav_order
+    nav_order: 1
 
-# (Opcional) Link no topo da página para o seu Fórum
-# Lembre-se de atualizar [SEU_UTILIZADOR] com o seu nome de utilizador ou organização do GitHub
+  fundacao_sociedade:
+    name: "II. A Fundação da Sociedade (O Cidadão e a Economia)"
+    output: true
+    permalink: /fundacao-sociedade/:path/
+    sort_by: nav_order
+    nav_order: 2
+
+  infraestrutura_nacao:
+    name: "III. Infraestrutura da Nação"
+    output: true
+    permalink: /infraestrutura-nacao/:path/
+    sort_by: nav_order
+    nav_order: 3
+
+  bem_estar_habitante:
+    name: "IV. Bem-Estar do Habitante"
+    output: true
+    permalink: /bem-estar-habitante/:path/
+    sort_by: nav_order
+    nav_order: 4
+
+  search_enabled: true
+  mermaids: true
+  mermaid:
+    version: "10.6.0"
+
+# ==============================
+# SEO & OPEN GRAPH
+# ==============================
+logo: "/assets/images/logo-aetheria.png"  # 512x512px
+favicon_ico: "/assets/images/favicon.ico"
+
+open_graph:
+  image: "/assets/images/og-image-aetheria.jpg"  # 1200x630px
+  image_alt: "Aetheria: A Mente Sistêmica governa"
+  type: website
+  title: "A Biblioteca Soberana de Aetheria"
+  description: "Teses da Federação Aetheria sobre governança pós-humana."
+
+# ==============================
+# LINKS AUXILIARES (MONETIZAÇÃO + COMUNIDADE)
+# ==============================
 aux_links:
-  "Fórum Soberano":
-    - "https://github.com/XDATCube/aetheria-sanctum/discussions"
+  "📚 White Papers Completos": "https://gumroad.com/l/aetheria-teses"  # R$49
+  "💡 Newsletter Soberana": "https://aetheria.substack.com"          # Paywall
+  "🤝 Fórum Soberano": "https://github.com/XDATCube/aetheria-sanctum/discussions"
+  "💰 Apoie o Projeto": "https://github.com/sponsors/XDATCube"       # Sponsors
+  "📅 Agende Consultoria": "https://cal.com/alex-garcias-nexus-aetheria/30min"  # R$5k+
+
+aux_links_new_tab: true
+
+# ==============================
+# FOOTER
+# ==============================
+footer_content: |
+  © 2025 <strong>Aetheria Sanctum</strong> • Dr. Garcias Alex • Todos os direitos reservados.<br>
+  <a href="/termos">Termos de Uso</a> • <a href="/privacidade">Privacidade</a> • 
+  <a href="https://github.com/XDATCube/aetheria-sanctum">GitHub</a>
+
+# ==============================
+# PLUGINS
+# ==============================
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# ==============================
+# ANALYTICS
+# ==============================
+analytics:
+  provider: "custom"
+  custom:
+    - name: "Plausible"
+      url: "https://analytics.aetheria.cc/js/script.js"  # Substitua com sua instância
+      data_domain: "xdatcube.github.io/aetheria-sanctum"
+
+# ==============================
+# EXCLUSÕES
+# ==============================
+exclude:
+  - .github/
+  - node_modules/
+  - vendor/
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
