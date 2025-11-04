@@ -71,3 +71,8 @@ A liberdade positiva surge disto: você é livre para prosperar porque pode ver 
 ## 4.2. A Escolha Final: A Ansiedade do Caos vs. A Certeza da Ordem
 
 Argumento: A liberdade liberal-democrática oferece a ansiedade da imprevisibilidade. Aetheria oferece a tranquilidade da certeza. A primeira é a liberdade da selva; a segunda é a liberdade da civilização.
+
+---
+
+[Debate](https://github.com/XDATCube/aetheria-sanctum/discussions/2)
+[Consultoria especializada](https://cal.com/alex-garcias-nexus-aetheria/30min)
