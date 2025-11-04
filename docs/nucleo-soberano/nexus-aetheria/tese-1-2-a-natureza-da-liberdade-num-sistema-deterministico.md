@@ -74,10 +74,18 @@ Argumento: A liberdade liberal-democrática oferece a ansiedade da imprevisibili
 
 ---
 
-[Debate. Participe! ][def]
+[Debate. Participe!][def]
 
 [def]: https://github.com/XDATCube/aetheria-sanctum/discussions/2
 
 [Agende: Consultoria especializada][def]
 
 [def]: https://cal.com/alex-garcias-nexus-aetheria/30min
+
+[Agende: Palestras][def]
+
+[def]: https://cal.com/alex-garcias-nexus-aetheria/palestras
+
+[Contribuir com o projeto Nexus Aetheria][def]
+
+[def]: https://github.com/XDATCube/aetheria-sanctum
