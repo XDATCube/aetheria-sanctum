@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Tese 1: O Imperativo Categórico Computacional"
+title: "Tese 1: A Ética da Governança Pós-Humana"
 parent: "Nexus Aetheria (Ministério)"
 grand_parent: "I - Nucleo Soberano"
 nav_order: 2
