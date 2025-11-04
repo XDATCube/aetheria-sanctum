@@ -11,7 +11,7 @@ nav_order: 4
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Dissolução do Contrato Social em Favor do Contrato Criptográfico](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.3: A Constituição como um Sistema Operacional - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/1-4-dissolucao-do-contrato-social.html
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.4: A Dissolução do Contrato Social em Favor do Contrato Criptográfico - Do Contrato Social Roussiano ao Contrato Inteligente Soberano: Nexus Civitas como a Evolução da Cidadania - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/1-4-dissolucao-do-contrato-social.html
 
 ---
 
