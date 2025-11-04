@@ -18,4 +18,5 @@ nav_order: 4
 Resumo (Abstract)
 
 Em desenvolvimento...
-Este paper argumenta que o "contrato social" é um conceito abstrato e violável, enquanto o contrato criptográfico" de Aetheria é uma garantia matemática e inviolável. Analisará como a identidade soberana (NXC) e a interação com os protocolos da Federação constituem uma forma superior de acordo civil, baseado em consentimento explícito e verificável para cada interação.
+
+Este White Paper argumenta que o "contrato social" é um conceito abstrato e violável, enquanto o contrato criptográfico" de Aetheria é uma garantia matemática e inviolável. Analisará como a identidade soberana (NXC) e a interação com os protocolos da Federação constituem uma forma superior de acordo civil, baseado em consentimento explícito e verificável para cada interação.
