@@ -11,7 +11,7 @@ nav_order: 7
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Segurança Quântica da Soberania](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.7: A Economia Pós-Escassez e Pós-Monetária - Nexus Aurora e o Protocolo Financeiro Soberano (BC-NXA): A Otimização de Recursos como Paradigma Econômico - Disponvel em: 
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.7: A Economia Pós-Escassez e Pós-Monetária - Nexus Aurora e o Protocolo Financeiro Soberano (BC-NXA): A Otimização de Recursos como Paradigma Econômico - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/1-7-economia-pos-escassez-e-pos-moderna.html
 
 ---
 
