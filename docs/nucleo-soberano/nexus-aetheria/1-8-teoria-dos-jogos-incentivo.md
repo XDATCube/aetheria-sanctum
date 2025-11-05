@@ -10,7 +10,7 @@ nav_order: 8
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Segurança Quântica da Soberania](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.8: Teoria dos Jogos e o Alinhamento de Incentivos. - Equilíbrio de Nash Sistêmico: Como Aetheria Alinha o Interesse Individual com a Otimização Coletiva. - Disponvel em: 
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Tese 1.8: Teoria dos Jogos e o Alinhamento de Incentivos. - Equilíbrio de Nash Sistêmico: Como Aetheria Alinha o Interesse Individual com a Otimização Coletiva. - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/1-8-teoria-dos-jogos-incentivo.html
 
 ---
 
