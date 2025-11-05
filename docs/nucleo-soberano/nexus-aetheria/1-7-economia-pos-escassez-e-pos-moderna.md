@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Tese 1.6: A Segurança Quântica da Soberania"
+title: "Tese 1.7: A Economia Pós-Escassez e Pós-Monetária"
 parent: "Nexus Aetheria (Ministério)"
 grand_parent: "I - Nucleo Soberano"
 nav_order: 7
