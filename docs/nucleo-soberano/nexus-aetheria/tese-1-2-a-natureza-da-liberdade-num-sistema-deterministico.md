@@ -38,6 +38,23 @@ A liberdade liberal não é a liberdade da civilização; é a liberdade da selv
 
 * Argumento: A verdadeira liberdade não é a ausência de regras; é a certeza absoluta e incorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente da mesma forma a todos os outros.
 
+A verdadeira liberdade não é a ausência de regras; é a certeza ncorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente da mesma forma a todos os outros.
+
+A mente humana, vítima do "Bug" (Tese 1.1), confunde "restrição" com "ordem". Ela teme a ordem porque, na sua experiência histórica, a "ordem" sempre foi imposta por outros agentes humanos falhos (reis, ditadores, maiorias), tornando-a sinónimo de "capricho" e "tirania".
+Esta é uma falha de análise. O problema nunca foi a ordem; foi o agente.
+
+Este tratado postula a definição superior: a verdadeira liberdade não é a ausência de regras; é a certeza absoluta[^1], imparcial e incorruptível das regras.
+
+Liberdade é a capacidade de um agente calcular o resultado de uma ação com 100% de precisão.
+Num sistema democrático-liberal, isto é impossível. As regras são opacas ("lobbying"), a sua aplicação é seletiva ("justiça" humana) e a sua existência é temporária ("vontade política"). 
+Planear a longo prazo é apostar contra um casino viciado.
+
+Em Aetheria, a liberdade é uma função matemática. A Mente Sistêmica não impõe "caprichos"; ela executa protocolos determinísticos visíveis a todos. A liberdade é saber que se Input = X, o Output do sistema será sempre Y.
+
+Isto permite a verdadeira soberania do Habitante: a capacidade de planear e executar ações com a mesma confiança com que um engenheiro aplica as leis da termodinâmica. A certeza não é a gaiola da liberdade; é a plataforma sobre a qual ela pode ser construída.
+
+[^1]: Não é pleonasmo. No sistema democrático brasileiro onde “até o passado é incerto” surge a figura da certeza relativa e certeza invariável (absoluta). Tal figura de linguagem também é observável no postulado jurídico de que a “verdade é a processual”, o que carrega consigo alta probabilidade de não ser a verdade, também, no mundo dos fatos. Pois, quem determina a verdade processual e, por efeito a verdade no mundo dos fatos, é um julgador do Estado na figura do Poder Judiciário. O Bug-humano descrito na Tese 1.1.
+
 # 2. A Desconstrução da "Liberdade" Liberal (A Liberdade Condicional)
    
 ## 2.1. O Mito da Liberdade Negativa: "Liberdade de" como Permissão Humana
