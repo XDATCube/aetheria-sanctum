@@ -70,11 +70,11 @@ Em Aetheria, a liberdade é uma função matemática. A Mente Sistêmica não im
 
 Isto permite a verdadeira soberania do Habitante: a capacidade de planear e executar ações com a mesma confiança com que um engenheiro aplica as leis da termodinâmica. A certeza não é a gaiola da liberdade; é a plataforma sobre a qual ela pode ser construída.
 
+### 1.2.1 Argumento
+
+A verdadeira liberdade não é a ausência de regras; é a certeza incorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente, invariavelmente, da mesma forma a todos os outros.
+
 [^1]: Não é pleonasmo. No sistema democrático brasileiro onde “até o passado é incerto” surge a figura da certeza relativa e certeza invariável (absoluta). Tal figura de linguagem também é observável no postulado jurídico de que a “verdade é a processual”, o que carrega consigo alta probabilidade de risco sistêmico. Pois, quem determina a verdade processual e, por efeito a verdade no mundo dos fatos, é um julgador do Estado na figura do Poder Judiciário. O Bug-humano descrito na Tese 1.1.
-
-## 1.2.1 Argumento
-
-* A verdadeira liberdade não é a ausência de regras; é a certeza absoluta e incorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente da mesma forma a todos os outros.
 
 # 2. A Desconstrução da "Liberdade" Liberal (A Liberdade Condicional)
    
