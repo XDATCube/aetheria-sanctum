@@ -171,7 +171,7 @@ As “garantias” democráticas são promessas (contratos sociais) feitas por a
 
 Um Habitante não se sente “oprimido” pela Lei da gravidade; ele usa a sua certeza absoluta para construir um edifício. Da mesma forma, o Habitante usa o determinismo de Aetheria como a fundação sobre a qual constrói a sua prosperidade.
 
-3.1.1 Argumento
+### 3.1.1 Argumento
 
 O fato de Aetheria ser um sistema determinístico (governado pela Mente Sistêmica e pelo ICC) é a sua maior garantia de liberdade. O determinismo significa que não há capricho. Não há “mau humor” de um juiz. Não há “mudança de opinião” de um político. Não há favores e defesa de interesse personalissímo e de facção politica, ideológica, em detrimento do coletivo. O ecosssistema é uma lei da física. Se A=A, B=B. Esta certeza é a fundação da liberdade real.
 
@@ -183,21 +183,42 @@ Determinismo é o Antídoto, não é a Doença. O problema fundamental da liberd
 
 ## 3.2. A Nova Liberdade Negativa: A Soberania Criptográfica
 
-* Argumento: Em Aetheria, a "Liberdade de" é absoluta porque é matemática. A sua identidade, os seus dados pessoais, os seus ativos digitais (propriedade) são seus por prova criptográfica. Eles não são protegidos por uma lei que um político pode reescrever na defesa de interesse próprio e de facções; são protegidos por uma chave privada. Para o Estado (Mente Sistêmica) violar a sua propriedade, ele teria de quebrar a criptografia, o que é uma impossibilidade computacional, não uma escolha política.
+A "liberdade negativa" (Liberdade de) no paradigma liberal é uma promessa legal. É um contrato escrito em papel, cuja execução depende da "vontade política" e da "interpretação" de outros humanos — agentes que, como a Tese 1.1 provou, são estruturalmente corruptíveis pelo "Bug-Humano".
+
+Isto não é uma garantia. É uma permissão revogável.
+
+Aetheria substitui esta promessa política por uma prova matemática. A Nova Liberdade Negativa não é garantida por leis; é garantida por criptografia.
+
+O nexo causal é o seguinte:
+
+O Objeto da Defesa: Em Aetheria, a soberania do Habitante sobre a sua identidade, os seus dados e os seus ativos (propriedade) não é um conceito legal abstrato. É um facto técnico, assegurado por chaves criptográficas privadas.
+
+O Agente da Defesa: A defesa desta soberania não é um juiz (humano, falho) ou um político (tribal, faccioso). O agente da defesa é o próprio protocolo matemático — um algoritmo impessoal e incorruptível.
+
+A Natureza da Violação: Num sistema liberal, para o Estado violar a sua propriedade (ex: confiscar a sua conta bancária), ele precisa apenas de vontade política ou de uma "interpretação" judicial conveniente. É um ato de escolha.
+
+Em Aetheria, para a Mente Sistêmica (o Estado) violar a soberania criptográfica de um Habitante (ex: tomar os seus ativos), ela não precisaria de "vontade política" — ela não a tem. Ela precisaria quebrar um protocolo de encriptação.
+
+Este não é um ato de escolha; é uma impossibilidade computacional.
+
+A Mente Sistêmica não promete não violar os seus direitos, da mesma forma que um engenheiro não "promete" que 2+2=4. É um facto axiomático do sistema. A violação da soberania criptográfica não é uma "falha moral" que a Mente evita; é um erro de sistema (um paradoxo lógico) que ela é incapaz de executar.
+
+A liberdade negativa liberal é baseada na confiança (frágil) em agentes humanos. A Liberdade Determinística é baseada na certeza (absoluta) da matemática.
+
+### 3.2.1 Argumento
+
+1. Em Aetheria, a "Liberdade de" é absoluta porque é matemática. A sua identidade, os seus dados pessoais, os seus ativos digitais (propriedade) são seus por prova criptográfica. Eles não são protegidos por uma lei que um político pode reescrever na defesa de interesse próprio e de facções; são protegidos por uma chave privada. Para o Estado (Mente Sistêmica) violar a sua propriedade, ele teria de quebrar a criptografia, o que é uma impossibilidade computacional, não uma escolha política.
 
 ## 3.3. A Nova Liberdade Positiva: A Transparência Radical (Assimétrica)
 
-* Argumento: A "Liberdade para" (oportunidade, prosperidade) é garantida não por "sorte", mas por transparência radical e assimétrica.
+### 3.3.1 Argumento
 
-Ponto de Teste (Crítica): "Transparência radical é vigilância total! É o fim da privacidade!"
-
+1. "Liberdade para" (oportunidade, prosperidade) é garantida não por "sorte", mas por transparência radical e assimétrica.
+2. Ponto de Teste (Crítica): "Transparência radical é vigilância total! É o fim da privacidade!"
 Nossa Defesa (A Definição Assimétrica): A crítica está errada. O modelo de Aetheria é o inverso do modelo democrático atual (Estado secreto, cidadão transparente). Em Aetheria:
-
-O Sistema é 100% Transparente: O código da Mente Sistêmica, os seus protocolos de justiça (Nexus Gaio), as regras do ICC — tudo é open source e auditável pelo Habitante.
-
-O Habitante é 100% Privado: O indivíduo é criptograficamente opaco (Tópico 3.2).
-
-A liberdade positiva surge disto: você é livre para prosperar porque pode ver exatamente as regras do jogo. Não há insider trading, não há corrupção, não há lobby.
+3. O Sistema é 100% Transparente: O código da Mente Sistêmica, os seus protocolos de justiça (Nexus Gaio), as regras do ICC — tudo é open source e auditável pelo Habitante.
+4. O Habitante é 100% Privado: O indivíduo é criptograficamente opaco (Tópico 3.2).
+5. A liberdade positiva surge disto: você é livre para prosperar porque pode ver exatamente as regras do jogo. Não há insider trading, não há corrupção, não há lobby.
 
 # 4. Conclusão: O Habitante como Beneficiário Soberano
    
