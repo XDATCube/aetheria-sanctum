@@ -5,6 +5,7 @@ parent: "Nexus Aetheria (Ministério)"
 grand_parent: "I - Nucleo Soberano"
 nav_order: 2
 ---
+* Tipo: White Paper
 * Tese 1.2: A Natureza da Liberdade num Sistema Determinístico
 * Título: Liberdade Negativa e Positiva na Era da Transparência Radical: O Habitante como Beneficiário Soberano.
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
@@ -53,16 +54,17 @@ Necessário é cindir as Liberdades em dois algorítimos independentes e não ha
 
 Para uma definição superior sobre as Liberdades, no argumento exclui-se da fórmula, a condição de que Liberdades é igual à ausência de regras. 
 
-Invariavelmente, na definição superior sobre as Liberdades inclui-se a certeza absoluta1, imparcial e incorruptível das regras.[^1]
+Invariavelmente, na definição superior sobre as Liberdades inclui-se a certeza absoluta, imparcial e incorruptível das regras.[^1]
 
 As Liberdades são, portanto, definidas como: ação, reação, omissão humana com finalidade de, somente e tão somente, ter conduta ou comportamento que a legislação não proíbe.
 
-Logo, é impossível as Liberdades ilimitadas. A vida em sociedade exige, como constante inviolável, regras (legislação) para o convívio social. As Liberdades do cidadão X, terminam quando começam as Liberdades do cidadão Y.
+Logo, é impossível as Liberdades ilimitadas. A vida em sociedade exige, como constante inviolável, regras (legislação) para o convívio social. As Liberdades do cidadão X, terminam quando começam as Liberdades do cidadão Y. 
+
+Quanto ao Estado (Homo Sapiens nos 3 Poderes da República) pode fazer ou não fazer, somente e tão somente, o que a Legislação permite.
 
 No entanto, é possível e necessário a definição das Liberdades como previsível.
 
-Liberdade é a capacidade de um agente calcular o resultado de uma ação com 100% de precisão.
-Num sistema democrático liberal, isto é impossível. As regras são opacas ("lobbying"), a sua aplicação é seletiva (“justiça” humana) e a sua existência é temporária (“vontade política”). 
+Liberdades é a capacidade de um agente calcular o resultado da conduta ou comportamento com 100% de precisão. Ou seja, capacidade de conhecer e ter certeza invariável de que determinada conduta ou comportamento é permitido ou proibido, independente da interpretação das facções no Poder.s 
 
 Planear a longo prazo é apostar contra um dado viciado.
 
