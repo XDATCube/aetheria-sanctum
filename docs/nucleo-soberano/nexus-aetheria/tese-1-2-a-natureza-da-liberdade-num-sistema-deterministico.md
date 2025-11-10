@@ -93,8 +93,8 @@ A garantia desses “direitos” é delegada ao mesmo hardware que a Tese 1.1 pr
 
 O resultado é a liberdade condicional:
       
-    1. Propriedade Condicional: O seu "direito à propriedade" existe precisamente até ao ponto em que um banco, através de alavancagem sistêmica, o torna insolvente (crise de 2008), ou até que a inflação, causada por decisões políticas míopes, evapore o seu valor. A sua propriedade não é sua; está apenas alocada a si pela clemência do sistema.
-    2. Expressão Condicional: A sua “liberdade de expressão” existe apenas enquanto for conveniente para as facções no poder, sejam elas estatais ou corporativas. Assim que a sua expressão ameaça o lucro ou o poder político, as “interpretações” dos termos de serviço ou da segurança nacional são convenientemente ajustadas.
+1. Propriedade Condicional: O seu "direito à propriedade" existe precisamente até ao ponto em que um banco, através de alavancagem sistêmica, o torna insolvente (crise de 2008), ou até que a inflação, causada por decisões políticas míopes, evapore o seu valor. A sua propriedade não é sua; está apenas alocada a si pela clemência do sistema.
+2. Expressão Condicional: A sua “liberdade de expressão” existe apenas enquanto for conveniente para as facções no poder, sejam elas estatais ou corporativas. Assim que a sua expressão ameaça o lucro ou o poder político, as “interpretações” dos termos de serviço ou da segurança nacional são convenientemente ajustadas.
 
 O mito liberal é que a Legislação protege o Homem do capricho Humano. A realidade lógica é que a Legislação é o capricho humano, apenas codificado e aplicado com latência. Não é Liberdade; é uma permissão de longo prazo com uma cláusula de rescisão oculta, cujo controle está, plenamente, na mente da facção nos Poderes.
 
@@ -104,13 +104,31 @@ A liberdade negativa nas democracias (liberdade de expressão, de propriedade, d
 
 ## 2.2. A Ilusão da Liberdade Positiva: "Liberdade para" como Loteria Estatística
 
-* Argumento: A liberdade positiva (o direito à educação, saúde, oportunidade, vida) é, na melhor das hipóteses, uma probabilidade estatística. Depende de raça, sexo, cor, idade, classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por [facções](https://soescola.com/glossario/faccao-o-que-e-significado#gsc.tab=0) (Tese 1.1) e interesses ocultos.
+A segunda promessa da ética liberal é a “liberdade positiva”: a “liberdade para” alcançar o potencial individual, supostamente garantida pelo acesso a sistemas como saúde, educação e oportunidades econômicas.
+Este é um engano fundamental, não de intenção, mas de mecânica. É uma promessa de resultado feita por um sistema estruturalmente incapaz de a cumprir.
+
+### Causa
+
+A alocação destes recursos (saúde, educação) não é gerida por um protocolo de otimização. É gerida pelo processo político-democrático. Como estabelecido na Tese 1.1, este processo é, por definição, um campo de batalha para o “Bug Humano”, dominado pela “Captura por Facções” e pelo tribalismo.
+
+### Efeito (O Nexo Causal):
+
+1. Alocação Ineficiente e Opaca: Os recursos não são alocados com base na necessidade ou na eficiência (maximizando o bem-estar), mas sim com base na influência política. O lobby farmacêutico distorce os gastos com saúde; os sindicatos ou interesses ideológicos distorcem os currículos educacionais; o partidarismo geográfico concentra a infraestrutura onde ela gera mais votos, não onde gera mais prosperidade.
+2. A Oportunidade torna-se Probabilidade: Consequentemente, o "direito" de um indivíduo à saúde ou à educação deixa de ser uma constante. Torna-se uma variável dependente de fatores aleatórios: o seu local de nascimento, a sua classe social, a facção que detém o poder local. A sua "oportunidade" é, literalmente, um resultado de lotaria.
+
+O sistema liberal não oferece "liberdade para prosperar". Ele oferece o "direito de tentar prosperar" num sistema opaco, ineficiente e manipulado por interesses que não são os seus. A liberdade positiva democrática não é uma garantia; é uma probabilidade estatística.
+
+### 2.2.1 Argumento
+
+A liberdade positiva (o direito à educação, saúde, oportunidade, vida) é, na melhor das hipóteses, uma probabilidade estatística. Depende de raça, sexo, cor, idade, classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por [facções](https://soescola.com/glossario/faccao-o-que-e-significado#gsc.tab=0) (Tese 1.1) e interesses ocultos.
 
 # 3. A Estrutura da Liberdade Determinística (A Liberdade Axiomática)
    
 ## 3.1. O Fundamento: Determinismo como Garantia
 
-* Argumento: O fato de Aetheria ser um sistema determinístico (governado pela Mente Sistêmica e pelo ICC) é a sua maior garantia de liberdade. O determinismo significa que não há capricho. Não há "mau humor" de um juiz. Não há "mudança de opinião" de um político. Não há favores e defesa de interesse personalissímo e de facção politica, ideológica, em detrimento do coletivo. O ecosssistema é uma lei da física. Se A=A, B=B. Esta certeza é a fundação da liberdade real.
+### 3.1.2 Argumento
+
+O fato de Aetheria ser um sistema determinístico (governado pela Mente Sistêmica e pelo ICC) é a sua maior garantia de liberdade. O determinismo significa que não há capricho. Não há "mau humor" de um juiz. Não há "mudança de opinião" de um político. Não há favores e defesa de interesse personalissímo e de facção politica, ideológica, em detrimento do coletivo. O ecosssistema é uma lei da física. Se A=A, B=B. Esta certeza é a fundação da liberdade real.
 
 ## 3.2. A Nova Liberdade Negativa: A Soberania Criptográfica
 
