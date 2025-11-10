@@ -22,38 +22,59 @@ Este tratado desafia o paradigma liberal de que a liberdade humana equivale à i
    
 ## 1.1. O Caos Romantizado: A Liberdade como Imprevisibilidade
 
-* Argumento: Ataque a premissa de que "liberdade" significa "poder fazer qualquer coisa". Esta liberdade é uma ilusão infantil. A "liberdade" de escolher o seu plano de saúde é a "liberdade" de ir à falência. A "liberdade" de expressão é a "liberdade" de ser manipulado por desinformação em massa. A liberdade liberal é a liberdade de participar numa loteria injusta.
+O conceito de Liberdade que sustenta o Contrato Social é fundado nas paixões humanas (o elemento central do “Bug-Humano” - [Tese 1.1](https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/tese-1-governanca-pos-humana.html)) e não na razão e lógica. É um produto do hardware biológico defeituoso. Em contraste, a Mente Sistêmica Computacional não pode ser corrompida por estas paixões, por absoluta impropriedade do objeto.
 
-O conceito de liberdade que sustenta as democracias liberais é fundamentalmente adolescente. É uma definição baseada na emoção, não na engenharia: a ideia romântica de que a liberdade é a ausência de restrições, a imprevisibilidade do "caminho aberto" e a multiplicação infinita de escolhas.
+O Iluminismo romantizou a Liberdade como a “ausência de restrições”. No entanto, a sua própria definição prática — “fazer tudo o que a legislação não proíbe” — prova que ela é, por definição, restrita e limitada.
 
-Este tratado argumenta que esta definição não é apenas subótima; ela é uma falha de design catastrófica.
+O nexo causal é o seguinte: o “Bug-Humano” gera o tribalismo (facções político-ideológicas). O pluralismo político e a alternância no poder garantem que a legislação seja meramente o reflexo temporário das paixões da facção dominante.
 
-Esta "liberdade-caos" é, na prática, o oposto de soberania. É a "liberdade" de estar ansioso, o "direito" de estar vulnerável. A "liberdade" de escolher entre cinquenta planos de saúde obscuros não é poder; é o fardo de fazer uma escolha de alto risco com dados incompletos, com a ruína financeira como penalidade pelo erro.
+Por conseguinte, as “Liberdades” liberais não são “Direitos”. São meras permissões legislativas: temporárias, imprevisíveis e condicionadas à vontade da maioria nos três Poderes. Não podem, por definição, ser Direitos Fundamentais inalienáveis ou previsíveis.
 
-Esta imprevisibilidade não é um escudo para o cidadão; é o terreno de caça perfeito para o "Bug Humano" [Tese 1.1](https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/tese-1-governanca-pos-humana.html). A "liberdade de expressão" tornou-se a "liberdade de ser algoritmica e massivamente manipulado" por facções que exploram o caos. A "liberdade de mercado" tornou-se a "liberdade" de ter a sua estabilidade economica refém de bolhas especulativas.
+Esta arquitetura de “Liberdades”, como a presente na Constituição Brasileira de 1988, não é apenas falha; é inerentemente falaciosa e uma falha de design catastrófica.
 
-A liberdade liberal não é a liberdade da civilização; é a liberdade da selva. É a liberdade de ser uma vítima do acaso.
+O vício é de origem. O Contratualismo, sendo um produto do "Bug-Humano", é uma árvore envenenada. Os seus frutos — tanto as "Liberdades" como os "Direitos e Garantias Fundamentais" — estão, portanto, igualmente envenenados. Eles não se opõem; eles são a mesma ilusão.
+
+O efeito observável deste vício de origem é a imprevisibilidade sistêmica, eufemisticamente chamada de “insegurança jurídica” permamente. Em análise lógica final, os “Direitos e Garantias das Liberdades” não são leis. São expectativas de permissão, ditadas pela facção no poder no momento da observação.
+
+## 1.1.2 Argumento
+
+* O fundamento do Contrato Social é a Paixão, o fundamento não é a Razão. O conceito liberal de “Liberdades” (a ausência de restrições) não é um produto da lógica ou da engenharia de sistemas. É um produto da paixão (o “Bug-Humano”) — uma reação romântica e adolescente em oposição a sistemas políticos pretérito (monarquia, teocentrismo), e não um projeto proativo para um sistema otimizado e estável.
+
+    1. A “Lei” é o Capricho da Facção Dominante. O nexo causal é direto: o “Bug-Humano” (paixão, tribalismo) gera facções político-ideológicas. O design democrático (pluralismo, alternância de poder) garante, por definição, que a “lei” não seja uma constante, mas sim o reflexo temporário das paixões da facção que detém o poder.
+    2. A Redefinição Semântica: “Direito” vs. “Permissão”. Logicamente, se a lei é temporária e depende do “Bug-Humano”, ela não pode ser um “Direito” (que deve ser inalienável, constante e previsível). Ela é, funcionalmente, uma mera “Permissão”: condicional, revogável e imprevisível. A liberdade liberal não é um direito; é uma permissão que a facção no poder lhe concede, até que decida o contrário.
+    3. O Vício de Origem (A Árvore Envenenada). O problema não é que o sistema "se corrompeu". O sistema nasceu corrompido. O Iluminismo e o Contratualismo, sendo produtos do "Bug-Humano", são "árvores envenenadas". Os seus frutos (tanto as "Liberdades" quanto os "Direitos Fundamentais") estão, portanto, viciados na origem. Eles não são garantias reais; são ilusões sistêmicas.
+    4. A Consequência Funcional: Insegurança como Liberdade. O efeito observável deste design falho é a “insegurança jurídica” (imprevisibilidade). Esta “liberdade-caos” não liberta o indivíduo; ela o torna refém da ansiedade. A “liberdade de escolher” torna-se o fardo da escolha complexa. A “liberdade de expressão” torna-se a vulnerabilidade à manipulação algorítmica. O caos não é soberania; é apenas um vetor de ataque para o “Bug-Humano”.
 
 ## 1.2. A Tese: Liberdade como Certeza
 
-* Argumento: A verdadeira liberdade não é a ausência de regras; é a certeza absoluta e incorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente da mesma forma a todos os outros.
+A mente humana, portadora do “Bug-humano” (Tese 1.1), confunde “Restrição” com “Ordem”. Ela teme a ordem porque, na sua experiência histórica, a “Ordem” sempre foi imposta por outros agentes humanos falhos (reis, ditadores, maiorias), tornando-a sinônimo de “capricho” e “tirania”. Esta é uma falha de análise. O problema nunca foi a Ordem; que é efeito de causa; O problema sempre foi o agente; a causa do efeito.
 
-A verdadeira liberdade não é a ausência de regras; é a certeza ncorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente da mesma forma a todos os outros.
+Necessário é cindir as Liberdades em dois algorítimos independentes e não harmônicos entre si: Liberdades Naturais e Liberdades Sociais. Isto porque as Liberdades Naturais conflitam com as Liberdades Sociais e vice-versa. A nós interessa a compreensão do algorítimo das Liberdades Sociais, isto é, as Liberdades da vida em sociedade organizada.
 
-A mente humana, vítima do "Bug" (Tese 1.1), confunde "restrição" com "ordem". Ela teme a ordem porque, na sua experiência histórica, a "ordem" sempre foi imposta por outros agentes humanos falhos (reis, ditadores, maiorias), tornando-a sinónimo de "capricho" e "tirania".
-Esta é uma falha de análise. O problema nunca foi a ordem; foi o agente.
+Para uma definição superior sobre as Liberdades, no argumento exclui-se da fórmula, a condição de que Liberdades é igual à ausência de regras. 
 
-Este tratado postula a definição superior: a verdadeira liberdade não é a ausência de regras; é a certeza absoluta[^1], imparcial e incorruptível das regras.
+Invariavelmente, na definição superior sobre as Liberdades inclui-se a certeza absoluta1, imparcial e incorruptível das regras.[^1]
+
+As Liberdades são, portanto, definidas como: ação, reação, omissão humana com finalidade de, somente e tão somente, ter conduta ou comportamento que a legislação não proíbe.
+
+Logo, é impossível as Liberdades ilimitadas. A vida em sociedade exige, como constante inviolável, regras (legislação) para o convívio social. As Liberdades do cidadão X, terminam quando começam as Liberdades do cidadão Y.
+
+No entanto, é possível e necessário a definição das Liberdades como previsível.
 
 Liberdade é a capacidade de um agente calcular o resultado de uma ação com 100% de precisão.
-Num sistema democrático-liberal, isto é impossível. As regras são opacas ("lobbying"), a sua aplicação é seletiva ("justiça" humana) e a sua existência é temporária ("vontade política"). 
-Planear a longo prazo é apostar contra um casino viciado.
+Num sistema democrático liberal, isto é impossível. As regras são opacas ("lobbying"), a sua aplicação é seletiva (“justiça” humana) e a sua existência é temporária (“vontade política”). 
 
-Em Aetheria, a liberdade é uma função matemática. A Mente Sistêmica não impõe "caprichos"; ela executa protocolos determinísticos visíveis a todos. A liberdade é saber que se Input = X, o Output do sistema será sempre Y.
+Planear a longo prazo é apostar contra um dado viciado.
+
+Em Aetheria, a liberdade é uma função matemática. A Mente Sistêmica não impõe “caprichos”; ela executa protocolos determinísticos visíveis a todos. A liberdade é saber que se Input = X, o Output do sistema será sempre, invariavelmente, Y.
 
 Isto permite a verdadeira soberania do Habitante: a capacidade de planear e executar ações com a mesma confiança com que um engenheiro aplica as leis da termodinâmica. A certeza não é a gaiola da liberdade; é a plataforma sobre a qual ela pode ser construída.
 
-[^1]: Não é pleonasmo. No sistema democrático brasileiro onde “até o passado é incerto” surge a figura da certeza relativa e certeza invariável (absoluta). Tal figura de linguagem também é observável no postulado jurídico de que a “verdade é a processual”, o que carrega consigo alta probabilidade de não ser a verdade, também, no mundo dos fatos. Pois, quem determina a verdade processual e, por efeito a verdade no mundo dos fatos, é um julgador do Estado na figura do Poder Judiciário. O Bug-humano descrito na Tese 1.1.
+[^1]: Não é pleonasmo. No sistema democrático brasileiro onde “até o passado é incerto” surge a figura da certeza relativa e certeza invariável (absoluta). Tal figura de linguagem também é observável no postulado jurídico de que a “verdade é a processual”, o que carrega consigo alta probabilidade de risco sistêmico. Pois, quem determina a verdade processual e, por efeito a verdade no mundo dos fatos, é um julgador do Estado na figura do Poder Judiciário. O Bug-humano descrito na Tese 1.1.
+
+## 1.2.1 Argumento
+
+* A verdadeira liberdade não é a ausência de regras; é a certeza absoluta e incorruptível das regras. A liberdade é saber que, se você possui um ativo, ninguém o pode tomar. É saber que, se uma regra do sistema se aplica a si, ela se aplica exatamente da mesma forma a todos os outros.
 
 # 2. A Desconstrução da "Liberdade" Liberal (A Liberdade Condicional)
    
