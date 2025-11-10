@@ -64,7 +64,7 @@ Quanto ao Estado (Homo Sapiens nos 3 Poderes da República) pode fazer ou não f
 
 No entanto, é possível e necessário a definição das Liberdades como previsível.
 
-Liberdades é a capacidade de um agente calcular o resultado da conduta ou comportamento com 100% de precisão. Ou seja, capacidade de conhecer e ter certeza invariável de que determinada conduta ou comportamento é permitido ou proibido, independente da interpretação das facções no Poder.s 
+Liberdades é a capacidade de um agente calcular o resultado da conduta ou comportamento com 100% de precisão. Ou seja, capacidade de conhecer e ter certeza invariável de que determinada conduta ou comportamento é permitido ou proibido, independente da interpretação das facções no Poder.
 
 Planear a longo prazo é apostar contra um dado viciado.
 
@@ -82,9 +82,27 @@ A verdadeira liberdade não é a ausência de regras; é a certeza incorruptíve
    
 ## 2.1. O Mito da Liberdade Negativa: "Liberdade de" como Permissão Humana
 
-* Argumento: A liberdade negativa nas democracias (liberdade de expressão, de propriedade, de religião) não é um direito; é uma permissão revogável. Os seus direitos de propriedade existem até que um banco (crise de 2008) ou politíca populista comunista/socialista decida o contrário. A sua liberdade de expressão existe até que o "Bug Humano" (Poder Executivo, Legislativo, Judiciário, midia tradicional, plataforma corporativa, rede social) decida que ela é "inconveniente" ou "perigosa". É uma liberdade baseada na confiança em agentes humanos falhos que, conforme a história como testemunha, tendem, invariavelmente, a defesa de interesse personalissímo e das facções em detrimento do bem-commum.
+A liberdade negativa é o pilar central da promessa liberal: a "liberdade de" interferência. O sistema garante o seu "direito" de falar, de possuir, de se associar.
+Isto é um erro de categoria. O que as democracias liberais oferecem não são “direitos”; são “permissões” revogáveis.
 
-2.2. A Ilusão da Liberdade Positiva: "Liberdade para" como Loteria Estatística
+### Causa
+
+A garantia desses “direitos” é delegada ao mesmo hardware que a Tese 1.1 provou ser defeituoso: o agente humano. A sua liberdade não é garantida por uma constante matemática; é garantida por um contrato social cuja aplicação depende da “vontade política” e da “interpretação judicial” de outros humanos, todos suscetíveis ao “Bug Humano”.
+
+### Efeito
+
+O resultado é a liberdade condicional:
+      
+    1. Propriedade Condicional: O seu "direito à propriedade" existe precisamente até ao ponto em que um banco, através de alavancagem sistêmica, o torna insolvente (crise de 2008), ou até que a inflação, causada por decisões políticas míopes, evapore o seu valor. A sua propriedade não é sua; está apenas alocada a si pela clemência do sistema.
+    2. Expressão Condicional: A sua “liberdade de expressão” existe apenas enquanto for conveniente para as facções no poder, sejam elas estatais ou corporativas. Assim que a sua expressão ameaça o lucro ou o poder político, as “interpretações” dos termos de serviço ou da segurança nacional são convenientemente ajustadas.
+
+O mito liberal é que a Legislação protege o Homem do capricho Humano. A realidade lógica é que a Legislação é o capricho humano, apenas codificado e aplicado com latência. Não é Liberdade; é uma permissão de longo prazo com uma cláusula de rescisão oculta, cujo controle está, plenamente, na mente da facção nos Poderes.
+
+### 2.1.1 Argumento
+
+A liberdade negativa nas democracias (liberdade de expressão, de propriedade, de religião) não é um direito; é uma permissão revogável. Os seus direitos de propriedade existem até que um banco (crise de 2008) ou politíca populista comunista/socialista decida o contrário. A sua liberdade de expressão existe até que o "Bug Humano" (Poder Executivo, Legislativo, Judiciário, midia tradicional, plataforma corporativa, rede social) decida que ela é "inconveniente" ou "perigosa". É uma liberdade baseada na confiança em agentes humanos falhos que, conforme a história como testemunha, tendem, invariavelmente, a defesa de interesse personalissímo e das facções em detrimento do bem-commum.
+
+## 2.2. A Ilusão da Liberdade Positiva: "Liberdade para" como Loteria Estatística
 
 * Argumento: A liberdade positiva (o direito à educação, saúde, oportunidade, vida) é, na melhor das hipóteses, uma probabilidade estatística. Depende de raça, sexo, cor, idade, classe social, geografia e sorte. É o "direito de tentar prosperar" num sistema opaco, manipulado por [facções](https://soescola.com/glossario/faccao-o-que-e-significado#gsc.tab=0) (Tese 1.1) e interesses ocultos.
 
