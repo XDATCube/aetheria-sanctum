@@ -362,3 +362,13 @@ Gerir as interações da nossa nação com outras soberanias. Nexus Foedus é o 
 
 * Nexus Cognito, 
 * Nexus Mercatus (tratados comerciais).
+
+---
+
+[Debate. Participe!](https://github.com/XDATCube/aetheria-sanctum/discussions/)
+
+[Agende: Consultoria especializada](https://cal.com/alex-garcias-nexus-aetheria/30min)
+
+[Agende: Palestras](https://cal.com/alex-garcias-nexus-aetheria/palestras)
+
+[Seja um patrocionador do projeto Nexus Aetheria](https://github.com/XDATCube/aetheria-sanctum)
