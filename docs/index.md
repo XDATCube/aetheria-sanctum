@@ -101,7 +101,7 @@ Dicionário da legislação no mundo dos fatos.
 4. Nexus Gaio (fornecimento de leis para interpretação), 
 5. Todos os Ministérios (implementação dos novos protocolos).
 
-II. A Fundação da Sociedade (O Cidadão e a Economia)
+# II. A Fundação da Sociedade (O Cidadão e a Economia)
 
 Estes Ministérios gerem a identidade, a riqueza e as trocas na nossa nação.
 
