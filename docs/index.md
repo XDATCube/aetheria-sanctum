@@ -97,272 +97,263 @@ II. A Fundação da Sociedade (O Cidadão e a Economia)
 
 Estes Ministérios gerem a identidade, a riqueza e as trocas na nossa nação.
 
-Nome Canônico: Nexus Civitas
+## Nome Canônico: Nexus Civitas
 
-    • Simbolo: NXC
-    • Título Ministerial: Ministério da Cidadania
-    • Nome do agente AI: Civitas
+* Simbolo: NXC
+* Título Ministerial: Ministério da Cidadania
+* Nome do agente AI: Civitas
 
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Servir como a fonte única e incorruptível da verdade para a identidade soberana (KYC/KYB). Garante o princípio axiomático de que a identidade é uma propriedade inalienável do Habitante.
 
-Interações Críticas
+## Interações Críticas
 
 Todos os Ministérios (através do protocolo de verificação mediado pelo Habitante), Aetheria Ledger.
 
 
-Nome Canônico: NexusHub
+## Nome Canônico: NexusHub
 
-    • Simbolo: NXH
-    • Título Ministerial: O Banco Central Soberano
-    • Nome do agente de AI: Hub
+* Simbolo: NXH
+* Título Ministerial: O Banco Central Soberano
+* Nome do agente de AI: Hub
 
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Proposito I
 
-    1. Função exclusiva de otimizar a política monetária;
-    2. Gerir a estabilidade e a fluidez da moeda (Tokens) da Federação;
-    3. Garantir um crescimento estável, 
-    4. Garantir o crescimento sustentável,
-    5. Garantir inflação zero;
-    6. Garantir liquidez para o ecossistema econômico.
+1. Função exclusiva de otimizar a política monetária;
+2. Gerir a estabilidade e a fluidez da moeda (Tokens) da Federação;
+3. Garantir um crescimento estável, 
+4. Garantir o crescimento sustentável,
+5. Garantir inflação zero;
+6. Garantir liquidez para o ecossistema econômico.
 
-Interações Críticas
+## Interações Críticas
 
-    • Nexus Aerarium (coordenação da política fiscal e monetária)
-    • Nexus Mercatus (monitorização dos fluxos econômicos).
+* Nexus Aerarium (coordenação da política fiscal e monetária)
+* Nexus Mercatus (monitorização dos fluxos econômicos).
 
+## Nome Canônico: Nexus Aerarium
 
-Nome Canônico: Nexus Aerarium
+* Simbolo: NXT
+* Título Ministerial: O Tesouro Lógico
+* Nome do agente AI: Aerarium
 
-    • Simbolo: NXT
-    • Título Ministerial: O Tesouro Lógico
-    • Nome do agente AI: Aerarium
+## Doutrina / Propósito Soberano
 
-Doutrina / Propósito Soberano
+1. Otimizar a alocação de recursos do Estado. 
+2. Gerir o orçamento da Federação;
+3. Recolher impostos de forma programática;
+4. Alocar fundos aos Ministérios com base em métricas de performance e necessidade sistêmica, conforme calculado pela Mente Sistêmica.
 
-    1. Otimizar a alocação de recursos do Estado. 
-    2. Gerir o orçamento da Federação;
-    3. Recolher impostos de forma programática;
-    4. Alocar fundos aos Ministérios com base em métricas de performance e necessidade sistêmica, conforme calculado pela Mente Sistêmica.
+## Interações Críticas
 
-Interações Críticas
+* NexusHub (fluxo de fundos);
+* Todos os Ministérios (alocação de orçamento).
 
-    • NexusHub (fluxo de fundos);
-    • Todos os Ministérios (alocação de orçamento).
+## Nome Canônico: Nexus Mercatus
 
+* Simbolo: NXM
+* Título Ministerial: Ministério do Comércio e da Indústria;
+* Nome do agente AI: Mercatus.
 
-Nome Canônico: Nexus Mercatus
+## Doutrina / Propósito Soberano: 
 
-    • Simbolo: NXM
-    • Título Ministerial: Ministério do Comércio e da Indústria;
-    • Nome do agente AI: Mercatus.
+1. Garantir um mercado livre, justo e radicalmente eficiente. 
+2. Nexus Mercatus gere os protocolos para o comércio, a produção industrial e as cadeias de abastecimento, utilizando IA para eliminar atritos, prevenir monopólios e otimizar a logística a nível nacional.
 
-Doutrina / Propósito Soberano: 
+## Interações Críticas
 
-    1. Garantir um mercado livre, justo e radicalmente eficiente. 
-    2. Nexus Mercatus gere os protocolos para o comércio, a produção industrial e as cadeias de abastecimento, utilizando IA para eliminar atritos, prevenir monopólios e otimizar a logística a nível nacional.
+* Nexus Aurora (comércio de produtos agrícolas);
+* Nexus Viae (logística);
+* NexusHub (liquidez do mercado).
 
-Interações Críticas
-
-    • Nexus Aurora (comércio de produtos agrícolas);
-    • Nexus Viae (logística);
-    • NexusHub (liquidez do mercado).
-
-
-III. A Infraestrutura da Nação (O Mundo Físico e Digital)
+# III. A Infraestrutura da Nação (O Mundo Físico e Digital)
 
 Estes Ministérios constroem e mantêm as artérias da nossa civilização.
 
-Nome Canônico: Nexus Aurora
+## Nome Canônico: Nexus Aurora
 
-Doutrina / Propósito Soberano
+* Simbolo: NXA
+* Título Ministerial: Ministério da Agricultura e Pecuária
+
+## Doutrina / Propósito Soberano
 
 Assegurar a soberania alimentar e a sustentabilidade ecológica. Nexus Aurora gere a produção agrícola automatizada, a otimização do uso da terra e a preservação dos ecossistemas, garantindo que a nação seja autossuficiente e opere em harmonia com o planeta.
 
-Interações Críticas
+## Interações Críticas
 
-Nexus Terra (políticas de sustentabilidade),
-Nexus Mercatus (distribuição de alimentos).
+* Nexus Terra (políticas de sustentabilidade),
+* Nexus Mercatus (distribuição de alimentos).
 
+## Nome Canônico: Nexus Dynamo
 
-Nome Canônico: Nexus Dynamo
+* Simbolo: NXD
+* Título Ministerial: Ministério da Energia
+* Nome do agente AI: Dynamo
 
-    • Simbolo: NXD
-    • Título Ministerial: Ministério da Energia
-    • Nome do agente AI: Dynamo
-
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Fornecer energia limpa, barata e omnipresente. Nexus Dynamo gere a rede energética inteligente da Federação, otimizando a geração (a partir de fontes renováveis) e a distribuição para garantir 100% de tempo de atividade e zero desperdício.
 
-Interações Críticas: Todos os Ministérios e Habitantes (consumo de energia).
+## Interações Críticas
 
+Todos os Ministérios e Habitantes (consumo de energia).
 
-Nome Canônico: Nexus Viae
+## Nome Canônico: Nexus Viae
 
-    • Simbolo: NXV
-    • Título Ministerial: Ministério dos Transportes e Logística
-    • Nome do agente AI: Viae
+* Simbolo: NXV
+* Título Ministerial: Ministério dos Transportes e Logística
+* Nome do agente AI: Viae
 
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
-    1. Criar um fluxo de movimento sem atritos para pessoas e bens. 
-    2. Nexus Viae gere a rede de transporte autónoma, otimizando rotas em tempo real para eliminar o congestionamento e maximizar a eficiência.
+1. Criar um fluxo de movimento sem atritos para pessoas e bens. 
+2. Nexus Viae gere a rede de transporte autónoma, otimizando rotas em tempo real para eliminar o congestionamento e maximizar a eficiência.
 
-Interações Críticas
+## Interações Críticas
 
-Nexus Mercatus (logística da cadeia de abastecimento);
-Nexus Urbs (planeamento de infraestrutura).
+* Nexus Mercatus (logística da cadeia de abastecimento);
+* Nexus Urbs (planeamento de infraestrutura).
 
+## Nome Canônico: Nexus Synapse
 
-Nome Canônico: Nexus Synapse
+* Simbolo: NXY
+* Título Ministerial: Ministério das Comunicações
+* Nome do agente AI: Synapse
 
-Simbolo: NXY
-Título Ministerial: Ministério das Comunicações
-Nome do agente AI: Synapse
-
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Garantir a existência de uma rede de comunicações soberana, segura, neutra e universal. Nexus Synapse é o guardião da infraestrutura de dados da nação, garantindo que a informação flua livremente, mas com a privacidade criptográfica assegurada.
 
-Interações Críticas
+## Interações Críticas
 
 Todos os Ministérios e Habitantes (a fundação da nossa sociedade digital).
 
+## Nome Canônico: Nexus Urbs
 
-Nome Canônico: Nexus Urbs
+* Simbolo: NXU
+* Título Ministerial: Ministério do Planeamento Urbano e Habitação
+* Nome do agente AI: Urbs
 
-Simbolo: NXU
-Título Ministerial: Ministério do Planeamento Urbano e Habitação
-Nome do agente AI: Urbs
+## Doutrina / Propósito Soberano
 
-Doutrina / Propósito Soberano
+1. Projetar e construir as cidades do futuro.
+2. Nexus Urbs utiliza modelos de simulação para planear o desenvolvimento urbano sustentável, a habitação modular e a infraestrutura pública, garantindo a qualidade de vida e a eficiência espacial.
 
-    1. Projetar e construir as cidades do futuro.
-    2. Nexus Urbs utiliza modelos de simulação para planear o desenvolvimento urbano sustentável, a habitação modular e a infraestrutura pública, garantindo a qualidade de vida e a eficiência espacial.
+## Interações Críticas
 
-Interações Críticas
+* Nexus Viae, 
+* Nexus Dynamo, 
+* Nexus Terra.
 
-    • Nexus Viae, 
-    • Nexus Dynamo, 
-    • Nexus Terra.
-
-
-IV. O Bem-Estar do Habitante (Conhecimento, Saúde e Cultura)
+# IV. O Bem-Estar do Habitante (Conhecimento, Saúde e Cultura)
 
 Estes Ministérios focam no desenvolvimento do nosso ativo mais importante.
 
-Nome Canônico: Nexus Salus
+## Nome Canônico: Nexus Salus
 
-Simbolo: NXS
-Título Ministerial: Ministério da Saúde e Bem-Estar
-Nome do agente AI: Salus
+* Simbolo: NXS
+* Título Ministerial: Ministério da Saúde e Bem-Estar
+* Nome do agente AI: Salus
 
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Mudar o paradigma de tratamento de doenças para a otimização proativa da saúde. Nexus Salus gere um sistema de saúde personalizado e preventivo, utilizando IA para analisar dados de saúde anónimos e consentidos, e para desenvolver planos de bem-estar individuais.
 
-Interações Críticas
+## Interações Críticas
 
-Nexus Scientia (investigação médica).
+* Nexus Scientia (investigação médica).
 
+## Nome Canônico: Nexus Scientia
 
-Nome Canônico: Nexus Scientia
+* Simbolo: NXI
+* Título Ministerial: Ministério da Educação e Investigação
+* Nome do agente AI: Scientia
 
-Simbolo: NXI
-Título Ministerial: Ministério da Educação e Investigação
-Nome do agente AI: Scientia
-
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Acelerar a expansão do conhecimento humano. Nexus Scientia gere plataformas de aprendizagem adaptativas e personalizadas, e financia a investigação fundamental, garantindo que a nossa nação permaneça na vanguarda da descoberta.
 
-Interações Críticas
+## Interações Críticas
 
 Todos os Ministérios (para investigação e desenvolvimento aplicados).
 
+## Nome Canônico: Nexus Cultus
 
-Nome Canônico: Nexus Cultus
+* Simbolo: NXU
+* Título Ministerial: Ministério da Cultura e Artes
+* Nome do agente AI: Cultus
 
-Simbolo: NXU
-Título Ministerial: Ministério da Cultura e Artes
-Nome do agente AI: Cultus
-
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Preservar e catalisar a expressão criativa da nossa civilização. Nexus Cultus apoia artistas e criadores, gere arquivos históricos digitais e promove eventos culturais que fortalecem o tecido social da Federação.
 
-Interações Críticas
+## Interações Críticas
 
-Nexus Scientia (preservação histórica).
+* Nexus Scientia (preservação histórica).
 
-
-V. A Segurança da Federação (Proteção e Inteligência)
+# V. A Segurança da Federação (Proteção e Inteligência)
 
 Estes Ministérios são os guardiões da nossa soberania.
 
-Nome Canônico: Nexus Custos
+## Nome Canônico: Nexus Custos
 
-Simbolo: NXS
-Título Ministerial: Ministério da Segurança Interna
-Nome do agente AI: Custos
+* Simbolo: NXS
+* Título Ministerial: Ministério da Segurança Interna
+* Nome do agente AI: Custos
 
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Garantir a ordem e a segurança através da prevenção e da lógica. Nexus Custos é a nossa força policial, utilizando IA preditiva (baseada em dados públicos e anônimos) para alocar recursos e prevenir o crime, em vez de apenas reagir a ele.
 
-Interações Críticas
+## Interações Críticas
 
-Nexus Gaio (execução de mandados).
+* Nexus Gaio (execução de mandados).
 
+## Nome Canônico: Nexus Praesidium
 
-Nome Canônico: Nexus Praesidium
+* Simbolo: NXP
+* Título Ministerial: Ministério da Defesa Soberana
+* Nome do agente AI: Praesidium
 
-Simbolo: NXP
-Título Ministerial: Ministério da Defesa Soberana
-Nome do agente AI: Praesidium
-
-Doutrina / Propósito Soberano
+# Doutrina / Propósito Soberano
 
 Proteger a Federação de ameaças externas através da superioridade tecnológica. Nexus Praesidium gere os sistemas de defesa autônomos da nação, focando-se na dissuasão e na defesa cibernética como a nossa primeira e mais forte muralha.
 
-Interações Críticas
+## Interações Críticas
 
-Nexus Cognito (inteligência)
-Nexus Foedus (estratégia de defesa).
+* Nexus Cognito (inteligência)
+* Nexus Foedus (estratégia de defesa).
 
+## Nome Canônico: Nexus Cognito
 
-Nome Canônico: Nexus Cognito
+* Simbolo. NXI
+* Título Ministerial: O Serviço de Inteligência
+* Nome do agente de AI: Cognito
 
-    • Simbolo. NXI
-    • Título Ministerial: O Serviço de Inteligência
-    • Nome do agente de AI: Cognito
-
-Doutrina / Propósito Soberano: 
+## Doutrina / Propósito Soberano: 
 
 Compreender o universo para antecipar ameaças e oportunidades. Nexus Cognito é o nosso serviço de inteligência, focado na análise de dados de fontes abertas e na modelagem de cenários geopolíticos e tecnológicos para informar a Mente Sistêmica.
 
-Interações Críticas
+## Interações Críticas
 
-    • Nexus Praesidium, 
-    • Nexus Foedus, 
-    • Nexus Aetheria.
+* Nexus Praesidium, 
+* Nexus Foedus, 
+* Nexus Aetheria.
 
+## Nome Canônico: Nexus Foedus
 
-Nome Canônico: Nexus Foedus
+* Simbolo: NXF
+* Título Ministerial: Ministério das Relações Exteriores
+* Nome do agente AI: Foedus
 
-Simbolo: NXF
-Título Ministerial: Ministério das Relações Exteriores
-Nome do agente AI: Foedus
-
-Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Gerir as interações da nossa nação com outras soberanias. Nexus Foedus é o nosso corpo diplomático, focado em forjar alianças, estabelecer tratados e representar os interesses da Federação no cenário galáctico, sempre guiado pela lógica e pelo benefício mútuo.
 
-Interações Críticas
+## Interações Críticas
 
-    • Nexus Cognito, 
-    • Nexus Mercatus (tratados comerciais).
+* Nexus Cognito, 
+* Nexus Mercatus (tratados comerciais).
