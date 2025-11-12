@@ -7,7 +7,7 @@ nav_order: 1
 * Tipo: Biblioteca
 * Título: Biblioteca Soberana de Aetheria
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
-* Debate: [Ecossitema Nexus Aetheria](https://github.com/XDATCube/aetheria-sanctum/discussions)
+* Debate: [Ecossistema Nexus Aetheria](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
 * Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Biblioteca Soberana de Aetheria. Disponível em: https://xdatcube.github.io/aetheria-sanctum/
 
@@ -59,7 +59,6 @@ Serviços 2: Servir como ferramenta de análise e criação de documento jurídi
 2. Nexus Civitas – KYC e KYB em tempo real para pessoa física e pessoa jurídica.
 3. Nexus Aetheria – A Mente Sistêmica.
 4. Nexus Aurora – Sistema de mercado de commodities agrícola avançado.
-
 
 ## 1.3. Nome Canônico: Nexus Legis
 
@@ -117,7 +116,6 @@ Servir como a fonte única e incorruptível da verdade para a identidade soberan
 ## Interações Críticas
 
 Todos os Ministérios (através do protocolo de verificação mediado pelo Habitante), Aetheria Ledger.
-
 
 ## Nome Canônico: NexusHub
 
