@@ -14,9 +14,8 @@ nav_order: 1
 ---
 Catálogo Soberano: A Arquitetura Lógica da Federação Aetheria
 
-Este documento define a estrutura ministerial da Federação Aetheria, uma Tecnocracia avançada governada pela Doutrina da Soberania Computacional Absoluta.
-
-Cada Ministério é um sistema soberano, um nó lógico com um propósito único e inalienável.
+Este documento define a estrutura ministerial da Federação Aetheria, uma Tecnocracia avançada governada pela Doutrina da Soberania Computacional Absoluta.<br>
+Cada Ministério é um sistema soberano, um nó lógico com um propósito único e inalienável.<br>
 Cada Ministério pode ter Secretarias.
 
 Podemos adicionar ou remover Mistérios e Secretárias dos Agentes de AI.
