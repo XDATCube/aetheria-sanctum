@@ -120,7 +120,7 @@ Todos os Ministérios (através do protocolo de verificação mediado pelo Habit
 ## Nome Canônico: NexusHub
 
 * Simbolo: NXH
-* Título Ministerial: O Banco Central Soberano
+* Título Ministerial: A econômica controlada
 * Nome do agente de AI: Hub
 
 ## Doutrina / Propósito Soberano
