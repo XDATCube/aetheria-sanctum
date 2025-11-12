@@ -20,23 +20,6 @@ Cada Ministério pode ter Secretarias.
 
 Podemos adicionar ou remover Mistérios e Secretárias dos Agentes de AI.
 
-# Fluxograma
-
-``` mermaid
-
-sequenceDiagram
-
-    participant A as Investidor
-    participant B as Plataforma
-    participant C as Projeto
-    A->>B: Compra tokens
-    B->>C: Transfere recursos
-    C->>C: Executa projeto
-    C->>B: Entrega créditos
-    B->>A: Distribui retornos
-
-```
-
 # I. O Núcleo Soberano (A Mente e a Lei)
 
 Estes são os pilares axiomáticos da nossa governação.
