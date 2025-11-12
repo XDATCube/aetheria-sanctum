@@ -22,6 +22,8 @@ Podemos adicionar ou remover Mistérios e Secretárias dos Agentes de AI.
 
 # Fluxograma
 
+``` mermaid
+
 sequenceDiagram
 
     participant A as Investidor
@@ -32,6 +34,8 @@ sequenceDiagram
     C->>C: Executa projeto
     C->>B: Entrega créditos
     B->>A: Distribui retornos
+
+```
 
 # I. O Núcleo Soberano (A Mente e a Lei)
 
