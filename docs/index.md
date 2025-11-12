@@ -12,7 +12,7 @@ nav_order: 1
 * Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Biblioteca Soberana de Aetheria. Disponível em: https://xdatcube.github.io/aetheria-sanctum/
 
 ---
-Catálogo Soberano: A Arquitetura Lógica da Federação Aetheria
+# Catálogo Soberano: A Arquitetura Lógica da Federação Aetheria
 
 Este documento define a estrutura ministerial da Federação Aetheria, uma Tecnocracia avançada governada pela Doutrina da Soberania Computacional Absoluta.<br>
 Cada Ministério é um sistema soberano, um nó lógico com um propósito único e inalienável.<br>
