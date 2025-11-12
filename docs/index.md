@@ -4,6 +4,14 @@ title: "Biblioteca Soberana de Aetheria"
 nav_order: 1
 
 ---
+* Tipo: Biblioteca
+* Título: Biblioteca Soberana de Aetheria
+* Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
+* Debate: [Ecossitema Nexus Aetheria](https://github.com/XDATCube/aetheria-sanctum/discussions)
+* Todos os direitos reservados
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: Biblioteca Soberana de Aetheria. Disponível em: https://xdatcube.github.io/aetheria-sanctum/
+
+---
 Catálogo Soberano: A Arquitetura Lógica da Federação Aetheria
 
 Este documento define a estrutura ministerial da Federação Aetheria, uma Tecnocracia avançada governada pela Doutrina da Soberania Computacional Absoluta.
@@ -66,11 +74,11 @@ Proposito interno
 
 Fonte de verdade para a criar, editar e remover a legislação para o funcionamento da Federação Nexus Aetheria:
 
-a) Nexus Aetheria tem sua própria Constituição
-b) A Constituição Nexus Aetheria é a Lei Maior da Federação Aetheria;
-c) Cada Ministério da Federação tem suas próprias leis. Essas leis são denominadas Lei Ministerial.
-d) A Lei Ministerial não pode contrariar a Lei Maior;
-e) A Lei Ministerial tem finalidade de regulamentar o Ministério
+1. Nexus Aetheria tem sua própria Constituição
+2. A Constituição Nexus Aetheria é a Lei Maior da Federação Aetheria;
+3. Cada Ministério da Federação tem suas próprias leis. Essas leis são denominadas Lei Ministerial.
+4. A Lei Ministerial não pode contrariar a Lei Maior;
+5. A Lei Ministerial tem finalidade de regulamentar o Ministério
 
 I. 	A interação entre os Habitantes no ecossistema exclusivo do Ministério. Tal como termos de uso para controle de Direitos e Deveres na relação entre Habitantes
 
