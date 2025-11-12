@@ -325,7 +325,7 @@ Garantir a ordem e a segurança através da prevenção e da lógica. Nexus Cust
 * Título Ministerial: Ministério da Defesa Soberana
 * Nome do agente AI: Praesidium
 
-# Doutrina / Propósito Soberano
+## Doutrina / Propósito Soberano
 
 Proteger a Federação de ameaças externas através da superioridade tecnológica. Nexus Praesidium gere os sistemas de defesa autônomos da nação, focando-se na dissuasão e na defesa cibernética como a nossa primeira e mais forte muralha.
 
