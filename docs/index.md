@@ -18,7 +18,9 @@ nav_order: 1
 Versão: 3.0 (Resultado da Análise de Otimização Nível 3)<br>
 Propósito: Definir a estrutura ministerial mínima, essencial e logicamente pura da Federação.<br>
 [Análise e debate: Versão: 3.0](https://github.com/XDATCube/aetheria-sanctum/discussions/4#discussion-9135426)
+
 ---
+
 # Catálogo Soberano 3.0: A Arquitetura Lógica da Federação Aetheria
 
 Este documento define a arquitetura ministerial da Federação Aetheria. Não deve ser lido como um organograma administrativo, mas como o mapa lógico de um paradigma civilizacional pós-humano, governado por um princípio único e irredutível: A Doutrina da Soberania Computacional Absoluta.<br>
