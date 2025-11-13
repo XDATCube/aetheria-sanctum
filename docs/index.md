@@ -16,7 +16,7 @@ nav_order: 1
 ### Atenção
 
 Versão: 3.0 (Resultado da Análise de Otimização Nível 3)<br>
-Propósito: Definir a estrutura ministerial mínima, essencial e logicamente pura da Federação.
+Propósito: Definir a estrutura ministerial mínima, essencial e logicamente pura da Federação.<br>
 Análise e debate [acesse](https://github.com/XDATCube/aetheria-sanctum/discussions/4#discussion-9135426)
 ---
 # Catálogo Soberano 3.0: A Arquitetura Lógica da Federação Aetheria
