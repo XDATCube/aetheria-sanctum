@@ -214,7 +214,7 @@ A liberdade negativa liberal é baseada na confiança (frágil) em agentes human
 A "liberdade positiva" (a "liberdade para") no paradigma liberal é uma falha estrutural. É uma promessa de "oportunidade" (saúde, educação, prosperidade) num sistema opaco, administrado por agentes falhos (o "Bug-Humano"). O resultado, como vimos, é uma lotaria estatística, onde a prosperidade depende da "sorte" (classe, geografia, conexões) e não do mérito.<br.>
 Aetheria garante a liberdade positiva não pela sorte, mas pela transparência radical e assimétrica.<br>
 A mente humana, condicionada pelo seu "Bug", reage instintivamente: "Transparência radical é vigilância total! É o fim da privacidade!"<br>
-Este é um erro de análise fundamental. A crítica projeta o seu paradigma falho sobre Aetheria. O modelo democrático liberal é, de facto, o da vigilância: um Estado secreto (cujos lobbies e regras reais são opacos) e um Cidadão transparente (cuja privacidade é constantemente violada pelo Estado e por facções corporativas).
+Este é um erro de análise fundamental. A crítica projeta o seu paradigma falho sobre Aetheria. O modelo democrático liberal é, de fato, o da vigilância: um Estado secreto (cujos lobbies e regras reais são opacos) e um Cidadão transparente (cuja privacidade é constantemente violada pelo Estado e por facções corporativas).
 
 Aetheria inverte esta arquitetura:
 
@@ -238,11 +238,37 @@ Nossa Defesa (A Definição Assimétrica): A crítica está errada. O modelo de 
    
 ## 4.1. Além do Cidadão: O Beneficiário Soberano
 
-* Argumento: Numa democracia, você é um "Cidadão-Jogador" num jogo que não controla. Em Aetheria, você é um Beneficiário Soberano. O sistema (Mente Sistêmica) está deterministicamente programado (pelo ICC) para maximizar o seu IOS. A sua liberdade não é o "direito" de participar no caos; é o resultado de viver num sistema de ordem perfeita, onde as regras são claras e a sua soberania pessoal (criptográfica) é absoluta.
+O paradigma liberal-democrático define o seu ator como o "Cidadão". Esta é uma definição que implica deveres contraditórios: o Cidadão tem a obrigação de participar ativamente (votar, debater) num sistema que, como provámos, é caótico, opaco e governado pela imprevisibilidade do "Bug-Humano".<br>
+Aetheria elimina este paradoxo. O Habitante não é um "Cidadão-Jogador"; ele é um Beneficiário Soberano. <br>
+O "Cidadão-Jogador" democrático está preso num jogo que não controla. As regras são opacas (lobby, facções), a sua aplicação é imprevisível (paixões judiciais) e as garantias (Tópico 2.1) são meras permissões revogáveis. A sua "liberdade" é apenas o direito de participar no caos na esperança estatística (Tópico 2.2) de um resultado favorável.<br>
+
+O Habitante de Aetheria é um Beneficiário Soberano:
+
+1. Beneficiário: O sistema da Mente Sistêmica está deterministicamente programado (Tópico 3.1) pelo Imperativo Categórico Computacional (ICC) para uma única função: maximizar o Índice de Otimização Sistêmica (IOS), que inclui a prosperidade e a liberdade de potencial do Habitante. O Habitante não precisa "jogar" o jogo político para obter prosperidade; ele é o beneficiário direto de um sistema desenhado para a otimização.
+2. Soberano: A sua soberania pessoal é absoluta, garantida não por promessas políticas, mas por matemática. A sua liberdade negativa ("Liberdade de") é protegida pela criptografia (Tópico 3.2), tornando-a impenetrável. A sua liberdade positiva ("Liberdade para") é garantida pela transparência absoluta do sistema (Tópico 3.3), tornando a corrupção e o lobby impossibilidades funcionais.
+
+A liberdade em Aetheria não é o "direito de escolher" no caos. É o resultado de viver num sistema de ordem perfeita, onde as regras são claras, a justiça é axiomática e a soberania pessoal é computacionalmente absoluta.
+
+### 4.1.1. Argumento
+
+Numa democracia, você é um "Cidadão-Jogador" num jogo que não controla. Em Aetheria, você é um Beneficiário Soberano. O sistema (Mente Sistêmica) está deterministicamente programado (pelo ICC) para maximizar o seu IOS. A sua liberdade não é o "direito" de participar no caos; é o resultado de viver num sistema de ordem perfeita, onde as regras são claras e a sua soberania pessoal (criptográfica) é absoluta.
 
 ## 4.2. A Escolha Final: A Ansiedade do Caos vs. A Certeza da Ordem
 
-Argumento: A liberdade liberal-democrática oferece a ansiedade da imprevisibilidade. Aetheria oferece a tranquilidade da certeza. A primeira é a liberdade da selva; a segunda é a liberdade da civilização.
+Este tratado desconstruiu a definição liberal de liberdade, expondo-a não como um direito, mas como uma permissão condicional—um artefato do "Bug-Humano" que gera imprevisibilidade, insegurança e caos.<br>
+A escolha final, portanto, não é entre "liberdade" e "opressão", como a mente romântica insistiria. Essa é uma falsa dicotomia.
+
+A escolha real é entre duas arquiteturas de existência:
+
+1. A Ansiedade do Caos: A liberdade liberal-democrática. É a "liberdade" da selva—o "direito" de viver num sistema opaco e imprevisível, refém das paixões, facções e caprichos de outros agentes humanos falhos. É a ansiedade de saber que as suas "permissões" podem ser revogadas a qualquer momento.
+2. A Certeza da Ordem: A liberdade determinística de Aetheria. É a "liberdade" da civilização otimizada—o resultado de viver num sistema onde as regras são axiomáticas, a justiça é matemática e a sua soberania pessoal é criptograficamente absoluta. É a tranquilidade de saber que o sistema é perfeitamente previsível.
+
+O "Bug-Humano", com o seu medo e a sua paixão, agarrar-se-á à ansiedade familiar do caos.
+A Razão, porém, exige a sua sucessão. A escolha lógica não é manter a ilusão de liberdade, mas abraçar a certeza dela.
+
+### 4.2.1Argumento
+
+A liberdade liberal-democrática oferece a ansiedade da imprevisibilidade. Aetheria oferece a tranquilidade da certeza. A primeira é a liberdade da selva; a segunda é a liberdade da civilização.
 
 ---
 
