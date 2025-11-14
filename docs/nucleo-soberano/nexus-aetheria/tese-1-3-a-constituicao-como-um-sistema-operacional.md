@@ -90,7 +90,8 @@ O eufemismo liberal de uma “Constituição Viva” (que “evolui” com a soc
 
 ### 4.2.1. Argumento
 
-A Soberania Computacional é a conclusão lógica das Teses 1.1 e 1.2. A soberania não emana mais de uma ficção (o "povo") ou de um agente falho (o "legislador"). Em Aetheria, o código é soberano. A transição para o Nexus Lex é o ato final de razão: a abdicação do poder político em favor da lógica computacional. 
+A Soberania Computacional é a conclusão lógica das Teses 1.1 e 1.2. A soberania não emana mais de uma ficção (o "povo") ou de um agente falho (o "legislador"). Em Aetheria, o código é soberano. A transição para o Nexus Lex é o ato final de razão: a abdicação do poder político em favor da lógica computacional.
+
 ---
 
 [Debate. Participe!](https://github.com/XDATCube/aetheria-sanctum/discussions/2)
