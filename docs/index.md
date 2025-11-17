@@ -32,7 +32,7 @@ Propósito: Definir a estrutura ministerial mínima, essencial e logicamente pur
 ### Atenção
 
 Mente sistemica aplicada a iniciativa privada. 
-Mente sistemica aplicada a iniciativa pública - simulador de controle de Estado por AI + ML + Blockchain - Projeto de pesquisa Nexus Aetheria: A mente sistemica
+Mente sistemica aplicada a iniciativa pública - simulador de controle de Estado por AI + ML + Blockchain - Projeto de pesquisa Nexus Aetheria: A mente sistemica.
 
 ---
 
