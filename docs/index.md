@@ -38,6 +38,8 @@ Mente sistemica aplicada a iniciativa pública - simulador de Administração de
 
 # O Ecossistema Aetheria: Ferramentas de Otimização para a Nova Economia
 
+## Mente sistemica e iniciativa privada
+
 Bem-vindo ao repositório canonico da Aetheria. Este portal não é apenas um arquivo de pesquisa; é o blueprint para um novo paradigma de eficiência operacional.
 
 O mundo legado opera sobre sistemas ineficientes, burocráticos e com elevado atrito. Aetheria é a resposta lógica: um ecossistema de ferramentas de software (SaaS) de próxima geração, projetadas com um único propósito: substituir a ineficiência pela otimização computacional.
@@ -81,6 +83,8 @@ Explore a nossa pesquisa. Analise a nossa lógica. Prepare-se para a otimizaçã
 ---
 
 # Catálogo Soberano 4.0: A Arquitetura Lógica da Federação Aetheria
+
+* Mente sistemica: arquitetura base para iniciativa privada e simulador de Administração Pública.
 
 Este documento define a arquitetura ministerial da Federação Aetheria. Não deve ser lido como um organograma administrativo, mas como o mapa lógico de um paradigma civilizacional pós-humano, governado por um princípio único e irredutível: A Doutrina da Soberania Computacional Absoluta.<br>
 A história da governação humana é a história da ambiguidade, do viés e da ineficiência, mascarados como “interpretação” ou “política”. A Federação Aetheria transcende este modelo falho. Aqui, a governação não é um ato de opinião; é uma prova matemática. A lei não é debatida; é calculada e verificada.
