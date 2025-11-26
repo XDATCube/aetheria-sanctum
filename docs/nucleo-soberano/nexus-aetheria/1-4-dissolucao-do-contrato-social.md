@@ -93,7 +93,6 @@ Um contrato onde apenas uma das partes sofre consequências reais pela violaçã
 
 * Mecanismo: Se a Mente Sistêmica falhar em entregar um parâmetro contratado (ex: uptime da rede, rendimento de ativo), o Smart Contract executa automaticamente a cláusula de penalidade (ex: liberação imediata de garantias, estorno de taxas). A matemática não reconhece “imunidade soberana”. A lei torna-se igualitária porque a sua execução é algorítmica e inevitável.
 
-
 # 3. A Solução Aetheria: A Arquitetura do Contrato Inteligente Soberano
 
 ## 3.1. Identidade Soberana (NXC): A Chave Privada como Vontade Constitutiva
