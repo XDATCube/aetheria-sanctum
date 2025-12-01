@@ -32,7 +32,7 @@ Catálogo de Soluções Nexus Aetheria: O Ecossistema de Otimização
 
 # 1 Versão: 5.0 (Edição Comercial / SaaS)
 
-Propósito: Definir o portfólio de produtos e serviços tecnológicos oferecidos pela Aetheria ao mercado público e privado.
+* Propósito: Definir o portfólio de produtos e serviços tecnológicos oferecidos pela Aetheria ao mercado público e privado.
 
 ## Manifesto do Produto
 
