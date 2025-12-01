@@ -31,6 +31,14 @@ Propósito: Definir a estrutura ministerial mínima, essencial e logicamente pur
 
 ### Atenção
 
+Versão: 5.0 (Resultado da Análise de Otimização Nível 5)<br>
+Propósito: Definir a estrutura ministerial mínima, essencial e logicamente pura da Federação.<br>
+[Análise e debate: Versão: 4.0](https://github.com/XDATCube/aetheria-sanctum/discussions/4)
+
+---
+
+### Atenção
+
 Mente sistemica aplicada a iniciativa privada.<br>
 Mente sistemica aplicada a iniciativa pública - simulador de Administração de Estado por AI + ML + Blockchain - Projeto de pesquisa Nexus Aetheria: A mente sistemica.
 
@@ -39,6 +47,7 @@ Mente sistemica aplicada a iniciativa pública - simulador de Administração de
 Catálogo de Soluções Nexus Aetheria: O Ecossistema de Otimização
 
 # Versão: 5.0 (Edição Comercial / SaaS)
+
 Propósito: Definir o portfólio de produtos e serviços tecnológicos oferecidos pela Aetheria ao mercado público e privado.
 
 # Manifesto do Produto
