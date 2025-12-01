@@ -30,11 +30,11 @@ Mente sistemica aplicada a iniciativa pública - simulador de Administração de
 
 Catálogo de Soluções Nexus Aetheria: O Ecossistema de Otimização
 
-# Versão: 5.0 (Edição Comercial / SaaS)
+# 1 Versão: 5.0 (Edição Comercial / SaaS)
 
 Propósito: Definir o portfólio de produtos e serviços tecnológicos oferecidos pela Aetheria ao mercado público e privado.
 
-# Manifesto do Produto
+## Manifesto do Produto
 
 A Nexus Aetheria não vende ideologia; vende eficiência. Desenvolvemos ecossistemas de software soberanos que substituem a burocracia humana por prova matemática, oferecendo redução drástica de custos e eliminação de riscos operacionais.
 
@@ -45,7 +45,7 @@ A Nexus Aetheria não vende ideologia; vende eficiência. Desenvolvemos ecossist
 
 A infraestrutura base para transações seguras e gestão de identidade.
 
-# 1. Nexus Civitas (NXC)
+## 1. Nexus Civitas (NXC)
 
 Produto: Plataforma de Identidade Soberana e Gestão de Valor.
 
@@ -65,95 +65,79 @@ O motor de ERP (Enterprise Resource Planning) de próxima geração.
 
 # 2. Nexus Opes (NXO)
 
-Produto: Plataforma de Otimização de Cadeia de Valor Física.
+* Produto: Plataforma de Otimização de Cadeia de Valor Física.
+* Público-Alvo: Agronegócio (Cooperativas, Produtores), Indústria de Manufatura, Operadores Logísticos.
+* Proposta de Valor: Transformar cadeias de suprimentos reativas em ecossistemas preditivos.
 
-Público-Alvo: Agronegócio (Cooperativas, Produtores), Indústria de Manufatura, Operadores Logísticos.
+### Módulos (Secretarias) Comercializáveis:
 
-Proposta de Valor: Transformar cadeias de suprimentos reativas em ecossistemas preditivos.
+* Secretaria de Biossistemas (NXO-Bio): Marketplace agrícola automatizado. Funciona como uma "Cooperativa Virtual" que agrega a procura de insumos (fertilizantes, sementes) para leilões de compra em massa e otimiza a venda da colheita no momento ideal de mercado.
+* Secretaria de Logística (NXO-Flow): Algoritmo de roteamento dinâmico. Conecta produtores a transportadores em tempo real, eliminando o retorno de camiões vazios e reduzindo o custo de frete.
+* Secretaria de Custos Sistêmicos (NXO-Eco): Ferramenta de auditoria ESG automatizada. Calcula a pegada de carbono e hídrica exata de um produto industrial ou agrícola, gerando certificação automática para exportação.
 
-Módulos (Secretarias) Comercializáveis:
-
-Secretaria de Biossistemas (NXO-Bio): Marketplace agrícola automatizado. Funciona como uma "Cooperativa Virtual" que agrega a procura de insumos (fertilizantes, sementes) para leilões de compra em massa e otimiza a venda da colheita no momento ideal de mercado.
-
-Secretaria de Logística (NXO-Flow): Algoritmo de roteamento dinâmico. Conecta produtores a transportadores em tempo real, eliminando o retorno de camiões vazios e reduzindo o custo de frete.
-
-Secretaria de Custos Sistêmicos (NXO-Eco): Ferramenta de auditoria ESG automatizada. Calcula a pegada de carbono e hídrica exata de um produto industrial ou agrícola, gerando certificação automática para exportação.
-
-### III. A Suite Jurídica e de Compliance (LegalTech)
+## III. A Suite Jurídica e de Compliance (LegalTech)
 
 A automação da segurança jurídica e análise contratual.
 
 # 3. Nexus Gaio (NXG)
 
-Produto: Inteligência Artificial Jurídica e Arbitragem Algorítmica.
+* Produto: Inteligência Artificial Jurídica e Arbitragem Algorítmica.
+* Público-Alvo: Escritórios de Advocacia, Departamentos Jurídicos Corporativos, Cartórios.
+* Proposta de Valor: Redução de 90% no tempo de análise contratual e due diligence.
 
-Público-Alvo: Escritórios de Advocacia, Departamentos Jurídicos Corporativos, Cartórios.
+### Módulos (Secretarias) Comercializáveis:
 
-Proposta de Valor: Redução de 90% no tempo de análise contratual e due diligence.
+* Secretaria de Análise (NXG-Audit): Ferramenta SaaS para advogados. O utilizador faz upload de um contrato (PDF/Word); a IA analisa cláusulas de risco, contradições e conformidade com a lei vigente em segundos.
+* Secretaria de Arbitragem (NXG-Arbiter): Plataforma de resolução de disputas online (ODR). Empresas podem incluir uma "Cláusula Gaio" nos seus contratos, delegando a resolução de conflitos técnicos à nossa IA, evitando o sistema judiciário estatal lento e caro.
 
-Módulos (Secretarias) Comercializáveis:
-
-Secretaria de Análise (NXG-Audit): Ferramenta SaaS para advogados. O utilizador faz upload de um contrato (PDF/Word); a IA analisa cláusulas de risco, contradições e conformidade com a lei vigente em segundos.
-
-Secretaria de Arbitragem (NXG-Arbiter): Plataforma de resolução de disputas online (ODR). Empresas podem incluir uma "Cláusula Gaio" nos seus contratos, delegando a resolução de conflitos técnicos à nossa IA, evitando o sistema judiciário estatal lento e caro.
-
-IV. A Suite de Potencial Humano (HealthTech & EdTech)
+## IV. A Suite de Potencial Humano (HealthTech & EdTech)
 
 Gestão de capital humano, saúde corporativa e treinamento.
 
 # 4. Nexus Humanitas (NHU)
 
-Produto: Plataforma de Gestão de Vida e Conhecimento.
+* Produto: Plataforma de Gestão de Vida e Conhecimento.
+* Público-Alvo: Seguradoras de Saúde, Hospitais, RH de Grandes Empresas, Instituições de Ensino.
+* Proposta de Valor: Saúde preventiva baseada em dados e educação corporativa adaptativa.
 
-Público-Alvo: Seguradoras de Saúde, Hospitais, RH de Grandes Empresas, Instituições de Ensino.
+### Módulos (Secretarias) Comercializáveis:
 
-Proposta de Valor: Saúde preventiva baseada em dados e educação corporativa adaptativa.
+* Secretaria de Bem-Estar (NHU-Care): SaaS para gestão de saúde corporativa. Analisa dados anonimizados dos colaboradores para prever riscos de saúde (burnout, doenças crónicas) e sugerir intervenções preventivas, reduzindo o custo do seguro saúde para a empresa.
+* Secretaria de Conhecimento (NHU-Learn): LMS (Learning Management System) adaptativo. Cria trilhas de treino personalizadas para funcionários baseadas nas lacunas de competência detetadas pela IA.
 
-Módulos (Secretarias) Comercializáveis:
-
-Secretaria de Bem-Estar (NHU-Care): SaaS para gestão de saúde corporativa. Analisa dados anonimizados dos colaboradores para prever riscos de saúde (burnout, doenças crónicas) e sugerir intervenções preventivas, reduzindo o custo do seguro saúde para a empresa.
-
-Secretaria de Conhecimento (NHU-Learn): LMS (Learning Management System) adaptativo. Cria trilhas de treino personalizadas para funcionários baseadas nas lacunas de competência detetadas pela IA.
-
-V. A Suite de Infraestrutura e Defesa (GovTech & CyberSec)
+## V. A Suite de Infraestrutura e Defesa (GovTech & CyberSec)
 
 Soluções para cidades inteligentes, segurança de dados e infraestrutura crítica.
 
 # 5. Nexus Habitat (NXH)
 
-Produto: Sistema Operacional para Cidades e Infraestruturas (Smart City OS).
+* Produto: Sistema Operacional para Cidades e Infraestruturas (Smart City OS).
+* Público-Alvo: Construtoras, Gestores de Condomínios, Prefeituras, Empresas de Telecomunicações.
+* Proposta de Valor: Gestão integrada de ativos físicos e digitais.
 
-Público-Alvo: Construtoras, Gestores de Condomínios, Prefeituras, Empresas de Telecomunicações.
+### Módulos (Secretarias) Comercializáveis:
 
-Proposta de Valor: Gestão integrada de ativos físicos e digitais.
-
-Módulos (Secretarias) Comercializáveis:
-
-Secretaria de Urbs (NXH-City): Painel de controlo para gestão de ativos imobiliários e urbanos (consumo de energia, manutenção preditiva de elevadores/infraestrutura).
+* Secretaria de Urbs (NXH-City): Painel de controlo para gestão de ativos imobiliários e urbanos (consumo de energia, manutenção preditiva de elevadores/infraestrutura).
 
 # 6. Nexus Defensio (NXD)
 
-Produto: Suite de Cibersegurança e Inteligência de Mercado.
+* Produto: Suite de Cibersegurança e Inteligência de Mercado.
+* Público-Alvo: Grandes Corporações, Bancos, Setor de Defesa.
+* Proposta de Valor: Proteção ativa de ativos digitais e inteligência competitiva.
 
-Público-Alvo: Grandes Corporações, Bancos, Setor de Defesa.
+### Módulos (Secretarias) Comercializáveis:
 
-Proposta de Valor: Proteção ativa de ativos digitais e inteligência competitiva.
+* Secretaria de Ciberdefesa (NXD-Shield): Proteção de rede autónoma que deteta e neutraliza intrusões em tempo real.
+* Secretaria de Estratégia (NXD-Intel): Plataforma de Business Intelligence (BI) preditivo. Analisa dados de mercado aberto (OSINT) para prever movimentos de concorrentes ou riscos geopolíticos para a cadeia de suprimentos da empresa.
 
-Módulos (Secretarias) Comercializáveis:
-
-Secretaria de Ciberdefesa (NXD-Shield): Proteção de rede autónoma que deteta e neutraliza intrusões em tempo real.
-
-Secretaria de Estratégia (NXD-Intel): Plataforma de Business Intelligence (BI) preditivo. Analisa dados de mercado aberto (OSINT) para prever movimentos de concorrentes ou riscos geopolíticos para a cadeia de suprimentos da empresa.
-
-VI. O Núcleo de Processamento (A API Central)
+## VI. O Núcleo de Processamento (A API Central)
 
 O cérebro que conecta todos os produtos.
 
 # 7. Nexus Aetheria (NAT)
 
-Produto: O Motor de Otimização (API Mesh).
-
-Descrição: Não é vendido diretamente como um produto final, mas é o motor que os clientes "alugam" ao usar qualquer outro módulo. É a IA que cruza os dados do Nexus Opes (Produção) com o Nexus Civitas (Financeiro) para gerar as recomendações de otimização.
+* Produto: O Motor de Otimização (API Mesh).
+* Descrição: Não é vendido diretamente como um produto final, mas é o motor que os clientes "alugam" ao usar qualquer outro módulo. É a IA que cruza os dados do Nexus Opes (Produção) com o Nexus Civitas (Financeiro) para gerar as recomendações de otimização.
 
 
 ---
