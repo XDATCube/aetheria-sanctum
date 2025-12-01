@@ -47,17 +47,14 @@ A infraestrutura base para transações seguras e gestão de identidade.
 
 ## 1. Nexus Civitas (NXC)
 
-Produto: Plataforma de Identidade Soberana e Gestão de Valor.
+* Produto: Plataforma de Identidade Soberana e Gestão de Valor.
+* Público-Alvo: Bancos, FinTechs, Governos (Emissão de ID), Grandes Corporações (Gestão de Acessos).
+* Proposta de Valor: Eliminação de fraude de identidade e custos de conformidade bancária.
 
-Público-Alvo: Bancos, FinTechs, Governos (Emissão de ID), Grandes Corporações (Gestão de Acessos).
+### Módulos (Secretarias) Comercializáveis:
 
-Proposta de Valor: Eliminação de fraude de identidade e custos de conformidade bancária.
-
-Módulos (Secretarias) Comercializáveis:
-
-Secretaria de Identidade (NXC-ID): API de KYC/KYB (Know Your Customer/Business) em tempo real. Permite que qualquer empresa verifique a identidade de um cliente ou fornecedor com 100% de certeza criptográfica.
-
-Secretaria do Tesouro (NXC-Pay): Gateway de pagamentos e carteira digital corporativa. Permite a liquidação instantânea de transações entre empresas usando o protocolo Aetheria (com custo próximo de zero), substituindo sistemas SWIFT/TED lentos.
+* Secretaria de Identidade (NXC-ID): API de KYC/KYB (Know Your Customer/Business) em tempo real. Permite que qualquer empresa verifique a identidade de um cliente ou fornecedor com 100% de certeza criptográfica.
+* Secretaria do Tesouro (NXC-Pay): Gateway de pagamentos e carteira digital corporativa. Permite a liquidação instantânea de transações entre empresas usando o protocolo Aetheria (com custo próximo de zero), substituindo sistemas SWIFT/TED lentos.
 
 ##  II. A Suite de Otimização Produtiva (AgTech, IndTech & LogTech)
 
