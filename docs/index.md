@@ -289,7 +289,23 @@ O Nexus Dynamo é uma plataforma SaaS projetada para indústrias, produtores de 
 
 Ao usar o Dynamo para economizar na conta de luz, o usuário passa a fazer parte de uma Rede Elétrica Descentralizada (Smart Grid) gerida pela Aetheria.
 
-### Dynamo P2P (Peer-to-Peer Trading)
+### Soluções SaaS para Habitantes e Empresas:
+
+1. Dynamo VPP (Virtual Power Plant):
+
+* Para Indústrias: Agregação de geradores e baterias para arbitragem de preço de energia. Otimize o consumo industrial nos horários de ponta e venda excedentes.
+
+### Dynamo Home (SaaS Residencial):
+
+* Para Habitantes: App que gere o consumo doméstico inteligente e vende o excedente solar do telhado para o vizinho (P2P Trading), transformando a casa numa micro-usina rentável.
+
+### Dynamo P2P Market:
+
+* Comércio Soberano: Marketplace onde habitantes compram e vendem energia limpa localmente, sem passar pela concessionária estatal.
+
+### Dynamo Green-Trace:
+
+* Certificação: Rastreabilidade via blockchain da origem renovável da energia para empresas com metas ESG.
 
 ---
 
