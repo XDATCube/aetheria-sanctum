@@ -176,7 +176,28 @@ Acesso: O habitante registado no Nexus Civitas recebe automaticamente o seu "Pas
 
 # 4. Ministério da Economica
 
-## 4.1. Nexus Aerarium - NXE - O Tesouro Lógico
+## 4.1. Nexus Aerarium - NXE - A Suite Econômica (GovTech & CorpFin)
+
+Produto: Sistema de Gestão Fiscal e Orçamentária Algorítmica.
+A eficiência máxima na alocação de recursos públicos e privados.
+
+O Nexus Aerarium (NXE) é o "Tesouro Lógico". É uma plataforma desenhada para governos que buscam transparência absoluta e para corporações que necessitam de auditoria fiscal em tempo real. Ele substitui a burocracia tributária e o planeamento orçamentário manual por algoritmos de otimização dinâmica.
+
+### Soluções SaaS para Governos e Corporações:
+
+Aerarium Tax (Fiscalidade em Tempo Real):
+
+* Split Payment Automático: O sistema calcula e recolhe impostos no exato momento da transação (D+0), eliminando a necessidade de declarações fiscais complexas, evasão e custos de conformidade para empresas.
+* Auditoria Contínua: Para governos, oferece uma visão em tempo real da arrecadação, sem atrasos.
+
+### Aerarium Budget (Alocação Inteligente):
+
+* Orçamento Dinâmico: Uma ferramenta de gestão que aloca recursos (para departamentos de uma empresa ou ministérios de um governo) com base em métricas de performance (KPIs) atingidas, e não em estimativas estáticas anuais.
+* Eficiência de Gastos: Bloqueia automaticamente despesas que violem as regras de compliance ou o teto orçamentário antes que elas ocorram.
+
+### Aerarium Audit (Transparência Radical):
+
+Portal da Transparência 3.0: Rastreabilidade completa de cada centavo gasto, desde a origem até o destino final, registado em blockchain. Ideal para ONGs, Governos e empresas de capital aberto (compliance ESG/Sarbanes-Oxley).
 
 ---
 
