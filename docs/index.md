@@ -307,6 +307,16 @@ Ao usar o Dynamo para economizar na conta de luz, o usuário passa a fazer parte
 
 * Certificação: Rastreabilidade via blockchain da origem renovável da energia para empresas com metas ESG.
 
+### Dynamo GNV
+
+* Usina conversão de lixo orgânico em gás + energia;
+* Tecnologia Emergente para controle do lixo público e privado.
+
+### Tokens
+
+* Tokenização de energia renovável.
+* Tokens representativos de unidade de energia, equipamentos, créditos.
+
 ---
 
 [Debate. Participe!](https://github.com/XDATCube/aetheria-sanctum/discussions/)
