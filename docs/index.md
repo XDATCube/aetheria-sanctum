@@ -38,20 +38,22 @@ A Nexus Aetheria não vende ideologia; vende eficiência. Desenvolvemos ecossist
 
 ## 1.1. Nexus Aetheria - A Mente Sistemica Avancada
 
-No centro deste paradigma reside o Nexus Aetheria (NAT). Não é uma "Inteligência Artificial Generalista" (AGI) que "manda" nos humanos. É um Otimizador Sistêmico.
+No centro deste paradigma reside o Nexus Aetheria (NXE). Não é uma "Inteligência Artificial Generalista" (AGI) que "manda" nos humanos. É um Otimizador Sistêmico.
 
-O NAT opera num ciclo de feedback contínuo:
+O NXE opera num ciclo de feedback contínuo:
 
-* Ingestão: Recebe dados brutos e anonimos dos Ministérios de Interface (Opes, Civitas, Humanitas).
+* Ingestão: Recebe dados brutos e anonimos dos Ministérios de Interface (Gaio, Civitas, Aurora, Finn).
 * Simulação: Roda milhões de cenários para prever o impacto de diferentes alocações de recursos.
 * Proposta: Envia a "Diretriz Ótima" para os nós executores.
 * Auditoria: O Nexus Legis e o Nexus Gaio verificam se a diretriz viola algum protocolo ético.
 
+Ecossistema independente, escalável, modular. Agente AI criado para otimizar Ministérios Aetheria.
+
 ## 1.2. Nexus Gaio - Controle de Direitos e Deveres sem Intermediários
 
-O Judiciário (Nexus Gaio): Deixa de ser interpretativo e torna-se determinístico. Se a lei é código, a justiça é a execução correta desse código.
+O Judiciário (Nexus Gaio) Soberano: Deixa de ser interpretativo e torna-se determinístico. Se a lei é código, a justiça é a execução correta desse código.
 
-### Análise de processo e procedimento
+### Análise de processo e procedimento com AI + ML + Blockchain
 
 * Análise de entidades em documento de interesse para o Direito;
 * Análise de pessoas no processo ou procedimento;
@@ -74,7 +76,8 @@ O Judiciário (Nexus Gaio): Deixa de ser interpretativo e torna-se determinísti
 * Smart Contract para testamento;
 * Smart Contract para Direito do Trabalho;
 * Smart Contract para compra púlica e privada;
-* Smart Contract Direito Imobiliário.
+* Smart Contract Direito Imobiliário;
+* Smart Contract para controle de Direitos e Deveres sem intermediários.
 
 ### Prediction
 
@@ -92,25 +95,20 @@ O Judiciário (Nexus Gaio): Deixa de ser interpretativo e torna-se determinísti
 ## 1.3. Nexus Lex - A lei codificada
 
 * Hub das regras para o Nexus Aetheria;
-* Hub de legislação contitucional e infraconstitucional.
+* Hub das regras dos Ministérios Aetheria;
+* Hub de legislação constitucional e infraconstitucional.
+* Hub de regulamento externo e interno para comercio nacional e internacional;
 * Hub de dicionários jurídico, jurisprudencia.
 
-Fonte de verdade para a criar, editar e remover a legislação para o funcionamento da Federação Nexus Aetheria:
+Fonte de verdade para a criar, editar e remover a legislação para o funcionamento da Federação Nexus Aetheria e, ainda:
 
-1. Nexus Aetheria tem sua própria Constituição
-2. A Constituição Nexus Aetheria é a Lei Maior da Federação Aetheria;
-3. Cada Ministério da Federação tem suas próprias leis. Essas leis são denominadas Lei Ministerial.
-4. A Lei Ministerial não pode contrariar a Lei Maior;
-5. A Lei Ministerial tem finalidade de regulamentar o Ministério
-
-I. 	A interação entre os Habitantes no ecossistema exclusivo do Ministério. Tal como termos de uso para controle de Direitos e Deveres na relação entre Habitantes <br>
-II. A interação entre os habitantes e o Ministério. Tal como contrato entre o Habitante e o Ministério para controle de Direitos e Deveres no ecossistema do Ministério.
+* Consulta as regras da Federação Nexus Aetheria;
+* Consulta a regulamento interno (governos, empresas, cooperativas, etc.)
+* Consulta a Constituição Brasileira;
+* Análise com AI + ML da Constituição Brasileira
 
 
-
-Agente AI para modelos de simulação para analisar o impacto de novas diretrizes propostas pela Mente Sistêmica. 
-
-# 2. A Fundação da Sociedade (O Cidadão e a Economia)
+# 2. A Fundação da Sociedade (Pessoa física / jurídica)
 
 ## 2.1. Nexus Civitas - NXC - Ministério da Cidadania
 
@@ -125,6 +123,7 @@ A filosofia central do NXC é a "Identidade como Propriedade Inalienável". O Mi
 * KYC - Pessoa Física;
 * KYB - Pessoa Jurídica;
 * Controle de acesso;
+* Biometria avançada;
 * KYC e KYB ativo em tempo real.
 
 
