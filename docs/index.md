@@ -145,7 +145,7 @@ A filosofia central do NXC é a "Identidade como Propriedade Inalienável". O Mi
 
 ## 3.1. Nexus Finn - NXF - P2P
 
-Sistema P2P, descentralizado, com finalidade exclusiva de gestão de contas, ativos digitais (Tokens, NFT), produtos e serviços para Federação Aetheria e interação com dados externos para pagamento e recebimento. (GateWay).Tal como os outros Ministérios, NXF é um SaaS soberano que serve como estrutura para todos os Ministérios.
+Interface para usuário final, Sistema P2P, descentralizado, com finalidade exclusiva de gestão de contas, ativos digitais (Tokens, NFT), produtos e serviços para Federação Aetheria e interação com dados externos para pagamento e recebimento (GateWay).Tal como os outros Ministérios, NXF é um SaaS soberano que serve como estrutura para todos os Ministérios.
 
 ### Habitante
 
@@ -162,11 +162,29 @@ O habitante registrado recebe o passaporte para acesso ao NXF P2P.
 
 # 4. Ministério da Economica
 
-# 5. Ministério de Infraestrutura de Bens e Serviços
+## 4.1. Nexus Aerarium - NXE - O Tesouro Lógico
+
+# 5. Ministério de Bens e Serviços
 
 ## 5.1. Nexus Aurora - NXA - Commodities agricola
 
+Ministério da Agricultura -> Secretária agricola. Ecossistema SaaS, independente para automação plena de compra e venda de commodities agricola sem intermediários.
+
+O Nexus Aurora é um ecossistema de transações autônomas projetado para redefinir fundamentalmente o mercado global de commodities. A visão é criar um mercado digital, unificado e sem atrito, onde a confiança não é garantida por intermediários, mas sim programada no próprio sistema. Através da automação total e da aplicação de tecnologias emergentes como blockchain e IA, o Nexus Aurora tem como objetivo eliminar as ineficiências, democratizar o acesso e redistribuir o poder para os verdadeiros geradores de valor: os produtores.
+
+O mercado de commodities tradicional é assolado por problemas de atrito, opacidade e assimetria de informação. Pequenos e médios produtores enfrentam altas barreiras de entrada para mercados globais, arcam com custos excessivos impostos por uma longa cadeia de intermediários e têm pouco poder de negociação. A liquidação financeira é lenta e cara, especialmente em transações internacionais, e os instrumentos de garantia (como a L/C) são arcaicos e burocráticos. O Nexus Aurora foi concebido para resolver esses problemas em sua raiz.
+
+Toda a arquitetura do Nexus Aurora é guiada por uma filosofia de autonomia progressiva, que serve como nosso princípio norteador:
+
+1. Máquina → O sistema coleta e processa dados brutos do mundo real (geolocalização, preços, clima).
+2. Observador → Ele exibe esses dados de forma inteligível, permitindo a observação do estado do mercado.
+3. Decisor → Com base nos dados, ele ajuda os usuários a tomarem as melhores decisões, otimizando suas estratégias.
+4. Criador → O sistema vai além e proativamente cria novas oportunidades de negócio que não existiam (Cooperativas Virtuais, Mercados de Insumos, Derivativos Sintéticos, Tokenizacao de commodities).
+5. Executor → No estágio final, a máquina executa as transações e processos de ponta a ponta, de forma autônoma, segura e sem a necessidade de intervenção humana.
+
 ## 5.2. Nexus Mineralis - NXM - Commodities mineral
+
+## 5.3. Nexus Dynamo - NXD - Energia renovável
 
 ---
 
