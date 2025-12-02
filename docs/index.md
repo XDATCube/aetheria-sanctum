@@ -73,7 +73,8 @@ O Judiciário (Nexus Gaio): Deixa de ser interpretativo e torna-se determinísti
 * Smart Contract para compra e venda de commodities;
 * Smart Contract para testamento;
 * Smart Contract para Direito do Trabalho;
-* Smart Contract para compra púlica e privada.
+* Smart Contract para compra púlica e privada;
+* Smart Contract Direito Imobiliário.
 
 ### Prediction
 
@@ -89,6 +90,25 @@ O Judiciário (Nexus Gaio): Deixa de ser interpretativo e torna-se determinísti
 * Tokens que representam direitos e deveres das partes.
 
 ## 1.3. Nexus Lex - A lei codificada
+
+* Hub das regras para o Nexus Aetheria;
+* Hub de legislação contitucional e infraconstitucional.
+* Hub de dicionários jurídico, jurisprudencia.
+
+Fonte de verdade para a criar, editar e remover a legislação para o funcionamento da Federação Nexus Aetheria:
+
+a) Nexus Aetheria tem sua própria Constituição
+b) A Constituição Nexus Aetheria é a Lei Maior da Federação Aetheria;
+c) Cada Ministério da Federação tem suas próprias leis. Essas leis são denominadas Lei Ministerial.
+d) A Lei Ministerial não pode contrariar a Lei Maior;
+e) A Lei Ministerial tem finalidade de regulamentar o Ministério
+
+I. 	A interação entre os Habitantes no ecossistema exclusivo do Ministério. Tal como termos de uso para controle de Direitos e Deveres na relação entre Habitantes
+II. A interação entre os habitantes e o Ministério. Tal como contrato entre o Habitante e o Ministério para controle de Direitos e Deveres no ecossistema do Ministério.
+
+
+
+Agente AI para modelos de simulação para analisar o impacto de novas diretrizes propostas pela Mente Sistêmica. 
 
 # 2. A Fundação da Sociedade (O Cidadão e a Economia)
 
