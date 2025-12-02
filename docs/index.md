@@ -277,7 +277,7 @@ Toda a arquitetura do Nexus Minerale é guiada por uma filosofia de autonomia pr
 
 O Nexus Olus é um ecossistema de transações autônomas projetado para redefinir fundamentalmente o mercado global de Extrativismo Vegetal. A visão é criar um mercado digital, unificado e sem atrito, onde a confiança não é garantida por intermediários, mas sim programada no próprio sistema. Através da automação total e da aplicação de tecnologias emergentes como blockchain e IA, o Nexus Olus tem como objetivo eliminar as ineficiências, democratizar o acesso e redistribuir o poder para os verdadeiros geradores de valor: os produtores.
 
-Tal como no setor agricola, o mercado de commodities tradicional de minerais é assolado por problemas de atrito, opacidade e assimetria de informação. Pequenos e médios produtores enfrentam altas barreiras de entrada para mercados globais, arcam com custos excessivos impostos por uma longa cadeia de intermediários e têm pouco poder de negociação. A liquidação financeira é lenta e cara, especialmente em transações internacionais, e os instrumentos de garantia (como a L/C) são arcaicos e burocráticos. O Nexus Olus foi concebido para resolver esses problemas em sua raiz.
+Tal como no setor agricola, o mercado de commodities tradicional de extrativismo vegetal é assolado por problemas de atrito, opacidade e assimetria de informação. Pequenos e médios produtores enfrentam altas barreiras de entrada para mercados globais, arcam com custos excessivos impostos por uma longa cadeia de intermediários e têm pouco poder de negociação. A liquidação financeira é lenta e cara, especialmente em transações internacionais, e os instrumentos de garantia (como a L/C) são arcaicos e burocráticos. O Nexus Olus foi concebido para resolver esses problemas em sua raiz.
 
 Toda a arquitetura do Nexus Olus é guiada por uma filosofia de autonomia progressiva, que serve como nosso princípio norteador:
 
@@ -329,7 +329,45 @@ Ao usar o Dynamo para economizar na conta de luz, o usuário passa a fazer parte
 
 ---
 
-# 5.4. 
+# 6. Ministério do Tranporte
+
+## 6.1. Nexus Logis - NXL - Logistica
+
+Produto: Plataforma de Logística Inteligente e Mobilidade como Serviço (MaaS). A eficiência do movimento físico.
+
+O Nexus Logis (NXL) é o sistema nervoso da movimentação na Federação. Ele substitui a gestão de frotas arcaica e o transporte público e privado ineficiente por uma rede de mobilidade algorítmica, conectando cargas e passageiros aos veículos ideais em tempo real.
+
+1. Soluções SaaS para Transportadoras e Habitantes:
+
+### Logis Fleet (Gestão de Frotas B2B):
+
+* Roteamento Dinâmico: Algoritmos que recalculam rotas em tempo real baseados em tráfego, clima e custos de energia, reduzindo o consumo de combustível e o tempo de entrega.
+* Manutenção Preditiva: Integração com sensores do veículo para prever falhas antes que ocorram.
+
+### Logis Freight (Marketplace de Carga):
+
+* Uberização de Fretes: Conecta indústrias e produtores (do Nexus Aurora/Nexus Minerale) diretamente a caminhoneiros autônomos e transportadoras, eliminando intermediários e o "retorno vazio".
+
+### Logis Move (Mobilidade Urbana B2C):
+
+* MaaS (Mobility as a Service): App único para o habitante planear e pagar viagens multimodais (metro, autocarro, partilha de bicicletas, carros autonomos).
+* Crowdshipping: Permite que habitantes transportem pequenas encomendas durante os seus trajetos diários em troca de Aether Credits, crédito social, crédito ambiental.
+
+### Logis Inter
+
+* Sistema de transporte para importação e exportação.
+
+---
+
+# 7. Ministério da Saúde
+
+## 7.1. Nexus Salus - NXS - HealthTech
+
+---
+
+# 8. Ministério da Educação
+
+## 8.1. Nexus Cultus - NXE - EduTech
 
 
 ---
