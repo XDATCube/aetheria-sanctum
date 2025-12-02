@@ -141,24 +141,32 @@ A filosofia central do NXC é a "Identidade como Propriedade Inalienável". O Mi
 * Biometria avançada;
 * KYC e KYB ativo em tempo real.
 
-# 3. A Infraestrutura Financeira
+# 3. Ministério Financeiro
 
 ## 3.1. Nexus Finn - NXF - P2P
 
-Sistema P2P, descentralizado, com finalidade exclusiva de gestão de contas, ativos digitais (Tokens, NFT), produtos e serviços para Federação Aetheria e interação com dados externos para pagamento e recebimento. (GateWay).Tal como os outros Ministérios, NXF é um SaaS soberano.
+Sistema P2P, descentralizado, com finalidade exclusiva de gestão de contas, ativos digitais (Tokens, NFT), produtos e serviços para Federação Aetheria e interação com dados externos para pagamento e recebimento. (GateWay).Tal como os outros Ministérios, NXF é um SaaS soberano que serve como estrutura para todos os Ministérios.
 
 ### Habitante
 
 O habitante registrado recebe o passaporte para acesso ao NXF P2P.
 
-### Agronegócio
+### P2P - Agronegócio
 
 * Tokenização de ativos (Propriedade rural, commodities, insumos, ferramentas);
 * Micro seguro para cultivo;
 * Tokens representativo de crédito ambiental;
 * Crédito P2P;
 * Financiamento P2P;
-* Gateway de pagamento para importação e exportação.
+* Gateway de pagamento para importação e exportação;
+
+# 4. Ministério da Economica
+
+# 5. Ministério de Infraestrutura de Bens e Serviços
+
+## 5.1. Nexus Aurora - NXA - Commodities agricola
+
+## 5.2. Nexus Mineralis - NXM - Commodities mineral
 
 ---
 
