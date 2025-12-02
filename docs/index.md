@@ -120,6 +120,8 @@ Responsabilidade exclusiva de otimizar regras internas e externas ao ecossistema
 
 * Análise com AI + ML de legislação constitucional e infraconstitucional;
 * Análise de regras internacionais para compra e venda de commmodities;
+* Análise de compatibilidade entre regras externas e regras internas.
+
 
 # 2. A Fundação da Sociedade (Pessoa física / jurídica)
 
@@ -139,7 +141,21 @@ A filosofia central do NXC é a "Identidade como Propriedade Inalienável". O Mi
 * Biometria avançada;
 * KYC e KYB ativo em tempo real.
 
+# 3. A Infraestrutura Financeira
 
+## 3.1. Nexus Finn - NXF - P2P
+
+Sistema P2P, descentralizado, com finalidade exclusiva de gestão de contas, ativos digitais (Tokens, NFT), produtos e serviços para Federação Aetheria e interação com dados externos para pagamento e recebimento. (GateWay).Tal como os outros Ministérios, NXF é um SaaS soberano.
+
+### Habitante
+
+O habitante registrado recebe o passaporte para acesso ao NXF;
+
+### Agronegócio
+
+* Tokenização de ativos (Propriedade rural, commodities, insumos, ferramentas);
+* Micro seguro para cultivo;
+* Tokens representativo de crédito ambiental;
 
 ---
 
