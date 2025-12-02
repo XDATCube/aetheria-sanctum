@@ -151,29 +151,26 @@ O Nexus Finn (NXF) é a interface financeira soberana para o utilizador final. D
 
 Acesso: O habitante registado no Nexus Civitas recebe automaticamente o seu "Passaporte Finn", desbloqueando o sistema financeiro global.
 
-Soluções SaaS para Habitantes e Agronegócio:
+### Soluções SaaS para Habitantes e Agronegócio:
 
-Finn Wallet (Carteira Soberana):
+1. Finn Wallet (Carteira Soberana):
 
-Multimoeda & Token: Gestão unificada de Aether Credits, moedas fiduciárias (Real, Dólar) e tokens de ativos (commodities, ouro).
+* Multimoeda & Token: Gestão unificada de Aether Credits, moedas fiduciárias (Real, Dólar) e tokens de ativos (commodities, ouro).
+* GateWay Universal: Pagamentos e recebimentos integrados com o sistema bancário legado (PIX, SWIFT) e o ecossistema Aetheria.
 
-GateWay Universal: Pagamentos e recebimentos integrados com o sistema bancário legado (PIX, SWIFT) e o ecossistema Aetheria.
+### Finn Agro-P2P (Financiamento Rural):
 
-Finn Agro-P2P (Financiamento Rural):
+* Crédito P2P: Produtores rurais podem solicitar financiamento diretamente a investidores na plataforma, sem passar por bancos. O contrato é garantido pela safra futura (auditada pelo Nexus Aurora).
+* Micro-Seguro Paramétrico: Seguros de cultivo ativados automaticamente por dados climáticos (sem necessidade de perito humano). Se a seca for detetada pelo satélite, o pagamento é libertado.
 
-Crédito P2P: Produtores rurais podem solicitar financiamento diretamente a investidores na plataforma, sem passar por bancos. O contrato é garantido pela safra futura (auditada pelo Nexus Aurora).
+### Finn Tokenizer (Fábrica de Ativos):
 
-Micro-Seguro Paramétrico: Seguros de cultivo ativados automaticamente por dados climáticos (sem necessidade de perito humano). Se a seca for detetada pelo satélite, o pagamento é libertado.
+* Tokenização de Ativos Reais: Transforme propriedade rural, sacas de soja armazenadas, gado ou máquinas em tokens líquidos que podem ser usados como garantia ou vendidos fracionadamente.
+* Mercado de Crédito Ambiental: Compra e venda direta de tokens representativos de preservação (Carbono/Água) para compensação ou investimento.
 
-Finn Tokenizer (Fábrica de Ativos):
+### Finn Trade (Comércio Exterior):
 
-Tokenização de Ativos Reais: Transforme propriedade rural, sacas de soja armazenadas, gado ou máquinas em tokens líquidos que podem ser usados como garantia ou vendidos fracionadamente.
-
-Mercado de Crédito Ambiental: Compra e venda direta de tokens representativos de preservação (Carbono/Água) para compensação ou investimento.
-
-Finn Trade (Comércio Exterior):
-
-Gateway de Importação/Exportação: Liquidação financeira instantânea para comércio internacional, com smart contracts que libertam o pagamento apenas quando a mercadoria passa na alfândega digital.
+* Gateway de Importação/Exportação: Liquidação financeira instantânea para comércio internacional, com smart contracts que libertam o pagamento apenas quando a mercadoria passa na alfândega digital.
 
 ---
 
