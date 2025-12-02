@@ -141,6 +141,18 @@ A filosofia central do NXC é a "Identidade como Propriedade Inalienável". O Mi
 * Biometria avançada;
 * KYC e KYB ativo em tempo real.
 
+## 2.2. Nexus Civitas: Secretaria de Crédito Social
+
+Ecossistema SaaS, acessório ao Ministério da Cidadania, com finalidade da gestão de crédito social da pessoa física e pessoa jurídica para o setor público e privado.
+
+O crédito social é um sistema em que o comportamento individual na sociedade é monitorado, avaliado e recompensado de forma objetiva e mensurável. A ideia central é simples: quem age de maneira positiva para a coletividade acumula “crédito”; quem age de forma negativa ou simplesmente não contribui não recebe crédito social.
+
+Esse conceito não é ficção científica distante. Ele já existe em versões reais (como o Sistema de Crédito Social da China) e em versões mais brandas e descentralizadas em outros países (reputação no Uber, score de crédito financeiro, avaliações no Mercado Livre, etc.). O que varia é o grau de centralização, obrigatoriedade e consequências práticas.
+
+
+
+--- 
+
 # 3. Ministério Financeiro
 
 ## 3.1. Nexus Finn - NXF - P2P
