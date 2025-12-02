@@ -97,13 +97,13 @@ O Judiciário (Nexus Gaio): Deixa de ser interpretativo e torna-se determinísti
 
 Fonte de verdade para a criar, editar e remover a legislação para o funcionamento da Federação Nexus Aetheria:
 
-a) Nexus Aetheria tem sua própria Constituição
-b) A Constituição Nexus Aetheria é a Lei Maior da Federação Aetheria;
-c) Cada Ministério da Federação tem suas próprias leis. Essas leis são denominadas Lei Ministerial.
-d) A Lei Ministerial não pode contrariar a Lei Maior;
-e) A Lei Ministerial tem finalidade de regulamentar o Ministério
+1. Nexus Aetheria tem sua própria Constituição
+2. A Constituição Nexus Aetheria é a Lei Maior da Federação Aetheria;
+3. Cada Ministério da Federação tem suas próprias leis. Essas leis são denominadas Lei Ministerial.
+4. A Lei Ministerial não pode contrariar a Lei Maior;
+5. A Lei Ministerial tem finalidade de regulamentar o Ministério
 
-I. 	A interação entre os Habitantes no ecossistema exclusivo do Ministério. Tal como termos de uso para controle de Direitos e Deveres na relação entre Habitantes
+I. 	A interação entre os Habitantes no ecossistema exclusivo do Ministério. Tal como termos de uso para controle de Direitos e Deveres na relação entre Habitantes <br>
 II. A interação entre os habitantes e o Ministério. Tal como contrato entre o Habitante e o Ministério para controle de Direitos e Deveres no ecossistema do Ministério.
 
 
