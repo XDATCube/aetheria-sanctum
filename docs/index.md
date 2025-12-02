@@ -149,13 +149,16 @@ Sistema P2P, descentralizado, com finalidade exclusiva de gestão de contas, ati
 
 ### Habitante
 
-O habitante registrado recebe o passaporte para acesso ao NXF;
+O habitante registrado recebe o passaporte para acesso ao NXF P2P.
 
 ### Agronegócio
 
 * Tokenização de ativos (Propriedade rural, commodities, insumos, ferramentas);
 * Micro seguro para cultivo;
 * Tokens representativo de crédito ambiental;
+* Crédito P2P;
+* Financiamento P2P;
+* Gateway de pagamento para importação e exportação.
 
 ---
 
