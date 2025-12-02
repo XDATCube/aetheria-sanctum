@@ -145,20 +145,35 @@ A filosofia central do NXC é a "Identidade como Propriedade Inalienável". O Mi
 
 ## 3.1. Nexus Finn - NXF - P2P
 
-Interface para usuário final, Sistema P2P, descentralizado, com finalidade exclusiva de gestão de contas, ativos digitais (Tokens, NFT), produtos e serviços para Federação Aetheria e interação com dados externos para pagamento e recebimento (GateWay).Tal como os outros Ministérios, NXF é um SaaS soberano que serve como estrutura para todos os Ministérios.
+Produto: Sistema P2P Descentralizado de Gestão de Ativos e Pagamentos. O seu banco é você. Sem intermediários, sem taxas, sem fronteiras.
 
-### Habitante
+O Nexus Finn (NXF) é a interface financeira soberana para o utilizador final. Diferente de um banco tradicional que "guarda" o seu dinheiro, o Finn é um protocolo que lhe dá o controle absoluto sobre os seus ativos. É um SaaS soberano que serve como a camada transacional para todos os outros Ministérios e para a vida quotidiana.
 
-O habitante registrado recebe o passaporte para acesso ao NXF P2P.
+Acesso: O habitante registado no Nexus Civitas recebe automaticamente o seu "Passaporte Finn", desbloqueando o sistema financeiro global.
 
-### P2P - Agronegócio
+Soluções SaaS para Habitantes e Agronegócio:
 
-* Tokenização de ativos (Propriedade rural, commodities, insumos, ferramentas);
-* Micro seguro para cultivo;
-* Tokens representativo de crédito ambiental;
-* Crédito P2P;
-* Financiamento P2P;
-* Gateway de pagamento para importação e exportação;
+Finn Wallet (Carteira Soberana):
+
+Multimoeda & Token: Gestão unificada de Aether Credits, moedas fiduciárias (Real, Dólar) e tokens de ativos (commodities, ouro).
+
+GateWay Universal: Pagamentos e recebimentos integrados com o sistema bancário legado (PIX, SWIFT) e o ecossistema Aetheria.
+
+Finn Agro-P2P (Financiamento Rural):
+
+Crédito P2P: Produtores rurais podem solicitar financiamento diretamente a investidores na plataforma, sem passar por bancos. O contrato é garantido pela safra futura (auditada pelo Nexus Aurora).
+
+Micro-Seguro Paramétrico: Seguros de cultivo ativados automaticamente por dados climáticos (sem necessidade de perito humano). Se a seca for detetada pelo satélite, o pagamento é libertado.
+
+Finn Tokenizer (Fábrica de Ativos):
+
+Tokenização de Ativos Reais: Transforme propriedade rural, sacas de soja armazenadas, gado ou máquinas em tokens líquidos que podem ser usados como garantia ou vendidos fracionadamente.
+
+Mercado de Crédito Ambiental: Compra e venda direta de tokens representativos de preservação (Carbono/Água) para compensação ou investimento.
+
+Finn Trade (Comércio Exterior):
+
+Gateway de Importação/Exportação: Liquidação financeira instantânea para comércio internacional, com smart contracts que libertam o pagamento apenas quando a mercadoria passa na alfândega digital.
 
 ---
 
@@ -247,6 +262,16 @@ Toda a arquitetura do Nexus Olus é guiada por uma filosofia de autonomia progre
 ---
 
 ## 5.3. Nexus Dynamo - NXD - Energia renovável
+
+### 5.3.1. Segundo Setor
+
+Sistema Operacional independente de Energia Distribuída & Virtual Power Plant (VPP). A transição do consumidor passivo para o "Prosumidor" soberano.
+
+O Nexus Dynamo é uma plataforma SaaS projetada para indústrias, produtores de energia renovável e gestores de ativos imobiliários. Ele transforma a rede elétrica de uma infraestrutura estática num mercado dinâmico e otimizado por IA + ML.
+
+Ao usar o Dynamo para economizar na conta de luz, o usuário passa a fazer parte de uma Rede Elétrica Descentralizada (Smart Grid) gerida pela Aetheria.
+
+### Dynamo P2P (Peer-to-Peer Trading)
 
 ---
 
