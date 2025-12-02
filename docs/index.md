@@ -160,9 +160,13 @@ O habitante registrado recebe o passaporte para acesso ao NXF P2P.
 * Financiamento P2P;
 * Gateway de pagamento para importação e exportação;
 
+---
+
 # 4. Ministério da Economica
 
 ## 4.1. Nexus Aerarium - NXE - O Tesouro Lógico
+
+---
 
 # 5. Ministério de Bens
 
@@ -204,15 +208,31 @@ Toda a arquitetura do Nexus Pec é guiada por uma filosofia de autonomia progres
 
 ---
 
-## 5.3. Nexus Mineralis - NXM - Commodities mineral
+## 5.3. Nexus Minerale - NXM - Commodities mineral
 
 Ministério de Bens -> Secretária Minas. Ecossistema SaaS, independente para automação plena de compra e venda de commodities mineral ssem intermediários.
 
 ### 5.3.1. Primeiro Setor (Raw)
 
-O Nexus Mineralis é um ecossistema de transações autônomas projetado para redefinir fundamentalmente o mercado global de commodities mineral. A visão é criar um mercado digital, unificado e sem atrito, onde a confiança não é garantida por intermediários, mas sim programada no próprio sistema. Através da automação total e da aplicação de tecnologias emergentes como blockchain e IA, o Nexus Mineralis tem como objetivo eliminar as ineficiências, democratizar o acesso e redistribuir o poder para os verdadeiros geradores de valor: os produtores.
+O Nexus Minerale é um ecossistema de transações autônomas projetado para redefinir fundamentalmente o mercado global de commodities mineral. A visão é criar um mercado digital, unificado e sem atrito, onde a confiança não é garantida por intermediários, mas sim programada no próprio sistema. Através da automação total e da aplicação de tecnologias emergentes como blockchain e IA, o Nexus Minerale tem como objetivo eliminar as ineficiências, democratizar o acesso e redistribuir o poder para os verdadeiros geradores de valor: os produtores.
 
 Tal como no setor agricola, o mercado de commodities tradicional de minerais é assolado por problemas de atrito, opacidade e assimetria de informação. Pequenos e médios produtores enfrentam altas barreiras de entrada para mercados globais, arcam com custos excessivos impostos por uma longa cadeia de intermediários e têm pouco poder de negociação. A liquidação financeira é lenta e cara, especialmente em transações internacionais, e os instrumentos de garantia (como a L/C) são arcaicos e burocráticos. O Nexus Mineralis foi concebido para resolver esses problemas em sua raiz.
+
+Toda a arquitetura do Nexus Minerale é guiada por uma filosofia de autonomia progressiva, que serve como nosso princípio norteador:
+
+1. Máquina → O sistema coleta e processa dados brutos do mundo real (geolocalização, preços, clima).
+2. Observador → Ele exibe esses dados de forma inteligível, permitindo a observação do estado do mercado.
+3. Decisor → Com base nos dados, ele ajuda os usuários a tomarem as melhores decisões, otimizando suas estratégias.
+4. Criador → O sistema vai além e proativamente cria novas oportunidades de negócio que não existiam (Cooperativas Virtuais, Mercados de Insumos, Derivativos Sintéticos, Tokenizacao de commodities).
+5. Executor → No estágio final, a máquina executa as transações e processos de ponta a ponta, de forma autônoma, segura e sem a necessidade de intervenção humana.
+
+---
+
+## 5.4. Nexus Olus - NXO - Extrativismo Vegetal
+
+### 5.4.1. Primeiro Setor (Raw)
+
+---
 
 ## 5.3. Nexus Dynamo - NXD - Energia renovável
 
