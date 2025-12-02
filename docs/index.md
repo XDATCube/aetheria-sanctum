@@ -92,21 +92,34 @@ O Judiciário (Nexus Gaio) Soberano: Deixa de ser interpretativo e torna-se dete
 
 * Tokens que representam direitos e deveres das partes.
 
-## 1.3. Nexus Lex - A lei codificada
+## 1.3. Nexus Lex - A Lei codificada
+
+Fonte de verdade para a criar, editar e remover a legislação para o funcionamento da Federação Nexus Aetheria.
+
+Responsabilidade exclusiva de otimizar regras internas e externas ao ecossistema:
+
+### Regras internas
 
 * Hub das regras para o Nexus Aetheria;
 * Hub das regras dos Ministérios Aetheria;
-* Hub de legislação constitucional e infraconstitucional.
-* Hub de regulamento externo e interno para comercio nacional e internacional;
-* Hub de dicionários jurídico, jurisprudencia.
 
-Fonte de verdade para a criar, editar e remover a legislação para o funcionamento da Federação Nexus Aetheria e, ainda:
+### Regras externas
+
+* Hub de legislação constitucional e infraconstitucional.
+* Hub de regulamento externo para comercio nacional e internacional;
+* Hub de dicionário jurídico, jurisprudencia.
+
+### Consulta
 
 * Consulta as regras da Federação Nexus Aetheria;
+* Consulta as regras dos Ministérios;
 * Consulta a regulamento interno (governos, empresas, cooperativas, etc.)
-* Consulta a Constituição Brasileira;
-* Análise com AI + ML da Constituição Brasileira
+* Consulta a legislação Brasileira.
 
+### Análise
+
+* Análise com AI + ML de legislação constitucional e infraconstitucional;
+* Análise de regras internacionais para compra e venda de commmodities;
 
 # 2. A Fundação da Sociedade (Pessoa física / jurídica)
 
