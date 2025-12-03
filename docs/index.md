@@ -346,7 +346,7 @@ O Nexus Logis (NXL) é o sistema nervoso da movimentação na Federação. Ele s
 
 ### Logis Freight (Marketplace de Carga):
 
-* Uberização de Fretes: Conecta indústrias e produtores (do Nexus Aurora/Nexus Minerale) diretamente a caminhoneiros autônomos e transportadoras, eliminando intermediários e o "retorno vazio".
+* Fretes sem intermediários: Conecta indústrias e produtores (do Nexus Aurora/Nexus Minerale) diretamente a caminhoneiros autônomos e transportadoras, eliminando intermediários e o "retorno vazio".
 
 ### Logis Move (Mobilidade Urbana B2C):
 
@@ -355,13 +355,43 @@ O Nexus Logis (NXL) é o sistema nervoso da movimentação na Federação. Ele s
 
 ### Logis Inter
 
-* Sistema de transporte para importação e exportação.
+* Sistema de transporte para importação e exportação. De ponta a ponta.
 
 ---
 
 # 7. Ministério da Saúde
 
 ## 7.1. Nexus Salus - NXS - HealthTech
+
+Produto: Ecossistema de Saúde Digital, Telemedicina e Seguros Inteligentes. A saúde tratada como um ativo de dados, não como uma gestão de doenças.
+
+O Nexus Salus (NXS) transforma a medicina reativa em proativa através de IA, oferecendo planos de saúde dinâmicos, telemedicina avançada e diagnósticos preditivos para habitantes, iniciativa pública e privada.
+
+Soluções SaaS para Habitantes e Empresas:
+
+### Salus Vitalis (Para Habitantes):
+
+* Prontuário Universal Soberano: O histórico médico completo do paciente em blockchain, portátil e seguro, acessível a qualquer momento, somente com consentimento do titular do Direito;
+* Telemedicina: Consultas virtuais instantâneas.
+
+### Salus Protect (Seguro Saúde Inteligente):
+
+* Seguro Saúde P2P (peer-to-peer) Blockchain + Smart contracts;
+
+### Salus Med (Para Clínicas e Profissionais):
+
+* Diagnóstico Assistido por IA: Ferramenta que analisa exames de imagem e dados clínicos para sugerir diagnósticos com precisão superior à humana.
+* Gestão de Clínicas: Otimização de agendamentos e recursos hospitalares.
+
+### Salus Bio-Tech (Inovação Emergente):
+
+* Medicina Personalizada: Terapias e planos de nutrição desenhados com base no perfil genético único do habitante.
+* Data Marketplace: Habitantes podem monetizar seus dados de saúde anonimizados para a indústria farmacêutica (em troca de Aether Credits).
+
+### Tokens
+
+* Tokenização de Créditos de Carbono Hospitalar. Hospitais que reduzem emissões (energia, resíduos, gases anestésicos, H2O) recebem tokens representante de direitos e deveres principais e acessórios.
+* Crédito social médico: habitantes que cuidam da própria saúde recebem crédito social positivo.
 
 ---
 
