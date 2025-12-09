@@ -146,7 +146,7 @@ Variáveis:
 
 A energia total disponível pode ser decomposta em fontes:
 
-![alt text](ETotal.png)
+![alt text](/docs/image/ETotal.png)
 
 ---
 
