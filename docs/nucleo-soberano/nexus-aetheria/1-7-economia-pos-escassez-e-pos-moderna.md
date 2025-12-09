@@ -153,7 +153,11 @@ Onde:
 * Fi = Fluxo da fonte de energia;
 * Ni = Eficiência de captação, conversão e armazenamento da fonte i;
 
-![Exemplo](image/example.png)
+![Exemplo]({{ "/docs/image/example.png" | relative_url }})
+
+### 2.2.3. Dinâmica Temporal do Sistema
+
+Como K e Etotal evoluem:
 
 
 ---
