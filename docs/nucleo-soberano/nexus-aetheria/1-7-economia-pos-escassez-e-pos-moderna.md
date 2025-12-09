@@ -159,6 +159,14 @@ Onde:
 
 Como K e Etotal evoluem:
 
+![Evo](../../image/dinamica-temporal.png)
+
+![Evo](../../image/interpretacao-dinamica-temporal.png)
+
+### 2.2.4. Relação com Bens e Serviços (Produção Real)
+
+
+
 
 ---
 
