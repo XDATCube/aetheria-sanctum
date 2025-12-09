@@ -146,7 +146,13 @@ Variáveis:
 
 A energia total disponível pode ser decomposta em fontes:
 
-![alt text](/docs/image/ETotal.png)
+![Etotal](/docs/image/ETotal.png)
+
+Onde: 
+
+* Fi = Fluxo da fonte de energia;
+* Ni = Eficiência de captação, conversão e armazenamento da fonte i;
+
 
 ---
 
