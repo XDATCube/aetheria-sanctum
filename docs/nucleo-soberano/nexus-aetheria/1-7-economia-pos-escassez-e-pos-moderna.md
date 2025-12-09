@@ -140,7 +140,13 @@ Variáveis:
 * Etotal = Energia total disponível no sistema Aetheria;
 * k = Coeficiente de Conversão Energia-Valor (unidades: NEX/Joule)
 * Representa quanta riqueza material/utilitária pode ser produzida por unidade de energia;
-* Não é constante – evolui com o progresso tecnológico, eficiência produtiva e organização social. 
+* Não é constante – evolui com o progresso tecnológico, eficiência produtiva e organização social.
+
+### 2.2.2. Decomposição de Etotal
+
+A energia total disponível pode ser decomposta em fontes:
+
+![alt text](ETotal.png)
 
 ---
 
