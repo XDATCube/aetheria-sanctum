@@ -153,7 +153,7 @@ Onde:
 * Fi = Fluxo da fonte de energia;
 * Ni = Eficiência de captação, conversão e armazenamento da fonte i;
 
-![Exemplo](docs/image/exemple.png)
+![Exemplo](../../image/example.png)
 
 ### 2.2.3. Dinâmica Temporal do Sistema
 
