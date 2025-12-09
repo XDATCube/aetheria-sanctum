@@ -153,7 +153,9 @@ Onde:
 * Fi = Fluxo da fonte de energia;
 * Ni = Eficiência de captação, conversão e armazenamento da fonte i;
 
-![Exemplo]({{ "/docs/image/example.png" | relative_url }})
+\[
+M_0 = k \cdot E_{\text{total}} = k \cdot \sum_{i=1}^{n} \eta_i \cdot F_i
+\]
 
 ### 2.2.3. Dinâmica Temporal do Sistema
 
