@@ -146,7 +146,7 @@ Variáveis:
 
 A energia total disponível pode ser decomposta em fontes:
 
-![Etotal](image/ETotal.png)
+![Etotal](../../image/ETotal.png)
 
 Onde: 
 
