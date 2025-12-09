@@ -153,6 +153,8 @@ Onde:
 * Fi = Fluxo da fonte de energia;
 * Ni = Eficiência de captação, conversão e armazenamento da fonte i;
 
+![Exemplo](/docs/image/example.png)
+
 
 ---
 
