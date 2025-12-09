@@ -75,7 +75,7 @@ O que o mercado tenta resolver “tropeçando” no equilíbrio, Aetheria resolv
 A alocação de recursos em Aetheria é tratada como um problema massivo de Otimização Convexa e Programação Linear (uma expansão quântica das matrizes de Leontief e da teoria de Kantorovich).
 
 * Input: Vetor de Demandas ($D$) dos Habitantes e da Indústria.
-* Restrições: Vetor de Recursos Disponíveis ($R$) e Limites Ecológicos ($E$).
+* Restrições: Vetor de Recursos Disponíveis (R) e Limites Ecológicos (E).
 * Função Objetivo: Maximizar(Satisfação_Demandas) sujeito a Minimizar(Entropia_Energética).
 * Processamento: O Kernel resolve este sistema de equações em tempo real.
 * Resultado: O sistema determina: “Enviar 400 unidades de Grafeno do Setor 7 para o Setor 3”. Não porque o preço subiu, mas porque a equação de otimização provou que essa é a alocação de menor custo energético para o máximo benefício sistêmico.
@@ -131,16 +131,16 @@ A base monetária (Mo) é diretamente proporcional à energia total disponível 
 
 ``` math
 
-M_0 = k \cdot E_{\text{total}}
+M0 = k.Etotal
 
 ```
 Variáveis:
 
-$M_0$: Base monetária (unidade: NEX)
-
-$E_{\text{total}}$: Energia total disponível no sistema (Joules, kWh, ou equivalente)
-
-$k$: Coeficiente de conversão energia-valor (NEX/Joule)
+* Mo = base monetária;
+* Etotal = Energia total disponível no sistema Aetheria;
+* k = Coeficiente de Conversão Energia-Valor (unidades: NEX/Joule)
+* Representa quanta riqueza material/utilitária pode ser produzida por unidade de energia;
+* Não é constante – evolui com o progresso tecnológico, eficiência produtiva e organização social. 
 
 ---
 
