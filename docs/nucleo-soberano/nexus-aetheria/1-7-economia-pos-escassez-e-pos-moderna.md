@@ -45,20 +45,20 @@ Sob a ótica da Teoria da Informação (Shannon) e da Engenharia de Controle, o 
 
 1. Fundamento Lógico (A Baixa Fidelidade do Sinal de Preço):
 
-O axioma de Hayek (“O conhecimento está disperso”) é usado para justificar o mercado. Contudo, o mercado tenta comprimir vetores multidimensionais de dados (custo energético, impacto ecológico, utilidade social, escassez material, logística) num único escalar unidimensional: o Preço (P).
+O axioma de Hayek (“O conhecimento está disperso”) é usado para justificar o mercado. Contudo, o mercado tenta comprimir vetores multidimensionais de dados (custo energético, impacto ecológico, utilidade social, escassez material, logística) num único escalar unidimensional: o Preço ($P$).
 
-* A Falha de Compressão: Ao reduzir a complexidade da realidade a um número, o sistema descarta dados críticos. Um aumento em (P) pode sinalizar escassez real (dado útil) ou especulação financeira (ruído). O agente econômico é incapaz de distinguir o sinal do ruído.
-* O Nexo de Causalidade: A opacidade do escalar (P) força os agentes a operarem com base em heurísticas imperfeitas, resultando em alocação de recursos sub-ótimos. O mercado não “calcula” o equilíbrio; ele tropeça em direção a ele através de tentativa e erro catastrófico.
+* A Falha de Compressão: Ao reduzir a complexidade da realidade a um número, o sistema descarta dados críticos. Um aumento em ($P$) pode sinalizar escassez real (dado útil) ou especulação financeira (ruído). O agente econômico é incapaz de distinguir o sinal do ruído.
+* O Nexo de Causalidade: A opacidade do escalar ($P$) força os agentes a operarem com base em heurísticas imperfeitas, resultando em alocação de recursos sub-ótimos. O mercado não “calcula” o equilíbrio; ele tropeça em direção a ele através de tentativa e erro catastrófico.
       
 2. A Latência Sistêmica (Histerese Econômica)
 
 Em sistemas de controle, a latência entre o Input (mudança na realidade) e o Feedback (ajuste do sistema) determina a estabilidade.
 
 * O Mecanismo de Falha: O mercado opera com Feedback Reativo Tardio.
-* Evento: A escassez de trigo começa em T_0 (seca).
-* Sinal: O preço só sobe em T_{10} (quando os estoques caem ou futuros são negociados).
-* Resposta: A produção só aumenta em T_{100} (próxima colheita).
-* Efeito (Histerese): Este atraso cria oscilações violentas (Ciclos de Boom and Bust). O mercado está perpetuamente “perseguindo” um ponto de equilíbrio que já se moveu. Ele dirige olhando para o espelho retrovisor. Aetheria exige controle preditivo (T_{-1}), não reativo.
+* Evento: A escassez de trigo começa em $T_{0}$ (seca).
+* Sinal: O preço só sobe em $T_{10}$ (quando os estoques caem ou futuros são negociados).
+* Resposta: A produção só aumenta em $T_{100}$ (próxima colheita).
+* Efeito (Histerese): Este atraso cria oscilações violentas (Ciclos de Boom and Bust). O mercado está perpetuamente “perseguindo” um ponto de equilíbrio que já se moveu. Ele dirige olhando para o espelho retrovisor. Aetheria exige controle preditivo ($T_{-1}$), não reativo.
 
 3. A Irracionalidade do Agente (O Ruído Biológico): A hipótese dos “Mercados Eficientes” pressupõe o Homo Economicus racional. A neurociência refuta isso. O agente de mercado é um primata governado por dopamina e cortisol (o “Bug-Humano”).
 
@@ -90,7 +90,7 @@ O que o mercado tenta resolver “tropeçando” no equilíbrio, Aetheria resolv
 A alocação de recursos em Aetheria é tratada como um problema massivo de Otimização Convexa e Programação Linear (uma expansão quântica das matrizes de Leontief e da teoria de Kantorovich).
 
 * Input: Vetor de Demandas ($D$) dos Habitantes e da Indústria.
-* Restrições: Vetor de Recursos Disponíveis (R) e Limites Ecológicos (E).
+* Restrições: Vetor de Recursos Disponíveis ($R$) e Limites Ecológicos ($E$).
 * Função Objetivo: Maximizar(Satisfação_Demandas) sujeito a Minimizar(Entropia_Energética).
 * Processamento: O Kernel resolve este sistema de equações em tempo real.
 * Resultado: O sistema determina: “Enviar 400 unidades de Grafeno do Setor 7 para o Setor 3”. Não porque o preço subiu, mas porque a equação de otimização provou que essa é a alocação de menor custo energético para o máximo benefício sistêmico.
@@ -120,7 +120,7 @@ Em Aetheria, estabelecemos o axioma: Dinheiro é Energia Simbolizada. Qualquer a
 
 * Axioma Físico: No universo, nada é gratuito. Para mover um objeto, aquecer uma casa ou processar um bit, é necessário despender Joules ($J$).
 * Axioma Fiduciário (Falso): O Estado pode criar crédito (promessas de energia futura) infinitamente para estimular o consumo presente.
-* O Colapso Lógico: Quando o crédito ($C$) excede a capacidade de geração de energia futura (E_{fut}), o sistema entra em colapso (Default ou Hiperinflação). O crédito é uma “alucinação de entropia negativa”. Ele pressupõe que teremos recursos infinitos no futuro para pagar as dívidas de hoje.
+* O Colapso Lógico: Quando o crédito ($C$) excede a capacidade de geração de energia futura ($E_{fut}$), o sistema entra em colapso (Default ou Hiperinflação). O crédito é uma “alucinação de entropia negativa”. Ele pressupõe que teremos recursos infinitos no futuro para pagar as dívidas de hoje.
 
 2. O Nexo Causal (O Isomorfismo Energia-Valor):
 
@@ -163,8 +163,6 @@ A energia total disponível pode ser decomposta em fontes:
 $$
 E_{\text{total}} = \sum_{i=1}^{n} \eta_i \cdot F_i + \eta_h \cdot H
 $$
-
-![Etotal](../../image/ETotal.png)
 
 Onde: 
 
