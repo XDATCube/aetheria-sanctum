@@ -432,38 +432,6 @@ A economia de Aetheria não é um debate de opiniões; é uma Equação de Estad
 
 A quantidade de moeda base é rigidamente acoplada à energia total captada:
 
-``` math
-
-$$
-M_0(t) = \kappa \cdot E_{\text{total}}(t) \quad ; \quad \kappa \in \mathbb{R}^+
-$$
-
-A taxa de inflação torna-se fisicamente impossível:
-
-$$
-\pi(t) = \frac{\dot{P}}{P} = 0 \quad \forall t
-$$
-
-### Alocação Vetorial Dinâmica
-
-$$
-\mathbf{D}(t) = (d_1, d_2, \dots, d_n) \quad ; \quad \mathbf{S}(t) = (s_1, s_2, \dots, s_n)
-$$
-
-Função objetivo da Mente Sistêmica:
-
-$$
-\min_{\mathbf{u}(t)} \int_{0}^{T} \left\| \mathbf{D}(t+\tau) - \mathbf{S}(t+\tau) \right\|_2^2 \, d\tau
-$$
-
-### Dividendo Energético Universal
-
-$$
-Y_i(t) = \frac{E_{\text{excedente}}(t)}{N(t)} \quad \forall i
-$$
-
-```
-
 ---
 
 [Debate. Participe!](https://github.com/XDATCube/aetheria-sanctum/discussions/2)
