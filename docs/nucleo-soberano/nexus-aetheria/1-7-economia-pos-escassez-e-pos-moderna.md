@@ -5,6 +5,21 @@ parent: "Nexus Aetheria (Ministério)"
 grand_parent: "I - Nucleo Soberano"
 nav_order: 7
 ---
+<!-- Add to _layouts/default.html or post.html -->
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
+</script>
+
+<script type="text/javascript">
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+
+---
 
 * Tese 1.7: A Economia Pós-Escassez e Pós-Monetária
 * Título: Nexus Aurora e o Protocolo Financeiro Soberano (BC-NXA): A Otimização de Recursos como Paradigma Econômico
@@ -375,12 +390,14 @@ Onde N é a população.
 
 O BC-NXA distribuído não provém de impostos (que são fricção ineficiente sobre a produção). Provém do Excedente Termodinâmico.
 
-    • Input: O sistema de reatores e fábricas autônomas gera XTWh de valor produtivo.
-    • Consumo Operacional: O sistema gasta YTWh para manutenção e reinvestimento (Y < X).
-    • Surplus: A diferença (X – Y) é o “Lucro Energético” da civilização.
-    • Mecanismo: Em vez de ser acumulado por uma elite corporativa (Capitalismo) ou absorvido pela burocracia (Socialismo), este delta é automaticamente cunhado ("minted") em BC-NXA e creditado equitativamente nas carteiras NXC de todos os Habitantes.
-    • Natureza: É uma Renda Básica Energética. Ela garante matematicamente o direito à vida (acesso a alimento, teto, energia, dados) sem contrapartida laboral. É o “lucro” de ter nascido numa civilização avançada.
+* Input: O sistema de reatores e fábricas autônomas gera XTWh de valor produtivo.
+* Consumo Operacional: O sistema gasta YTWh para manutenção e reinvestimento (Y < X).
+* Surplus: A diferença (X – Y) é o “Lucro Energético” da civilização.
+* Mecanismo: Em vez de ser acumulado por uma elite corporativa (Capitalismo) ou absorvido pela burocracia (Socialismo), este delta é automaticamente cunhado ("minted") em BC-NXA e creditado equitativamente nas carteiras NXC de todos os Habitantes.
+* Natureza: É uma Renda Básica Energética. Ela garante matematicamente o direito à vida (acesso a alimento, teto, energia, dados) sem contrapartida laboral. É o “lucro” de ter nascido numa civilização avançada.
+
 3. A Redefinição do Trabalho (De Coerção a Criação):
+
 Ao garantir o nível basal de sobrevivência via Dividendo, Aetheria elimina a “Coerção Econômica”.
 
     • Fim dos "Bullshit Jobs": Empregos que existem apenas para justificar salários (burocracia, fiscalização manual, telemarketing) desaparecem. Ninguém aceitará trabalho degradante se a sobrevivência já estiver garantida.
