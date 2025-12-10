@@ -143,50 +143,23 @@ Ao ancorar a economia na Termodinâmica, eliminamos a volatilidade e a mentira. 
 
 ## 2.2. Sistema Monetário Nexus: Formulação Técnica
 
-### 2.2.1. Equação Fundamental
+* Objetivo: Definir o Token (BC-NXA) não como uma unidade fiduciária, mas como uma variável dependente da função de estado termodinâmico do sistema.
 
-A base monetária (Mo) é diretamente proporcional à energia total disponível no sistema e à eficiência de sua conversão em bens e serviços:
+1. O Axioma Fundamental do Valor (A Identidade Joule-Token)No capitalismo, $MV = PQ$ (Teoria Quantitativa da Moeda). Em Aetheria, esta equação é inválida.Estabelecemos a Identidade de Capacidade ($\Psi$):
 
-$$
-M_0 = k \cdot E_{\text{total}}
-$$
+$$\Psi_{NXA}(t) \equiv \oint_{S} \left( \vec{E}_{useful} \cdot \vec{K}_{tech} \right) dt$$
 
-Variáveis:
+Onde:
 
-* Mo = base monetária;
-* Etotal = Energia total disponível no sistema Aetheria;
-* k = Coeficiente de Conversão Energia-Valor (unidades: NEX/Joule)
-* Representa quanta riqueza material/utilitária pode ser produzida por unidade de energia;
-* Não é constante – evolui com o progresso tecnológico, eficiência produtiva e organização social.
+* $\Psi_{NXA}(t)$: Massa monetária total (Total Token Supply) no tempo $t$.
+* $\vec{E}_{useful}$ Vetor de Exergia (Energia útil disponível para trabalho) do sistema.
+* $\vec{K}_{tech}$: Tensor de Eficiência Tecnológica (capacidade de converter energia em utilidade).
 
-### 2.2.2. Decomposição de Etotal
+A paridade unitária é definida pela constante $\xi$ (Xi), o padrão de conversão:
 
-A energia total disponível pode ser decomposta em fontes:
+$$1 \text{ BC-NXA} = \xi \cdot \left[ \alpha (\text{Joule}) + \beta (\text{FLOPS}) + \gamma (\text{Bit}) \right]$$
 
-$$
-E_{\text{total}} = \sum_{i=1}^{n} \eta_i \cdot F_i + \eta_h \cdot H
-$$
 
-Onde: 
-
-* Fi = Fluxo da fonte de energia;
-* Ni = Eficiência de captação, conversão e armazenamento da fonte i;
-
-![Exemplo](../../image/example.png)
-
-### 2.2.3. Dinâmica Temporal do Sistema
-
-Como K e Etotal evoluem:
-
-![Evo](../../image/dinamica-temporal.png)
-
-![Evo](../../image/interpretacao-dinamica-temporal.png)
-
-### 2.2.4. Relação com Bens e Serviços (Produção Real)
-
-![Producao Real](../../image/producao-real.png)
-
-![Base monetaria](../../image/base-monetaria.png)
 
 ## 2.2. O BC-NXA: Token de Capacidade, Não de Troca:
       
