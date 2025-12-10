@@ -128,7 +128,7 @@ Para corrigir esta falha civilizatória, Aetheria adota o Padrão Joule.
 O sistema econômico deve ser isomorfo (estruturalmente idêntico) ao sistema energético.
 
 * Causa: A Mente Sistêmica monitora a capacidade total de geração de energia da Federação (Solar, Fusão, Geotérmica) em tempo real.
-* Mecanismo: A Base Monetária ($M_0$) do Nexus é estritamente vinculada à energia disponível (E_{total}) e à eficiência de conversão dessa energia em bens (k).
+* Mecanismo: A Base Monetária ($M_0$) do Nexus é estritamente vinculada à energia disponível ($E_{total}$) e à eficiência de conversão dessa energia em bens ($k$).
 * Efeito: Não existe “política monetária” discricionária. Se a Federação quer “mais dinheiro” para investir em saúde, ela não pode votar uma lei; ela precisa construir mais reatores ou aumentar a eficiência dos painéis solares. A riqueza é, finalmente, lastreada na realidade física. 
 
 3. A Abolição da Ficção (O Fim do Crédito Fiduciário): O conceito de “Juros Compostos” é uma impossibilidade biológica e física, pois exige crescimento exponencial infinito num planeta finito.
