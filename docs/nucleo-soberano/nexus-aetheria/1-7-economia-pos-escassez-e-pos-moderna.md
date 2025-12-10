@@ -548,7 +548,7 @@ $$t_{trigger} = t_{need} - \left( \frac{\left\| \vec{r}_{dest} - \vec{r}_{src} \
 Onde:
 
 * $t_{need}$: O momento exato em que o Habitante necessita do recurso (previsto pela IA).
-* $\left\| \vec{r}_{dest} - \vec{r}_{src} \right\|$: Distância Euclidiana (ou Geodésica) entre a Fábrica e o Consumidor.
+* $\left\| \vec{r}_{\text{dest}} - \vec{r}_{\text{src}} \right\|$: Distância Euclidiana (ou Geodésica) entre a Fábrica e o Consumidor.
 * $\bar{v}_{log}$: Velocidade média da malha logística (drones/tubos pneumáticos).
 * $\tau_{prod}$: Tempo de ciclo de fabricação (Make-span).
 * $\tau_{buffer}$: Margem de segurança infinitesimal (tende a zero conforme a variância $\sigma^2$ diminui).
