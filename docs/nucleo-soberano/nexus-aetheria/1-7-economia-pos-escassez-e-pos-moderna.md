@@ -358,13 +358,7 @@ O mercado tradicional opera com Escalares (Preços). Um escalar tem magnitude, m
 Aetheria opera com Vetores Multidimensionais.
 
 * O Vetor de Demanda (D): Não é apenas “Quero Pão”. É um vetor complexo contendo:
-
-![vetor demanda](../../image/vetor-demanda.png)
-
 * O vetor de oferta (S):
-
-![vetor oferta](../../image/vetor-oferta.png)
-
 * A Operação: O Kernel não cruza curvas num gráfico 2D; ele resolve a minimização da distância euclidiana (ou outra métrica de similaridade) entre os vetores (D) e (S) num hiperespaço de (N dimensões). A alocação é a solução geométrica ótima para o encontro desses vetores. 
 
 2. O Nexo Causal (Controle Preditivo de Modelo – MPC):
@@ -387,6 +381,102 @@ A Mente Sistêmica busca um Equilíbrio de Nash Cooperativo Global.
 * Este equilíbrio não é estático. É uma Homeostase Dinâmica. O sistema reequilibra a matriz de alocação milhões de vezes por segundo, absorvendo choques de oferta (ex: quebra de safra) e redistribuindo o impacto de forma a minimizar o sofrimento sistêmico (entropia).
 
 A Otimização Vetorial encerra a era da “Alocação Cega”. O mercado era um sistema de feedback negativo (corretivo). Aetheria é um sistema de feedforward positivo (preditivo). A economia deixa de ser uma luta pela sobrevivência baseada em quem paga mais, e torna-se uma coreografia logística sincronizada, onde a necessidade encontra a satisfação com a precisão de um relógio atômico.
+
+### 3.1.1 Otimização Vetorial em Tempo Real: Formulação Matemática
+
+* Objetivo: Minimizar a função de custo global (Entropia/Sofrimento) sujeita às restrições físicas de capacidade, substituindo o escalar "Preço" pelo tensor de alocação "Ótimo".
+
+1. Definição do Espaço de Estados Econômico ($\Omega$)
+
+O estado da economia num instante $t$ não é definido por índices de bolsa, mas por um campo vetorial num espaço de configuração multidimensional $\mathbb{R}^N$.Definimos os Vetores de Estado para cada Agente $i$ (Consumidor) e Fonte $j$ (Produtor):
+
+Vetor de Demanda ($\vec{D}_i$):
+
+$$\vec{D}_i(t) = \begin{bmatrix} q_{req} \\ \vec{r}_{loc} \\ \tau_{deadline} \\ \mu_{urgency} \\ \vec{u}_{utility} \end{bmatrix}_i$$
+
+Onde:
+
+* $q$: Quantidade de recurso.
+* $\vec{r}$: Coordenadas espaciais (x, y, z).
+* $\tau$: Tempo limite para entrega (Time-to-Live da necessidade).
+* $\mu$: Coeficiente de prioridade biológica/sistêmica ($0 \le \mu \le 1$).
+
+Vetor de Oferta ($\vec{S}_j$):
+
+$$\vec{S}_j(t) = \begin{bmatrix} C_{cap} \\ \vec{r}_{src} \\ \epsilon_{cost} \\ \lambda_{rate} \end{bmatrix}_j$$
+
+Onde:
+
+* $C$: Capacidade de estoque/produção instantânea.
+* $\epsilon$: Custo energético por unidade (Joule/unidade).
+
+2. A Função Objetivo Global (O Hamiltoniano Econômico)
+
+A "Mão Visível" é o algoritmo que resolve a minimização do Funcional de Custo Sistêmico ($J$). Ao contrário do mercado, que maximiza lucro ($Profit$), Aetheria minimiza a Fricção Termodinâmica e a Latência.
+
+$$J(A) = \sum_{i} \sum_{j} A_{ij} \cdot \left( \alpha \cdot ||\vec{r}_i - \vec{r}_j||^2 + \beta \cdot \epsilon_j + \gamma \cdot \Theta(\tau_i - t_{delivery}) \right)$$
+
+Onde:
+
+* $A_{ij}$: Matriz de Alocação (Fluxo do produtor $j$ para o consumidor $i$).
+* $||\vec{r}_i - \vec{r}_j||^2$: Custo de Transporte (Distância Euclidiana/Logística).
+* $\epsilon_j$: Custo de Produção (Eficiência da fonte).
+* $\Theta(\cdot)$: Função de Penalidade de Latência (Custo infinito se a entrega ocorrer após o prazo $\tau_i$).
+
+O Problema de Otimização:
+
+$$\min_{A} J(A)$$
+
+Sujeito a:
+
+* $\sum_i A_{ij} \le C_j(t)$ (Não alocar mais do que existe).
+* $\sum_j A_{ij} = q_i$ (Satisfazer a demanda integralmente, se possível).
+
+3. O Preditor Estocástico (Feedforward Control)
+
+* Para eliminar a latência e o estoque (como discutido no Tópico 3.2), o sistema não otimiza para a demanda atual $D(t)$, mas para a demanda futura projetada $D(t + \Delta t)$.
+* A equação de Predição de Demanda ($\hat{\vec{D}}$) utiliza Filtros de Kalman ou Redes Neurais Recorrentes (LSTM):
+
+$$\hat{\vec{D}}_i(t + \Delta t) = \mathcal{F}\left( \vec{D}_i(t), \nabla \vec{D}_i(t), \mathcal{H}_{istórico}, \vec{E}_{xterno} \right) + \mathcal{N}(0, \sigma^2)$$
+
+Onde:
+
+* $\mathcal{F}$: Modelo de inferência da Mente Sistêmica.
+* $\vec{E}_{xterno}$: Variáveis exógenas (Clima, Eventos Sociais).
+* $\mathcal{N}$: Ruído estocástico (incerteza).
+
+A alocação é disparada quando a probabilidade da necessidade futura excede o limiar de confiança ($\kappa$):
+
+$$P(\vec{D}_{future} > 0) > \kappa \implies \text{Iniciar Produção}$$
+
+IV. A Substituição do Preço por Multiplicadores de LagrangeNo mercado, o preço sobe quando a oferta é escassa. Em Aetheria, essa "sinalização" é interna e matemática, representada pelos Multiplicadores de Lagrange ($\lambda$).
+
+O Lagrangiano do sistema é:
+
+$$\mathcal{L}(A, \lambda) = J(A) + \sum_{j} \lambda_j \left( C_j - \sum_i A_{ij} \right)$$
+
+Interpretação Econômica: O valor $\lambda_j$ é o Preço Sombra (Shadow Price) do recurso $j$.
+Se a restrição de capacidade $C_j$ é atingida (escassez), $\lambda_j$ aumenta automaticamente, sinalizando ao sistema para:
+
+* Reduzir alocações de baixa prioridade ($\mu$ baixo).
+* Investir energia imediata para expandir $C_j$ (Feedback de Investimento).
+
+Diferença Fundamental: O "preço" $\lambda$ é um sinal de controle interno para a maquinaria de produção, não um custo cobrado do cidadão para gerar lucro.
+
+5. A Equação do Equilíbrio de Nash Dinâmico ($\text{Eq}^*$)
+
+A Mente Sistêmica garante que o sistema convirja para um estado onde a alocação é Pareto-Ótima (ninguém pode melhorar sem piorar o índice global $IOS$).
+
+$$\frac{d \vec{A}}{dt} = - \Gamma \cdot \nabla_A \left( IOS_{global} \right)$$
+
+Onde:
+
+* $IOS_{global}$: Índice de Otimização Sistêmica (Função de Bem-Estar Social + Eficiência Entrópica).
+* $\Gamma$: Taxa de aprendizado/adaptação do sistema.
+
+Isso descreve um sistema de Gradiente Descendente contínuo. A economia "escorrega" constantemente para o vale de menor desperdício e maior satisfação, guiada não pela "mão invisível" do acaso, mas pelo gradiente calculado da necessidade.
+
+Estas equações transformam a "Alocação de Recursos" de um problema de negociação humana (política/comércio) num problema de Hidrodinâmica Logística. Os recursos fluem como um fluido incompressível pelos caminhos de menor resistência (custo) para preencher os vácuos de pressão (demanda).
 
 ## 3.2. Logística Preditiva e o Fim do Estoque:
 
