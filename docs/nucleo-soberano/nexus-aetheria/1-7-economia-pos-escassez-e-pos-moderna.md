@@ -310,7 +310,36 @@ Ou, na forma diferencial de emissão (Minting Rate):
 $$\frac{d S_{NXA}}{dt} = \frac{d}{dt} \left( P_{geração}(t) - P_{manutenção}(t) \right)$$
 
 * Se $\frac{d P}{dt} > 0$ (Nova Usina de Fusão): $\frac{d S}{dt} > 0$ (Emissão automática de novos tokens).
-* Se $\frac{d P}{dt} = 0$ (Estagnação Física): $\frac{d S}{dt} = 0$ (Congelamento da base monetária.* Corolário: É impossível criar tokens (riqueza simbólica) sem criar capacidade (riqueza física). $S_{NXA}$ é uma sombra projetada pelo objeto físico "Energia".
+* Se $\frac{d P}{dt} = 0$ (Estagnação Física): $\frac{d S}{dt} = 0$ (Congelamento da base monetária).* Corolário: É impossível criar tokens (riqueza simbólica) sem criar capacidade (riqueza física). $S_{NXA}$ é uma sombra projetada pelo objeto físico "Energia".
+
+3. O Invariante de Poder de Compra (Prova de Inflação Zero)
+
+A inflação ($\pi$) é a taxa de variação do preço de recursos fundamentais ao longo do tempo. Em Aetheria, provamos que $\pi = 0$.Definimos o Valor Real ($V_r$) do token em relação à Energia ($E$):
+
+$$V_r(t) = \frac{\text{Unidade de Energia}}{\text{BC-NXA}}$$
+
+Como o token é definido como uma unidade de energia (Axioma I), temos uma identidade tautológica:
+
+$$\frac{\partial V_r}{\partial t} = \frac{\partial}{\partial t} \left( \frac{1 \text{ Joule}}{1 \text{ Joule}} \right) = 0$$
+
+Portanto:
+
+$$\pi_{NXA} \equiv 0$$
+
+Nota: O preço de bens complexos (ex: uma nave espacial) pode cair devido ao aumento da eficiência de produção ($P_{bem} \to 0$), mas o valor da energia contida no token permanece uma constante cosmológica.
+
+4. A Função de Transação (O Operador de Alocação)
+
+Quando um Habitante gasta tokens, ele não está transferindo "dinheiro"; ele está enviando um Comando de Alocação para a Mente Sistêmica.A transação $Tx$ do Agente $A$ para o Serviço $S$ é modelada como um operador de redução de potencial:
+
+$$Tx(A \to S) : \Psi_{A}(t+1) = \Psi_{A}(t) - \int_{t_0}^{t_1} \mathcal{P}_{req}(t) dt$$
+
+Onde:
+
+* $\Psi_{A}$: Saldo de Capacidade (Tokens) do Agente A.
+* $\mathcal{P}_{req}$: Potência instantânea requerida pelo serviço (ex: Watts consumidos pelo transporte autônomo durante a viagem).
+
+O sistema não debita um "preço arbitrário"; ele integra o consumo real de recursos durante a prestação do serviço e desconta esse valor exato do saldo de capacidade do usuário.
 
 # 3. O Mecanismo de Alocação: A “Mão Visível” Algorítmica
 
