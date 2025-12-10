@@ -19,7 +19,14 @@ aux_links:
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-  input: GFM
+  mathjax_config:
+    tex:
+      inlineMath: [['$','$'], ['\\(','\\)']]
+      displayMath: [['$$','$$'], ['\\[','\\]']]
+      processEnvironments: true
+      processRefs: true
+    svg:
+      fontCache: 'global'
 
 # ==============================
 # FOOTER
