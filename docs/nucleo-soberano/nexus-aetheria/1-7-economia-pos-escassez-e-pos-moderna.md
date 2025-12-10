@@ -172,7 +172,9 @@ $\eta_i(t)$: Fator de eficiência termodinâmica da fonte $i$ ($0 < \eta \leq 1$
 $\mathcal{L}_{grid}(t)$: Função de Perda de Transmissão e Armazenamento (Entropia do Grid).
 A Energia Acumulada ($E_{total}$), que define o Market Cap físico da economia num intervalo $\Delta t$, é:$$E_{total}(t) = \int_{t_0}^{t} P_{sys}(\tau) d\tau + \sum_{j=1}^{m} S_j(t)$$
 
-Onde:$S_j(t)$: Energia potencial armazenada em baterias/capacitores/hidrogênio (Reservas Estratégicas).
+Onde:
+
+$S_j(t)$: Energia potencial armazenada em baterias/capacitores/hidrogênio (Reservas Estratégicas).
 
 
 
