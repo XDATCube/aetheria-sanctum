@@ -432,6 +432,8 @@ A economia de Aetheria não é um debate de opiniões; é uma Equação de Estad
 
 A quantidade de moeda base é rigidamente acoplada à energia total captada:
 
+``` math
+
 $$
 M_0(t) = \kappa \cdot E_{\text{total}}(t) \quad ; \quad \kappa \in \mathbb{R}^+
 $$
@@ -459,6 +461,8 @@ $$
 $$
 Y_i(t) = \frac{E_{\text{excedente}}(t)}{N(t)} \quad \forall i
 $$
+
+```
 
 ---
 
