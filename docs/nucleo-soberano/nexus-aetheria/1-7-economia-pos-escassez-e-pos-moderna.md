@@ -181,6 +181,62 @@ Onde:
 
 $S_j(t)$: Energia potencial armazenada em baterias/capacitores/hidrogênio (Reservas Estratégicas).
 
+3. A Dinâmica do Tensor de Eficiência ($K$)Energia bruta não é riqueza. Riqueza é a eficiência com que a energia é transformada em bem-estar. O fator $K$ não é um escalar, mas um Tensor de Eficiência que evolui com a tecnologia.
+
+$$K(t) = \prod_{k=1}^{3} \left( 1 + \frac{\partial \phi_k}{\partial t} \right)$$
+
+Onde os componentes parciais $\phi$ são:
+
+* $\phi_{mat}$: Eficiência Material (redução de desperdício atômico/nano-precisão).
+* $\phi_{alg}$: Otimização Algorítmica (melhoria no código da Mente Sistêmica).
+* $\phi_{rob}$: Automação Robótica (redução da fricção de trabalho humano).
+
+Se a tecnologia avança ($\frac{\partial \phi}{\partial t} > 0$), então $K(t)$ cresce. Isso significa que 1 Joule de energia produz mais riqueza hoje do que ontem.
+
+4. Dinâmica Temporal do Sistema (A Derivada da Emissão)
+
+A estabilidade de preços (Inflação Zero) é garantida por uma equação diferencial que acopla a emissão de moeda à variação da capacidade física. O Banco Central Algorítmico resolve a seguinte equação a cada ciclo de bloco:
+
+$$\frac{d M_{supply}}{dt} = \nabla \cdot (E_{total} \times K)$$
+
+Expandindo para o protocolo de controle PID (Proporcional-Integral-Derivativo) do Módulo Financeiro:
+
+$$\Delta M(t) = k_p \cdot \Delta E(t) + k_d \cdot \frac{d}{dt}K(t) - \epsilon_{burn}$$
+
+Se $\Delta E > 0$ (Novo Reator): O sistema emite novos tokens ($\Delta M > 0$).
+Se $\Delta E < 0$ (Desastre): O sistema queima tokens ($\epsilon_{burn}$) via taxas de transação ou reservas de estabilização.Resultado: O Poder de Compra ($Pp$) permanece constante:
+
+$$\frac{d (Pp)}{dt} \approx 0$$
+
+5. A Equação do Custo Marginal (A Assíntota da Abundância)
+
+Para provar a transição para a Pós-Escassez, definimos o preço ($P$) de qualquer bem $x$ como o limite do seu custo marginal termodinâmico.
+
+$$P_x(t) = \lim_{Q \to \infty} \left( \frac{\mathcal{E}_x + \mathcal{I}_x}{Q_x \cdot A(t)} \right) + \delta_{transporte}$$
+
+Onde:
+
+$\mathcal{E}_x$: Custo energético unitário.
+$\mathcal{I}_x$: Custo informacional (design/IP - tende a zero).
+$Q_x$: Quantidade produzida (Escala).$A(t)$: Fator de Automação ($A \to \infty$ com IA avançada).
+
+Conclusão Matemática: À medida que $A(t)$ cresce e a energia se torna abundante (Fusão), o denominador tende ao infinito.
+
+$$\lim_{t \to \infty} P_x(t) = 0$$
+
+Isso comprova matematicamente a Desmonetização da Vida. O custo de bens essenciais torna-se um ruído de arredondamento no sistema.
+
+6. A Equação do Dividendo de Otimização (UBI Energético)
+
+A distribuição de riqueza ($W_{dist}$) para cada Habitante ($H_i$) não é política, é o resíduo da eficiência sistêmica:
+
+$$W_{dist}(H_i) = \frac{1}{N} \left[ \oint P_{sys}(t) dt - \left( C_{manutenção} + I_{expansão} \right) \right]$$
+
+Onde:
+
+* $N$: Número de Habitantes ativos (NXC válidos).
+* $C_{manutenção}$: Energia gasta para manter o sistema rodando (Entropia basal).
+* $I_{expansão}$: Energia reinvestida automaticamente para construir novos reatores/fábricas.
 
 
 ## 2.2. O BC-NXA: Token de Capacidade, Não de Troca:
