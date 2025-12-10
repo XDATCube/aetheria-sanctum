@@ -267,8 +267,6 @@ A estabilidade do sistema é garantida pelo Acoplamento Rígido (Hard-Coupling) 
 * Ação: O sistema emite (“minera”) automaticamente a quantidade exata de BC-NXA correspondente a esse 1GW e distribui-a como Dividendo de Otimização.
 * Mecanismo de Queima (Burning): Se a capacidade produtiva cair (desastre natural, manutenção), o sistema retira tokens de circulação (via taxas ou reservas) para manter a paridade.
 
-![Money Supply](../../image/money-supply.png)
-
 3. A Eliminação da Inflação (Axioma de Estabilidade):
 
 A inflação é, tecnicamente, a perda de poder de compra da moeda causada pela expansão da oferta monetária acima da expansão da produção.
@@ -279,6 +277,40 @@ Em Aetheria, este fenômeno é uma Impossibilidade Matemática.
 
 O BC-NXA transforma a economia. Deixamos de operar num casino financeiro onde os preços são alucinações coletivas e passamos a operar num sistema de contabilidade de engenharia.
 O Habitante não acumula “riqueza” abstrata; ele acumula “baterias” de potencial de ação. O Token de Capacidade é a ferramenta final para gerir a abundância sem desperdício, garantindo que cada símbolo digital tenha um lastro atômico indestrutível.
+
+### 2.2.2. O BC-NXA: Formulação Matemática do Token de Capacidade
+
+1. Definição Vetorial da Unidade (O Vetor de Base)
+
+Ao contrário do dólar ou do euro, que são escalares flutuantes ($x \in \mathbb{R}$), o BC-NXA é um escalar derivado de um produto interno num espaço vetorial de recursos. 
+
+Definimos o Vetor de Base Universal ($\vec{U}_{base}$) como a composição irredutível da capacidade produtiva:
+
+$$1 \text{ BC-NXA} \equiv \vec{V}_{NXA} = \xi_E \cdot \hat{e} + \xi_C \cdot \hat{c} + \xi_M \cdot \hat{m}$$
+
+Onde:
+
+* $\hat{e}$: Versor de Energia (Normalizado para 1 kWh ou 3.6 MJ).
+* $\hat{c}$: Versor de Computação (Normalizado para 1 PetaFLOP-segundo).
+* $\hat{m}$: Versor de Massa/Matéria (Normalizado para 1 kg de matéria-prima padrão/Grafeno).
+* $\xi$ (Xi): Coeficientes de ponderação tecnológica (definem a paridade de conversão baseada na dificuldade atual de extração/geração).
+
+Interpretação Física: O token é uma "cesta" imutável. Se você possui 10 NXA, você possui matematicamente o direito de executar a combinação linear desses vetores físicos.
+
+2. A Equação de Acoplamento de Capacidade (Supply Constraint)
+
+Esta é a equação que impede a inflação. A oferta total de tokens em circulação ($S_{NXA}$) deve ser estritamente igual à Exergia Total Disponível do Sistema ($\mathcal{X}_{sys}$) multiplicada pela eficiência de conversão ($\eta$).
+
+A identidade de acoplamento rígido é:
+
+$$S_{NXA}(t) \equiv \oint_{\text{Grid}} \left[ \mathcal{X}_{sys}(\vec{r}, t) \cdot \eta_{tech}(\vec{r}, t) \right] dV$$
+
+Ou, na forma diferencial de emissão (Minting Rate):
+
+$$\frac{d S_{NXA}}{dt} = \frac{d}{dt} \left( P_{geração}(t) - P_{manutenção}(t) \right)$$
+
+* Se $\frac{d P}{dt} > 0$ (Nova Usina de Fusão): $\frac{d S}{dt} > 0$ (Emissão automática de novos tokens).
+* Se $\frac{d P}{dt} = 0$ (Estagnação Física): $\frac{d S}{dt} = 0$ (Congelamento da base monetária.* Corolário: É impossível criar tokens (riqueza simbólica) sem criar capacidade (riqueza física). $S_{NXA}$ é uma sombra projetada pelo objeto físico "Energia".
 
 # 3. O Mecanismo de Alocação: A “Mão Visível” Algorítmica
 
