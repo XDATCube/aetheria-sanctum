@@ -145,7 +145,7 @@ Ao ancorar a economia na Termodinâmica, eliminamos a volatilidade e a mentira. 
 
 * Objetivo: Definir o Token (BC-NXA) não como uma unidade fiduciária, mas como uma variável dependente da função de estado termodinâmico do sistema.
 
-1. O Axioma Fundamental do Valor (A Identidade Joule-Token)No capitalismo, $MV = PQ$ (Teoria Quantitativa da Moeda). Em Aetheria, esta equação é inválida.Estabelecemos a Identidade de Capacidade ($\Psi$):
+1. O Axioma Fundamental do Valor (A Identidade Joule-Token). No capitalismo, $MV = PQ$ (Teoria Quantitativa da Moeda). Em Aetheria, esta equação é inválida.Estabelecemos a Identidade de Capacidade ($\Psi$):
 
 $$\Psi_{NXA}(t) \equiv \oint_{S} \left( \vec{E}_{useful} \cdot \vec{K}_{tech} \right) dt$$
 
@@ -158,6 +158,21 @@ Onde:
 A paridade unitária é definida pela constante $\xi$ (Xi), o padrão de conversão:
 
 $$1 \text{ BC-NXA} = \xi \cdot \left[ \alpha (\text{Joule}) + \beta (\text{FLOPS}) + \gamma (\text{Bit}) \right]$$
+
+2. Decomposição de $E_{total}$ (A Função de Oferta de Energia)
+
+A energia total disponível para lastrear a moeda não é um número estático; é o somatório integral da capacidade de geração de todas as fontes conectadas à Grid da Mente Sistêmica, subtraída da entropia (perdas).
+
+A equação de Capacidade Energética Instantânea ($P_{sys}$) é:$$P_{sys}(t) = \sum_{i=1}^{n} \left( G_i(t) \cdot \eta_i(t) \right) - \mathcal{L}_{grid}(t)$$
+
+Onde:
+
+$G_i(t)$: Potência bruta gerada pela fonte $i$ (Fusão, Solar, Geotérmica) no tempo $t$.
+$\eta_i(t)$: Fator de eficiência termodinâmica da fonte $i$ ($0 < \eta \leq 1$).
+$\mathcal{L}_{grid}(t)$: Função de Perda de Transmissão e Armazenamento (Entropia do Grid).
+A Energia Acumulada ($E_{total}$), que define o Market Cap físico da economia num intervalo $\Delta t$, é:$$E_{total}(t) = \int_{t_0}^{t} P_{sys}(\tau) d\tau + \sum_{j=1}^{m} S_j(t)$$
+
+Onde:$S_j(t)$: Energia potencial armazenada em baterias/capacitores/hidrogênio (Reservas Estratégicas).
 
 
 
