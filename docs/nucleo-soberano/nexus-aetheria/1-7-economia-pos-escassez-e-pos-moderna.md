@@ -129,6 +129,9 @@ O sistema econômico deve ser isomorfo (estruturalmente idêntico) ao sistema en
 
 * Causa: A Mente Sistêmica monitora a capacidade total de geração de energia da Federação (Solar, Fusão, Geotérmica) em tempo real.
 * Mecanismo: A Base Monetária ($M_0$) do Nexus é estritamente vinculada à energia disponível ($E_{total}$) e à eficiência de conversão dessa energia em bens ($k$).
+
+$$M_0 \propto E_{total} \times k$$
+
 * Efeito: Não existe “política monetária” discricionária. Se a Federação quer “mais dinheiro” para investir em saúde, ela não pode votar uma lei; ela precisa construir mais reatores ou aumentar a eficiência dos painéis solares. A riqueza é, finalmente, lastreada na realidade física. 
 
 3. A Abolição da Ficção (O Fim do Crédito Fiduciário): O conceito de “Juros Compostos” é uma impossibilidade biológica e física, pois exige crescimento exponencial infinito num planeta finito.
@@ -197,9 +200,9 @@ O conceito de "moeda" tradicional é contaminado pela sua função tripla e cont
 
 ### 2.2.1. Definição Axiomática
 
-![Definicao axiomatica](../../image/definicao-axiomatica.png)
+$$1 \text{ BC-NXA} = \alpha (\text{Energia kWh}) + \beta (\text{Computação FLOPS}) + \gamma (\text{Massa kg})$$
 
-Onde alpha, beta, gamma são constantes físicas.
+Onde $\alpha, \beta, \gamma$ são constantes físicas.
 
 * Ao transacionar BC-NXA, os agentes não estão trocando "símbolos de valor"; estão transferindo Quotas de Execução Física. Se o Habitante transfere tokens para o Sistema de Transporte, ele está alocando a energia e a computação necessárias para mover o seu corpo do ponto A ao B.
       
