@@ -144,11 +144,10 @@ Ao ancorar a economia na Termodinâmica, eliminamos a volatilidade e a mentira. 
 
 A base monetária (Mo) é diretamente proporcional à energia total disponível no sistema e à eficiência de sua conversão em bens e serviços:
 
-``` math
+$$
+M_0 = k \cdot E_{\text{total}}
+$$
 
-M0 = k.Etotal
-
-```
 Variáveis:
 
 * Mo = base monetária;
