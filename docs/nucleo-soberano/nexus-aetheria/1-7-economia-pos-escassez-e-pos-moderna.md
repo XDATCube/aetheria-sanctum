@@ -163,14 +163,19 @@ $$1 \text{ BC-NXA} = \xi \cdot \left[ \alpha (\text{Joule}) + \beta (\text{FLOPS
 
 A energia total disponível para lastrear a moeda não é um número estático; é o somatório integral da capacidade de geração de todas as fontes conectadas à Grid da Mente Sistêmica, subtraída da entropia (perdas).
 
-A equação de Capacidade Energética Instantânea ($P_{sys}$) é:$$P_{sys}(t) = \sum_{i=1}^{n} \left( G_i(t) \cdot \eta_i(t) \right) - \mathcal{L}_{grid}(t)$$
+A equação de Capacidade Energética Instantânea ($P_{sys}$) é:
+
+$$P_{sys}(t) = \sum_{i=1}^{n} \left( G_i(t) \cdot \eta_i(t) \right) - \mathcal{L}_{grid}(t)$$
 
 Onde:
 
-$G_i(t)$: Potência bruta gerada pela fonte $i$ (Fusão, Solar, Geotérmica) no tempo $t$.
-$\eta_i(t)$: Fator de eficiência termodinâmica da fonte $i$ ($0 < \eta \leq 1$).
-$\mathcal{L}_{grid}(t)$: Função de Perda de Transmissão e Armazenamento (Entropia do Grid).
-A Energia Acumulada ($E_{total}$), que define o Market Cap físico da economia num intervalo $\Delta t$, é:$$E_{total}(t) = \int_{t_0}^{t} P_{sys}(\tau) d\tau + \sum_{j=1}^{m} S_j(t)$$
+* $G_i(t)$: Potência bruta gerada pela fonte $i$ (Fusão, Solar, Geotérmica) no tempo $t$.
+* $\eta_i(t)$: Fator de eficiência termodinâmica da fonte $i$ ($0 < \eta \leq 1$).
+* $\mathcal{L}_{grid}(t)$: Função de Perda de Transmissão e Armazenamento (Entropia do Grid).
+
+A Energia Acumulada ($E_{total}$), que define o Market Cap físico da economia num intervalo $\Delta t$, é:
+
+$$E_{total}(t) = \int_{t_0}^{t} P_{sys}(\tau) d\tau + \sum_{j=1}^{m} S_j(t)$$
 
 Onde:
 
