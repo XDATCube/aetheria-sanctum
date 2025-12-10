@@ -432,6 +432,20 @@ A economia de Aetheria não é um debate de opiniões; é uma Equação de Estad
 
 A quantidade de moeda base é rigidamente acoplada à energia total captada:
 
+### Joule-Standard
+
+$$
+M_0(t) = \kappa \cdot E_{\text{total}}(t)
+$$
+
+Inflação impossível:
+
+$$
+\pi(t) = 0 \quad \forall t
+$$
+
+Equação inline: a famosa $E = mc^2$
+
 ---
 
 [Debate. Participe!](https://github.com/XDATCube/aetheria-sanctum/discussions/2)
