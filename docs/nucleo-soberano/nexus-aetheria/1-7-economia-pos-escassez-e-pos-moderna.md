@@ -160,6 +160,10 @@ Variáveis:
 
 A energia total disponível pode ser decomposta em fontes:
 
+$$
+E_{\text{total}} = \sum_{i=1}^{n} \eta_i \cdot F_i + \eta_h \cdot H
+$$
+
 ![Etotal](../../image/ETotal.png)
 
 Onde: 
