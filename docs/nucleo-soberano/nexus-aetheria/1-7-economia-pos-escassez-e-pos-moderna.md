@@ -419,7 +419,7 @@ $$J(A) = \sum_{i} \sum_{j} A_{ij} \cdot \left( \alpha \cdot ||\vec{r}_i - \vec{r
 Onde:
 
 * $A_{ij}$: Matriz de Alocação (Fluxo do produtor $j$ para o consumidor $i$).
-* $||\vec{r}_i - \vec{r}_j||^2$: Custo de Transporte (Distância Euclidiana/Logística).
+* $\left\| \vec{r}_i - \vec{r}_j \right\|^2$: Custo de Transporte (Distância Euclidiana/Logística).
 * $\epsilon_j$: Custo de Produção (Eficiência da fonte).
 * $\Theta(\cdot)$: Função de Penalidade de Latência (Custo infinito se a entrega ocorrer após o prazo $\tau_i$).
 
