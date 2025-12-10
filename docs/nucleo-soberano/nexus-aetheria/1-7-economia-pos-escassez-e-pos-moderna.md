@@ -593,7 +593,11 @@ A eficiência de circularidade ($\eta_{circ}$) é modelada como:
 
 $$\eta_{circ} = \frac{\oint \vec{J}_{recuperado} \cdot d\vec{A}}{\oint \vec{J}_{entregue} \cdot d\vec{A}} \approx 1$$
 
-Onde $\vec{J}$ é o fluxo de massa. O drone que entrega a bateria nova ($\vec{J}_{entregue}$) é obrigado, pelo protocolo de voo, a retornar com a bateria velha ($\vec{J}_{recuperado}$). O custo marginal do retorno é zero, pois o vetor de transporte já teria que voltar à base.
+Onde:
+
+$\vec{J}$ é o fluxo de massa. 
+O drone que entrega a bateria nova $\vec{J}_{entregue}$ é obrigado, pelo protocolo de voo, a retornar com a bateria velha $\vec{J}_{recuperado}$. 
+O custo marginal do retorno é zero, pois o vetor de transporte já teria que voltar à base.
 
 Estas equações descrevem uma Coreografia Industrial. O armazém desaparece não por magia, mas porque a equação $t_{trigger}$ garante que o produto e a necessidade colidam no espaço-tempo com precisão perfeita.
 
