@@ -595,9 +595,9 @@ $$\eta_{circ} = \frac{\oint \vec{J}_{recuperado} \cdot d\vec{A}}{\oint \vec{J}_{
 
 Onde:
 
-$\vec{J}$ é o fluxo de massa. 
-O drone que entrega a bateria nova $\vec{J}_{entregue}$ é obrigado, pelo protocolo de voo, a retornar com a bateria velha $\vec{J}_{recuperado}$. 
-O custo marginal do retorno é zero, pois o vetor de transporte já teria que voltar à base.
+* $\vec{J}$ é o fluxo de massa. 
+* O drone que entrega a bateria nova $\vec{J}_{entregue}$ é obrigado, pelo protocolo de voo, a retornar com a bateria velha $\vec{J}_{recuperado}$. 
+* O custo marginal do retorno é zero, pois o vetor de transporte já teria que voltar à base.
 
 Estas equações descrevem uma Coreografia Industrial. O armazém desaparece não por magia, mas porque a equação $t_{trigger}$ garante que o produto e a necessidade colidam no espaço-tempo com precisão perfeita.
 
@@ -624,15 +624,7 @@ O preço de um bem tende ao seu custo marginal de produção num mercado eficien
 2. Energia: Com a matriz baseada no Padrão Joule e fontes renováveis de alta eficiência, o custo da energia tende ao custo de manutenção da infraestrutura.
 3. Informação: O custo de replicar o design (software/blueprints) é zero.
 
-O Cálculo:
-
-![Calculo ](../../image/o-calculo.png)
-
-Onde ϵ (custo operacional) é desprezível.
-
 * Consequência: Bens essenciais (alimento, moradia básica, transporte, comunicação) tornam-se virtualmente gratuitos, transformando-se em Direitos de Acesso Sistêmico e não mercadorias de mercado.
-
-![grafico ](../../image/grafico.png)
 
 2. O Nexo Causal (Posse vs. Acesso e a Taxa de Utilização):
 
@@ -655,6 +647,25 @@ A economia clássica distingue bens rivais (se eu uso, você não usa) de não-r
 
 A Pós-Escassez não é uma utopia mágica; é o resultado matemático de MC → O e Utilização Otimizada.
 Ao removermos o lucro da ineficiência e o custo do trabalho humano, libertamos a produção das amarras do capital. O Habitante de Aetheria é o ser mais rico da história, não porque possui muito, mas porque não precisa de possuir nada para ter acesso a tudo. A propriedade privada dos meios de produção torna-se um fardo logístico irrelevante diante da superioridade da Propriedade Sistêmica de Acesso.
+
+### 4.1.1. Automação da Abundância: Formulação Matemática
+
+* Objetivo: Demonstrar que, sob condições de automação total e energia abundante, o custo de bens e serviços converge para zero, e a utilidade é maximizada através do acesso compartilhado em vez da posse.
+
+1. A Equação do Custo Marginal Assintótico (A Lei do Custo Zero)
+
+Na economia clássica, o Custo Total ($C_T$) é a soma de custos fixos e variáveis. Em Aetheria, redefinimos a função de custo em termos de fatores de produção automatizados.O Preço Limite ($P_{lim}$) de um bem unitário é a derivada do custo total em relação à quantidade produzida ($Q$), quando a Automação ($A$) tende ao infinito.
+
+$$P_{\text{lim}} = \lim_{A \to \infty} \left( \frac{\partial C_T}{\partial Q} \right) = \lim_{A \to \infty} \left( \frac{\mathcal{E}_{\text{unit}}}{\eta_{\text{energy}}} + \frac{\mathcal{W}_{\text{human}}}{A} + \frac{\mathcal{I}_{\text{intellectual}}}{Q} \right)$$
+
+Onde:
+
+* $\mathcal{E}_{\text{unit}}$: Custo energético intrínseco (Joule/unidade).
+* $\eta_{\text{energy}}$: Eficiência da matriz energética (cresce com Fusão/Solar).$\mathcal{W}_{\text{human}}$: Custo do trabalho humano (salários).
+* $\mathcal{I}_{\text{intellectual}}$: Custo fixo de design/P&D (propriedade intelectual).
+* $A$: Fator de Automação ($A=1$ é manual, $A=10^6$ é fábrica escura autônoma).
+
+
 
 ## 4.2. O Dividendo de Otimização (A Renda Básica Energética):
 
