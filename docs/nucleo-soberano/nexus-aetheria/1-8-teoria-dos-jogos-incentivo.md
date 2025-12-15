@@ -6,6 +6,22 @@ grand_parent: "I - Nucleo Soberano"
 nav_order: 8
 ---
 
+<!-- Add to _layouts/default.html or post.html -->
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
+</script>
+
+<script type="text/javascript">
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+
+---
+
 * Tese 1.8: Teoria dos Jogos e o Alinhamento de Incentivos. Equilíbrio de Nash Sistêmico: Como Aetheria Alinha o Interesse Individual com a Otimização Coletiva.
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Segurança Quântica da Soberania](https://github.com/XDATCube/aetheria-sanctum/discussions)
