@@ -48,7 +48,7 @@ Considere dois agentes racionais, $A$ e $B$, num jogo de transação econômica 
 
 A Matriz de Payoff (Recompensa) canônica é definida pelos valores:
 
-* $T$ (Tentação da Traição): Ganho privado máximo (ex: sonegar impostos, poluir sem multa).
+* $T$ (Tentação da Traição): Ganho privado máximo (ex: sonegar impostos, poluir sem multa, desvio de verba pública, corrupção no 3 Poderes, corrupção corporativa).
 * $R$ (Recompensa da Cooperação): O bem comum (ex: sociedade funcional).
 * $P$ (Punição da Traição Mútua): O colapso social (ex: anomia, crise climática).
 * $S$ (Pagamento do Otário - Sucker's Payoff): O custo de ser honesto num mundo de ladrões.
