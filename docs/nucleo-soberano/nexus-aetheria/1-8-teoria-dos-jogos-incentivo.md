@@ -296,7 +296,7 @@ Em Aetheria, eliminamos o crime não através do medo da polícia, mas através 
 
 3. O Mecanismo de Reputação: A Sombra do Futuro (Shadow of the Future)3.1. Jogos Iterados e o Fator de Desconto ($\delta$)
 
-3.1.1. Argumento
+## 3.1. Argumento
 
 * Na Teoria dos Jogos, a distinção entre um "Jogo Único" (One-Shot Game) e um "Jogo Iterado" (Repeated Game) é crítica. Num jogo único, a traição é racional porque não há amanhã. Num jogo iterado, o jogador deve pesar o ganho imediato da traição contra a perda de ganhos futuros causada pela retaliação ou desconfiança.
 
