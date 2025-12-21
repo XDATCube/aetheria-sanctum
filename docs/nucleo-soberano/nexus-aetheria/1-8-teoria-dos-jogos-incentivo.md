@@ -359,6 +359,76 @@ $$\mathcal{R}(t+1) = \mathcal{R}(t) \cdot (1 + \alpha_{consistência}) + \Delta_
 
 Ao alongar a "Sombra do Futuro" para o infinito, transformamos o horizonte temporal do egoísmo. O míope rouba; o visionário coopera. Em Aetheria, a arquitetura do jogo força todos a serem visionários. O indivíduo age eticamente hoje não por medo do inferno ou da polícia, mas porque o cálculo do Valor Presente Líquido da sua própria vida demonstra que a integridade é o ativo de maior ROI (Return on Investment) existente.
 
+# 3.2. Reputação Multidimensional (Trust Vector)
+
+### 3.2.1. Argumento
+
+Os sistemas de reputação contemporâneos (Score de Crédito, Social Credit Chinês, Likes de Redes Sociais) sofrem de uma patologia matemática grave: o Reducionismo Escalar. Eles tentam comprimir a complexidade ontológica de um ser humano num único número real ($x \in \mathbb{R}$). Isso gera perda catastrófica de informação (Entropia de Shannon) e cria incentivos perversos (Lei de Goodhart: "Quando uma medida se torna um alvo, deixa de ser uma boa medida"). 
+
+Aetheria rejeita o escalar. O ser humano não é uma linha reta; é um Hiperespaço.Implementamos o Vetor de Confiança Tensorial ($\mathbf{T}$). A reputação não é um valor, é um objeto geométrico num espaço vetorial $N$-dimensional. A competência é tratada como ortogonal: a alta reputação em "Engenharia Criogênica" não confere autoridade em "Pedagogia Infantil". Isso anula o "Efeito Halo" e estabelece uma Meritocracia Fractal.
+
+1. Fundamento Lógico (Da Escalaridade à Tensorialidade):
+
+Definimos o Estado de Reputação de um Agente $i$ não como um número $r$, mas como um Tensor de Rank-1 (Vetor) num espaço de base $\mathcal{B} = \{k_1, k_2, \dots, k_n\}$:
+
+$$\mathbf{T}_i = \begin{bmatrix} \tau_{civismo} \\ \tau_{engenharia} \\ \tau_{bioética} \\ \tau_{arte} \\ \vdots \\ \tau_{eco\_gestão} \end{bmatrix}_i$$
+
+Onde cada componente $\tau_k$ representa a confiabilidade do agente no domínio específico $k$.
+
+* Axioma de Ortogonalidade: Os domínios são matematicamente independentes (ortogonais) a menos que haja correlação comprovada.
+
+$$\vec{u}_{k} \cdot \vec{v}_{j} = \delta_{kj}$$
+
+(Onde $\delta_{kj}$ é o Delta de Kronecker).
+
+* Implicação: Um Habitante pode ter $\tau_{coding} \to 1.0$ (gênio da programação) e $\tau_{civismo} \to 0.2$ (grosseiro socialmente). O sistema permite que ele acesse supercomputadores, mas nega que ele lidere comités políticos. A punição é cirúrgica, não totalitária.
+
+2. O Nexo Causal (EigenTrust e Validação Recursiva Ponderada):
+
+Como calculamos $\tau$? Não por voto democrático simples (que gera populismo), mas por Centralidade de Autovetor (Eigenvector Centrality) restrita ao domínio.
+
+A opinião de um especialista em $k$ tem peso maior na avaliação de outro em $k$.
+
+A equação de atualização recursiva para a reputação local $t_{ij}^{(k)}$ (confiança de $i$ em $j$ no domínio $k$) segue a dinâmica de Transitive Trust:
+
+$$\vec{\tau}^{(k)} = (1 - \alpha) \mathbf{C}^{(k)} \vec{\tau}^{(k)} + \alpha \vec{p}$$
+
+Onde:
+
+* $\vec{\tau}^{(k)}$: O vetor global de reputação no domínio $k$.
+* $\mathbf{C}^{(k)}$: Matriz normalizada de validações locais entre pares no domínio $k$.
+* $\alpha$: Fator de amortecimento (previne rank sinks).
+* $\vec{p}$: Vetor de distribuição inicial (pre-trust).
+
+* Interpretação Física: A reputação flui através da rede como um fluido incompressível. Para ter alta reputação em Medicina, não basta ter mil votos de leigos; é preciso ter validações de nós que já possuem alta reputação em Medicina. A autoridade epistêmica emerge da topologia do grafo.
+
+3. O Decaimento Temporal e a "Meia-Vida" da Glória: 
+
+Ao contrário de títulos aristocráticos ou diplomas estáticos, a reputação tensorial é termodinamicamente instável. Ela exige energia de manutenção. Introduzimos uma função de decaimento exponencial baseada na inatividade:
+
+$$\tau_k(t) = \tau_k(t_{last}) \cdot e^{-\lambda_k (t - t_{last})}$$
+
+Onde $\lambda_k$ é a constante de decaimento específica do domínio.
+
+* Em Tecnologia ($\lambda_{high}$): O conhecimento torna-se obsoleto rápido. Se o Habitante não contribui com código novo por 2 anos, sua reputação técnica evapora. 
+* Em Civismo ($\lambda_{low}$): A honra é mais durável. Isso força o "Elite" a continuar a ser produtivo para manter o status. A renda de reputação passiva é impossível.
+
+4. A Resiliência Contra Ataques Sybil (Clusterização Espectral):
+
+Um ataque clássico é criar mil robôs para darem likes uns aos outros e inflar a reputação artificialmente.<br>
+Aetheria utiliza Análise Espectral do Laplaciano do Grafo ($\mathcal{L} = D - A$) para detectar esses conluios.
+
+* Autovalores ($\lambda$) e Autovetores ($\vec{v}$) da matriz Laplaciana revelam cortes de cluster.
+* Se um grupo de nós tem alta densidade de conexões internas mas baixa condutância para o resto da rede principal ("Ilha de Reputação"), o algoritmo identifica matematicamente o grupo como um Sybil Cluster e zera o peso das suas arestas.
+
+$$\text{Se } \Phi(Cluster) < \epsilon \implies \text{Peso} \to 0$$
+
+(Onde $\Phi$ é a Condutância Cheeger).
+
+O Vetor de Confiança substitui a "Fama" (ruído) pela "Prova de Trabalho Verificável" (sinal).
+Ao decompor o ser humano num tensor $N$-dimensional, permitimos uma sociedade de nuances infinitas. Eliminamos a tirania da "moralidade única" e permitimos que o indivíduo seja avaliado com precisão cirúrgica pela utilidade real que provê em cada faceta da sua existência.
+O sistema não pergunta "Você é uma boa pessoa?"; ele pergunta "Qual é a magnitude e direção do seu vetor de contribuição no subespaço $k$?". E a matemática não aceita mentiras como resposta.
+
 
 
 
