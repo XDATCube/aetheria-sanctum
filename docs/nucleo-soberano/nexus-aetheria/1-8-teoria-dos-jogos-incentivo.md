@@ -172,9 +172,10 @@ A Teoria dos Jogos Clássica assume agentes separados e canais de informação d
 
 1. Superando o Nash Clássico com Estratégias Quânticas ($Q$-Games):
 
-* No mundo clássico, o Dilema do Prisioneiro tem um Equilíbrio de Nash subótimo em $(D, D)$.
+No mundo clássico, o Dilema do Prisioneiro tem um Equilíbrio de Nash subótimo em $(D, D)$.
 Em Aetheria, os agentes operam num Espaço de Hilbert ($\mathcal{H}$).
-* As estratégias não são binárias (0 ou 1), mas operadores unitários ($\hat{U}$) agindo sobre um estado inicial $$|\psi_{ini}\rangle$$.
+
+As estratégias não são binárias (0 ou 1), mas operadores unitários ($\hat{U}$) agindo sobre um estado inicial $$|\psi_{ini}\rangle$$.
 
 A Matriz Quântica:
 
