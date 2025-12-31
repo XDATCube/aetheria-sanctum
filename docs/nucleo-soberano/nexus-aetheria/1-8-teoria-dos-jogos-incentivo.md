@@ -689,6 +689,8 @@ Aetheria resolve a Tragédia dos Comuns não através da privatização ou da es
 
 [Seja um patrocionador do projeto Nexus Aetheria](https://github.com/XDATCube/aetheria-sanctum)
 
+[Tese completa] (https://github.com/XDATCube/aetheria-sanctum)
+
 
 
 
