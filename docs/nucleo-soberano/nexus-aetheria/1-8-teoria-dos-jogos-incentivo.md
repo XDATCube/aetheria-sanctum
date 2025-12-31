@@ -179,7 +179,7 @@ As estratégias não são binárias (0 ou 1), mas operadores unitários ($\hat{U
 
 A Matriz Quântica:
 
-O estado do jogo é definido por: $$|\psi_{final}\rangle = \hat{J}^{\dagger} (\hat{U}_A \otimes \hat{U}_B) \hat{J} |\psi_{ini}\rangle$$
+O estado do jogo é definido por: $$|\psi_{\text{final}}\rangle = \hat{J}^{\dagger} (\hat{U}_A \otimes \hat{U}_B) \hat{J} |\psi_{\text{ini}}\rangle$$
 
 Onde:
 
