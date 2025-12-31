@@ -174,11 +174,11 @@ A Teoria dos Jogos Clássica assume agentes separados e canais de informação d
 
 * No mundo clássico, o Dilema do Prisioneiro tem um Equilíbrio de Nash subótimo em $(D, D)$.
 Em Aetheria, os agentes operam num Espaço de Hilbert ($\mathcal{H}$).
-* As estratégias não são binárias (0 ou 1), mas operadores unitários ($\hat{U}$) agindo sobre um estado inicial $|\psi_{ini}\rangle$.
+* As estratégias não são binárias (0 ou 1), mas operadores unitários ($\hat{U}$) agindo sobre um estado inicial $$|\psi_{ini}\rangle$$.
 
 A Matriz Quântica:
 
-O estado do jogo é definido por:$$|\psi_{final}\rangle = \hat{J}^{\dagger} (\hat{U}_A \otimes \hat{U}_B) \hat{J} |\psi_{ini}\rangle$$
+O estado do jogo é definido por: $$|\psi_{final}\rangle = \hat{J}^{\dagger} (\hat{U}_A \otimes \hat{U}_B) \hat{J} |\psi_{ini}\rangle$$
 
 Onde:
 
