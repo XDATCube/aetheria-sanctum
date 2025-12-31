@@ -175,7 +175,9 @@ A Teoria dos Jogos Clássica assume agentes separados e canais de informação d
 No mundo clássico, o Dilema do Prisioneiro tem um Equilíbrio de Nash subótimo em $(D, D)$.
 Em Aetheria, os agentes operam num Espaço de Hilbert ($\mathcal{H}$).
 
-As estratégias não são binárias (0 ou 1), mas operadores unitários ($\hat{U}$) agindo sobre um estado inicial $$|\psi_{ini}\rangle$$.
+As estratégias não são binárias (0 ou 1), mas operadores unitários ($\hat{U}$) agindo sobre um estado inicial:
+
+$$|\psi_{ini}\rangle$$
 
 A Matriz Quântica:
 
@@ -689,7 +691,7 @@ Aetheria resolve a Tragédia dos Comuns não através da privatização ou da es
 
 [Seja um patrocionador do projeto Nexus Aetheria](https://github.com/XDATCube/aetheria-sanctum)
 
-[Tese completa] (https://github.com/XDATCube/aetheria-sanctum)
+[Tese completa](https://github.com/XDATCube/aetheria-sanctum)
 
 
 
