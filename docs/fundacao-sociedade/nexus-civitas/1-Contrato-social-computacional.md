@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "O Contrato Social Computacional."
+title: "1- O Contrato Social Computacional."
 parent: "Nexus Civitas (Ministério)"
 grand_parent: "II - Fundacao da Sociedade"
 nav_order: 1
@@ -27,7 +27,7 @@ nav_order: 1
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Segurança Quântica da Soberania](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 1: A Constituição Lógica Nexus Aetheria. - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/1-a-constituicao-logica.html
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 1: A Constituição Lógica Nexus Aetheria. - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/1-Contrato-social-computacional.html
 
 ---
 
