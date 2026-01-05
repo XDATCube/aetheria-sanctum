@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Tese 1: A Constituição Lógica."
+title: "White Paper 1: O Contrato Social Computacional."
 parent: "Nexus Civitas (Ministério)"
 grand_parent: "II - Fundacao da Sociedade"
 nav_order: 1
@@ -22,14 +22,19 @@ nav_order: 1
 
 ---
 
-* White Paper 1: A Constituição Lógica Nexus Aetheria.
-* Título: Do Contrato Social de Rousseau para o Smart Contract Imutável
+* White Paper 1: O Contrato Social Computacional.
+* Título: O Contrato Social Computacional: Redefinindo a Cidadania e os Direitos Fundamentais na Era da Soberania Digital.
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Segurança Quântica da Soberania](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 1: A Constituição Lógica Nexus Aetheria. - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/nucleo-soberano/nexus-aetheria/1-7-economia-pos-escassez-e-pos-moderna.html
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 1: A Constituição Lógica Nexus Aetheria. - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/1-a-constituicao-logica.html
 
 ---
+
+Em desenvolvimento
+
+Uma análise aprofundada de como o Nexus Civitas transforma a relação entre o Estado e o indivíduo. A pesquisa explorará como a "Identidade como Propriedade Inalienável" redefine os conceitos de cidadania, privacidade e consentimento, argumentando que este é o primeiro Contrato Social que é
+matematicamente verificável, em vez de ser meramente interpretativo.
 
 ---
 
