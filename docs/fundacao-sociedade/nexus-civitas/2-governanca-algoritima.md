@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "1- Governança Algorítmica"
+title: "2- Governança Algorítmica"
 parent: "Nexus Civitas (Ministério)"
 grand_parent: "II - Fundacao da Sociedade"
 nav_order: 2
