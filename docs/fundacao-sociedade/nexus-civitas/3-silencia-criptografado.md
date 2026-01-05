@@ -28,7 +28,7 @@ nav_order: 2
 * Debate: [A Segurança Quântica da Soberania](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
 * Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 2: O Silêncio Criptográfico - Silêncio Criptográfico como Muralha: O Paradigma do Quantum Entanglement
-Gateway (QEG) na Segurança Perimetral do NXC. Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/1-Contrato-social-computacional.html
+Gateway (QEG) na Segurança Perimetral do NXC. Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/3-silencia-criptografado.html
 
 ---
 
