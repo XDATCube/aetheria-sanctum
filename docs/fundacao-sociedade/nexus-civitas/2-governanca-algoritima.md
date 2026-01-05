@@ -33,8 +33,7 @@ nav_order: 2
 
 Em desenvolvimento
 
-Uma análise aprofundada de como o Nexus Civitas transforma a relação entre o Estado e o indivíduo. A pesquisa explorará como a "Identidade como Propriedade Inalienável" redefine os conceitos de cidadania, privacidade e consentimento, argumentando que este é o primeiro Contrato Social que é
-matematicamente verificável, em vez de ser meramente interpretativo.
+Um estudo sobre a responsabilidade civil e administrativa dos agentes de IA (BiometricVerifier, DocumentProcessor). A pesquisa definirá um novo paradigma de "responsabilidade algorítmica", onde as decisões são auditáveis através do Aetheria Ledger e contestáveis perante o Nexus Gaio, garantindo o devido processo legal na era da automação.
 
 ---
 
