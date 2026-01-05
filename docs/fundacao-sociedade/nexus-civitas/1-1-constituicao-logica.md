@@ -1,9 +1,9 @@
 ---
 layout: "default"
-title: "3- O Silêncio Criptográfico"
+title: "1 - A Constituição Lógica"
 parent: "Nexus Civitas (Ministério)"
 grand_parent: "II - Fundacao da Sociedade"
-nav_order: 4
+nav_order: 2
 ---
 
 <!-- Add to _layouts/default.html or post.html -->
@@ -22,19 +22,21 @@ nav_order: 4
 
 ---
 
-* White Paper 3: O Silêncio Criptográfico
-* Título: Silêncio Criptográfico como Muralha: O Paradigma do Quantum Entanglement Gateway (QEG) na Segurança Perimetral do NXC.
+* White Paper 1.1: A Constituição Lógica
+* Título: Análise Jurídica e Filosófica do Contrato Social do 
+Nexus Civitas.
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Segurança Quântica da Soberania](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 2: O Silêncio Criptográfico - Silêncio Criptográfico como Muralha: O Paradigma do Quantum Entanglement
-Gateway (QEG) na Segurança Perimetral do NXC. Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/3-silencia-criptografado.html
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 1:A Constituição Lógica - Análise Jurídica e Filosófica do Contrato Social do 
+Nexus Civitas. Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/1-Contrato-social-computacional.html
 
 ---
 
 Em desenvolvimento
 
-Um white paper técnico detalhando a arquitetura e os protocolos do QEG como a única porta de entrada para o NXC. A pesquisa apresentará uma análise de segurança formal, demonstrando como o ritual de "emaranhamento" elimina classes inteiras de ataques cibernéticos que assolam os gateways tradicionais.
+Uma análise aprofundada de como o Nexus Civitas transforma a relação entre o Estado e o indivíduo. A pesquisa explorará como a "Identidade como Propriedade Inalienável" redefine os conceitos de cidadania, privacidade e consentimento, argumentando que este é o primeiro Contrato Social que é
+matematicamente verificável, em vez de ser meramente interpretativo.
 
 ---
 
