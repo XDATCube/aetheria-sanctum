@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "White Paper 1: O Contrato Social Computacional."
+title: "O Contrato Social Computacional."
 parent: "Nexus Civitas (Ministério)"
 grand_parent: "II - Fundacao da Sociedade"
 nav_order: 1
