@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "1 - A Constituição Lógica"
+title: "1.1 - A Constituição Lógica"
 parent: "Nexus Civitas (Ministério)"
 grand_parent: "II - Fundacao da Sociedade"
 nav_order: 2
