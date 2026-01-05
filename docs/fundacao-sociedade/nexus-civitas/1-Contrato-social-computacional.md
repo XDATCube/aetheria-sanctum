@@ -22,12 +22,12 @@ nav_order: 1
 
 ---
 
-* White Paper 1: O Contrato Social Computacional.
+* White Paper 1: O Contrato Social Computacional
 * Título: O Contrato Social Computacional: Redefinindo a Cidadania e os Direitos Fundamentais na Era da Soberania Digital.
 * Desenvolvedor / Pesquisardor: Garcias Alex, Dr.
 * Debate: [A Segurança Quântica da Soberania](https://github.com/XDATCube/aetheria-sanctum/discussions)
 * Todos os direitos reservados
-* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 1: A Constituição Lógica Nexus Aetheria. - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/1-Contrato-social-computacional.html
+* Como citar: Garcias Alex, Dr. Projeto Nexus Aetheria: White Paper 1: O Contrato Social Computacional: Redefinindo a Cidadania e os Direitos Fundamentais na Era da Soberania Digital. - Disponvel em: https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/1-Contrato-social-computacional.html
 
 ---
 
