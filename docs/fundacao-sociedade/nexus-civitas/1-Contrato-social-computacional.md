@@ -312,8 +312,6 @@ V. Síntese do Subtópico
 
 A cidadania não é um dever moral; é um cálculo de sobrevivência. O cidadão "paga" com a possibilidade de ser um predador para "comprar" a certeza de não ser uma presa. O Contrato Social Computacional é a ferramenta que operacionaliza essa redução de entropia de forma verificável, garantindo que ninguém "trapaceie" (agindo como predador enquanto usufrui da segurança de presa protegida).
 
-
-
 ## 2.4. Nexo de Causa (Causalidade Determinística)
 
 ### 2.4.1. Sem assinatura = Sem acesso (Status de Visitante/Nômade). O bloqueio lógico de serviços
