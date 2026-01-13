@@ -314,7 +314,57 @@ A cidadania não é um dever moral; é um cálculo de sobrevivência. O cidadão
 
 ## 2.4. Nexo de Causa (Causalidade Determinística)
 
+A Transição da Sanção para a Restrição
+
+Nos sistemas jurídicos legados, a violação da lei desencadeia uma reação humana tardia (polícia $\to$ juiz $\to$ prisão). Este nexo é fraco, caro e falível.
+
+No Nexus Civitas, a lei é Middleware. A causalidade é imediata e automatizada. O sistema opera sob uma política de segurança de "Default Deny" (Negação Padrão). O acesso não é um direito natural; é um privilégio desbloqueado por uma chave criptográfica válida.
+
 ### 2.4.1. Sem assinatura = Sem acesso (Status de Visitante/Nômade). O bloqueio lógico de serviços
+
+I. A Ontologia do Não-Cidadão (O Visitante) 
+
+Aquele que se recusa a assinar o Contrato Social Computacional não é tratado como "criminoso" ou "ilegal". Essas são terminologias arcaicas. Ele é classificado tecnicamente como Usuário Não-Autenticado (Guest/Nomad). 
+O Nômade mantém seus direitos naturais básicos (vida), mas perde os direitos civis e o acesso à infraestrutura avançada. Ele vive no território geográfico, mas fora da malha digital funcional.
+
+II. O Bloqueio Lógico (API Gateway da Realidade)
+
+A infraestrutura do NXC (transporte, energia, saúde, finanças) é gerida por APIs que exigem um token de sessão válido ($Token_{NXC}$) derivado da assinatura do contrato.
+Sem a assinatura ($Signature = NULL$), o token não é gerado.
+
+Consequência Física:
+
+* Transporte: As portas dos tubos de transporte Maglev não se abrem. O Nômade deve caminhar.
+* Comércio: O Nômade não acessa o mercado interno de preços subsidiados ou crédito. Ele opera apenas com trocas atômicas P2P externas.
+* Imóveis: Smart Locks de zonas residenciais não reconhecem a biometria do Nômade. Ele fica restrito a zonas de trânsito livre (Guest Zones).
+
+III. Mecanismo de Exclusão Binária 
+
+A exclusão não requer força policial. É uma questão de handshake de protocolo. Imagine um servidor seguro. Se você não tem as credenciais, o servidor não "briga" com você; ele simplesmente ignora seus pacotes de dados. O NXC trata o Nômade como ruído na rede. A cidade torna-se "invisível" e "intangível" para quem não possui a chave de decifragem social.
+
+IV. Formulação Matemática da Função de Acesso ($A$)
+
+* Seja $R$ o conjunto de Recursos do NXC (Saúde, Segurança, Logística).
+* Seja $S$ o estado da Assinatura do Contrato Social ($S \in \{0, 1\}$).
+
+A função de Acesso ao recurso $r_i$ é:
+
+$$A(r_i) = r_i \times S$$
+
+* Caso 1 (Cidadão, $S=1$): $$A(r_i) = r_i \times 1 = r_i$$ - (Acesso concedido).
+Caso 2 (Nômade, $S=0$):$$A(r_i) = r_i \times 0 = 0$$ - (Acesso negado).
+
+Teorema do Muro Invisível:
+
+Não é necessário construir muros físicos para segregar a sociedade. A criptografia cria barreiras termodinâmicas intransponíveis.
+
+O esforço ($W$) para acessar um serviço sem a chave tende ao infinito:
+
+$$W_{hack} \gg E_{sistema}$$
+
+V. Síntese do Subtópico "Sem assinatura, sem serviço." 
+
+Esta lógica elimina a necessidade de coerção violenta para cobrar impostos ou lealdade. O incentivo para assinar o contrato torna-se a própria necessidade de usufruir da civilização. O estado de natureza (Nômade) permanece disponível como alternativa, mas é uma alternativa dura, fria e ineficiente. A liberdade de não assinar existe, mas o preço é a exclusão da modernidade.
 
 ## 2.5. Formulação Matemática (Prova Formal)
 
