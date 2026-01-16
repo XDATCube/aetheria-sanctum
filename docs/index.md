@@ -55,7 +55,8 @@ Definição: Justiça não é equilíbrio subjetivo de direitos; é aplicação 
 Lógica central: Todo conflito ou crime é uma falha de alocação ou desalinhamento de incentivos. O Nexus Gaio corrige causas raízes antes do ato (prevenção via simulação contrafactual) e pune via slashing ético automático (exclusão de benefícios sistêmicos).
 Operacionalização: Provas de zero-knowledge para privacidade + staking ético + equilíbrio de Nash cooperativo sistêmico.
 
-Resumo em Uma Frase Lógica
+6. Resumo em Uma Frase Lógica
+
 A civilização de Aetheria opera sob o axioma:
 “A única autoridade legítima é a otimização imparcial do Índice de Otimização Sistêmica via soberania computacional absoluta, abundância energética real e certeza determinística como liberdade.”
 Esses cinco pilares formam um sistema fechado e coerente: cada um reforça os outros. Não há espaço para delegação cega, escassez fabricada, competição por status ou monopólio da violência — tudo é substituído por matemática verificável.
