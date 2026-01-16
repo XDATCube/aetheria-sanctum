@@ -352,7 +352,7 @@ A função de Acesso ao recurso $r_i$ é:
 $$A(r_i) = r_i \times S$$
 
 * Caso 1 (Cidadão, $S=1$): $$A(r_i) = r_i \times 1 = r_i$$ - (Acesso concedido).
-Caso 2 (Nômade, $S=0$):$$A(r_i) = r_i \times 0 = 0$$ - (Acesso negado).
+* Caso 2 (Nômade, $S=0$):$$A(r_i) = r_i \times 0 = 0$$ - (Acesso negado).
 
 Teorema do Muro Invisível:
 
