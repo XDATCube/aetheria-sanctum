@@ -1,21 +1,78 @@
-# Título e descrição do seu site
-title: A Biblioteca de Aetheria
-description: A tese intelectual e filosófica da Federação Aetheria.
+# ======================================
+# CONFIGURAÇÃO PRINCIPAL - SEO OTIMIZADO
+# ======================================
 
-# Define o tema "just-the-docs"
+# Título principal do site (aparece no <title> e nos resultados de busca)
+title: Aetheria Sanctum – Governança Pós-Humana e Soberania Computacional
+
+# Descrição meta (muito importante para SEO – 150-160 caracteres ideais)
+description: >-
+  Aetheria Sanctum: teses filosóficas e técnicas para uma federação pós-humana baseada em soberania computacional absoluta, justiça algorítmica e economia pós-escassez. Blueprint aberto para o futuro da governança.
+
+# URL base do site (essencial para SEO, sitemap e canonical tags)
+url: https://xdatcube.github.io
+baseurl: /aetheria-sanctum
+
+# Tema
 remote_theme: just-the-docs/just-the-docs
 
-# Ativa o tema escuro como padrão
+# Esquema de cores (dark já é bom para retenção, mas não afeta SEO diretamente)
 just_the_docs:
   color_scheme: "dark"
 
-# (Opcional) Link no topo da página para o seu Fórum
-# Lembre-se de atualizar [SEU_UTILIZADOR] com o seu nome de utilizador ou organização do GitHub
+# Links auxiliares no topo (mantém, mas adiciona rel="nofollow" implícito se quiser)
 aux_links:
   "Fórum Soberano":
     - "https://github.com/XDATCube/aetheria-sanctum/discussions"
+  "English Version":
+    - "https://github.com/XDATCube/aetheria-sanctum"
 
-# === SUPORTE A EQUAÇÕES MATEMÁTICAS (LaTeX) ===
+# ======================================
+# SEO AVANÇADO – CONFIGURAÇÕES IMPORTANTES
+# ======================================
+
+# Ativa geração automática de sitemap.xml (crucial para indexação)
+plugins:
+  - jekyll-sitemap
+
+# Ativa feed RSS/Atom (ajuda em descoberta e backlinks)
+plugins:
+  - jekyll-feed
+
+# Configuração de permalink (URLs limpas e amigáveis para SEO)
+permalink: /:title/
+
+# Evita indexação de páginas desnecessárias (ex.: 404, assets)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Cabeçalho HTML customizado para SEO (adiciona meta tags globais)
+head_html: |
+  <!-- Google Search Console Verification (adicione seu código aqui) -->
+  <!-- <meta name="google-site-verification" content="SEU_CODIGO_AQUI" /> -->
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="Aetheria Sanctum – Governança Pós-Humana">
+  <meta property="og:description" content="Blueprint para soberania computacional, justiça algorítmica e economia pós-escassez. Teses abertas e código fonte.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://xdatcube.github.io/aetheria-sanctum/">
+  <meta property="og:image" content="https://xdatcube.github.io/aetheria-sanctum/assets/img/og-image.jpg">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Aetheria Sanctum – Governança Pós-Humana">
+  <meta name="twitter:description" content="Teses e blueprint para o futuro da civilização: soberania computacional absoluta.">
+  <meta name="twitter:image" content="https://xdatcube.github.io/aetheria-sanctum/assets/img/og-image.jpg">
+
+# ======================================
+# SUPORTE A EQUAÇÕES (mantido e otimizado)
+# ======================================
 markdown: kramdown
 kramdown:
   math_engine: mathjax
@@ -28,10 +85,11 @@ kramdown:
     svg:
       fontCache: 'global'
 
-# ==============================
-# FOOTER
-# ==============================
+# ======================================
+# FOOTER (mantido, mas com links SEO-friendly)
+# ======================================
 footer_content: |
-  © 2025 <strong>Aetheria Sanctum</strong> • Dr. Alex Garcias • Todos os direitos reservados.<br>
-  <a href="/termos">Termos de Uso</a> • <a href="/privacidade">Privacidade</a> • 
-  <a href="https://github.com/XDATCube/aetheria-sanctum">GitHub</a>
+  © 2026 <strong>Aetheria Sanctum</strong> • Dr. Alex Garcias • Todos os direitos reservados.<br>
+  <a href="/termos-de-uso">Termos de Uso</a> • 
+  <a href="/politica-de-privacidade">Política de Privacidade</a> • 
+  <a href="https://github.com/XDATCube/aetheria-sanctum">Código-fonte no GitHub</a>
