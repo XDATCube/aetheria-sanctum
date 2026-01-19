@@ -2,32 +2,6 @@
 # CONFIGURAÇÃO PRINCIPAL - SEO OTIMIZADO
 # ======================================
 
-# Título principal do site (aparece no <title> e nos resultados de busca)
-title: Aetheria Sanctum – Governança Pós-Humana e Soberania Computacional
-
-# Descrição meta (muito importante para SEO – 150-160 caracteres ideais)
-description: >-
-  Aetheria Sanctum: teses filosóficas e técnicas para uma federação pós-humana baseada em soberania computacional absoluta, justiça algorítmica e economia pós-escassez. Blueprint aberto para o futuro da governança.
-
-# URL base do site (essencial para SEO, sitemap e canonical tags)
-url: https://xdatcube.github.io
-baseurl: /aetheria-sanctum
-
-# Tema
-remote_theme: just-the-docs/just-the-docs
-
-# Esquema de cores (dark já é bom para retenção, mas não afeta SEO diretamente)
-just_the_docs:
-  color_scheme: "dark"
-
-# Links auxiliares no topo (mantém, mas adiciona rel="nofollow" implícito se quiser)
-aux_links:
-  "Fórum Soberano":
-    - "https://github.com/XDATCube/aetheria-sanctum/discussions"
-  "English Version":
-    - "https://github.com/XDATCube/aetheria-sanctum"
-
-# ======================================
 # SEO AVANÇADO – CONFIGURAÇÕES IMPORTANTES
 # ======================================
 
