@@ -101,12 +101,27 @@ Tabela resumindo os ministérios, com responsabilidade exclusiva, pilar lógico 
 
 | Núcleo     | Nome Canônico | Símbolo |
 |------------|---------------|---------|
-| I          | Nexus Legis   | NXL     |
+|    I       | Nexus Legis   | NXL     |
 			
 			
 
+# 5 Núcleo II – Nexus Civitas – Ministério da cidadania
 
-# 5 
+| Núcleo     | Nome Canônico | Símbolo |
+|------------|---------------|---------|
+|    II      | Nexus Civitas | NXC     |
+
+Nexus Civitas é um Ministério com responsabilidade exclusiva para controle de Direito e Deveres de pessoa física e pessoa jurídica.
+NXC opera com sistema modular (secretarias) conforme o seguinte: 
+
+1. Módulo de Máquina de Aprendizagem.
+2. Módulo Agente de Inteligencia Artificial
+3. Módulo (secretaria) pessoa física;
+4. Módulo (secretaria) pessoa jurídica.
+5. Módulo (secretaria) de crédito social.
+6. Módulo (secretaria) passaporte.
+
+
 
 
 
