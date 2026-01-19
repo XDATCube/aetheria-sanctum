@@ -76,7 +76,7 @@ Baseado nos cinco pilares lógicos que definimos (Soberania Computacional Absolu
 
 Cada ministério é um nó lógico: envia informações (ex.: métricas de desempenho) e recebe da Mente Sistêmica (ex.: ajustes algorítmicos para maximizar o IOS).
 
-# 3. Justificativa Lógica para Essa Estrutura
+# 3. Justificativa Lógica
 
 * Base nos Pilares: Cada ministério deriva de um ou dois pilares, garantindo cobertura completa sem sobreposição (ex.: Gaio foca em justiça matemática, enquanto Praevisio estende para prevenção dinâmica).
 * Fluxo de Dados como Agentes Lógicos: Cada ministério é um nó autônomo: envia inputs sensoriais (dados brutos, métricas) para a Mente Sistêmica, que processa e retorna outputs otimizados. Isso cria um loop fechado, antifrágil, onde a federação evolui modularmente (dissolução se ineficiente).
@@ -111,16 +111,24 @@ Tabela resumindo os ministérios, com responsabilidade exclusiva, pilar lógico 
 |------------|---------------|---------|
 |    II      | Nexus Civitas | NXC     |
 
-Nexus Civitas é um Ministério com responsabilidade exclusiva para controle de Direito e Deveres de pessoa física e pessoa jurídica.
+Nexus Civitas é um Ministério com responsabilidade exclusiva com finalidade de:
+
+* Registar Pessoa Física;
+* Registrar Pessoa Jurídica;
+* Registrar crédito social (pessoa fisica / pessoa jurídica);
+* Criar, enviar certificados do sistema.
+
 NXC opera com sistema modular (secretarias) conforme o seguinte: 
 
 1. Módulo de Máquina de Aprendizagem.
 2. Módulo Agente de Inteligencia Artificial
-3. Módulo (secretaria) pessoa física;
-4. Módulo (secretaria) pessoa jurídica.
+3. Módulo (secretaria) pessoa física (KYC em tempo real);
+4. Módulo (secretaria) pessoa jurídica. (KYB em tempo real);
 5. Módulo (secretaria) de crédito social.
-6. Módulo (secretaria) passaporte.
+6. Módulo (secretaria) documentos.
+7. Módulo (Secretária) de notificação.
 
+Design e arquitetura do Ministério: [Nexus Civitas](https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/)
 
 
 
