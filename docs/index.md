@@ -102,6 +102,9 @@ Tabela resumindo os ministérios, com responsabilidade exclusiva, pilar lógico 
 | Núcleo | Nome Canonico | Simbolo |
 
 |--------|----------------|---------|
+|--------|----------------|---------|
+|--------|----------------|---------|
+|--------|----------------|---------|
 | Núcleo I | Nexus Aetheria | NXH |
 			
 			
