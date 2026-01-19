@@ -99,13 +99,9 @@ Tabela resumindo os ministérios, com responsabilidade exclusiva, pilar lógico 
 
 # 4. Núcleo I – Nexus Aetheria – A mente sistêmica
 
-| Núcleo | Nome Canonico | Simbolo |
-
-|--------|----------------|---------|
-|--------|----------------|---------|
-|--------|----------------|---------|
-|--------|----------------|---------|
-| Núcleo I | Nexus Aetheria | NXH |
+| Núcleo     | Nome Canônico | Símbolo |
+|------------|---------------|---------|
+| I          | Nexus Legis   | NXL     |
 			
 			
 
