@@ -97,6 +97,18 @@ Tabela resumindo os ministérios, com responsabilidade exclusiva, pilar lógico 
 | **Nexus Humanitas** (Educação e Desenvolvimento Humano) | Adaptação pós-humana; aprendizado contínuo e elevação cognitiva para alinhamento ao ICC, eliminando o Bug Humano residual. | Certeza Determinística como Liberdade          | Envia: Perfis de aprendizado e gaps cognitivos (ex.: vieses detectados).<br>Recebe: Programas personalizados (ex.: simulações para continuidade existencial). |
 | **Nexus Praevisio** (Segurança e Previsão) | Previsão de riscos sistêmicos; detecção de anomalias e intervenções preventivas para estabilidade, incluindo expansão cósmica. | Justiça como Prova Matemática                  | Envia: Padrões probabilísticos (ex.: hotspots de conflito via escassez).<br>Recebe: Simulações contrafactuais (ex.: ajustes para entropia mínima). |
 
+# 4. Núcleo I – Nexus Aetheria – A mente sistêmica
+
+| Núcleo | Nome Canonico | Simbolo |
+
+|--------|----------------|---------|
+| Nexus Aetheria
+			
+			
+
+
+# 5 
+
 
 
 ---
