@@ -120,18 +120,40 @@ Nexus Civitas é um Ministério com responsabilidade exclusiva com finalidade de
 
 NXC opera com sistema modular (secretarias) conforme o seguinte: 
 
-1. Módulo de Máquina de Aprendizagem.
-2. Módulo Agente de Inteligencia Artificial
+1. Módulo de Máquina de Aprendizagem sem armazenagem de dados;
+2. Módulo Agente de Inteligencia Artificial;
 3. Módulo (secretaria) pessoa física (KYC em tempo real);
 4. Módulo (secretaria) pessoa jurídica. (KYB em tempo real);
-5. Módulo (secretaria) de crédito social.
-6. Módulo (secretaria) documentos.
-7. Módulo (Secretária) de notificação.
+5. Módulo (secretaria) de crédito social;
+6. Módulo (secretaria) de certificados (selos e certificados);
+7. Módulo (secretaria) de notificação ao usuário;
+8. Módulo (secretaria) de registro (Blockchain);
+9. Módulo (secretaria) de notificação entre Agentes de inteligencia artificial;
 
-Design e arquitetura do Ministério: [Nexus Civitas](https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/)
+Design e arquitetura do Ministério: [Nexus Civitas - NXC](https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/)
 
+# 6 Núcleo III – Nexus Legis – Ministério das leis
 
+| Núcleo     | Nome Canônico | Símbolo |
+|------------|---------------|---------|
+|    III     | Nexus Legis   | NXL     |
 
+Nexus Legis é um ministério com responsabilidade exclusiva para controle das leis no ecossistema Nexus Aetheria.
+NXL opera com sistema modular (secretaria), conforme o seguinte:
+
+1. Módulo (secretaria) Máquina de Aprendizagem sem armazenagem de dados;
+2. Módulo (secretaria) agente de Inteligencia Artificial;
+3. Módulo (secretaria) Direito Constitucional interno (ecossistema Aetheria);
+4. Módulo (secretaria) Direito Infraconstitucional interno (ecossistema Aetheria);
+5. Módulo (secretaria) Direito Constitucional externo; (ecossistema Estado Democrático);
+6. Módulo (secretaria) Direito Infraconstitucional externo (ecossistema Estado Democrático);
+7. Módulo (secretaria) Direito Internacional (ecossistema Estado Democrático);
+8. Módulo (secretaria) Direito interplanetário (Tecnocracia);
+9. Módulo (secretaria) de notificação ao usuário;
+10. Módulo (secretaria) de registro (Blockchain - ecossistema Aetheria);
+11. Módulo (secretaria) de notificação entre Agentes de inteligencia artificial.
+
+Design e arquitetura do Ministério: [Nexus Legis - NXC]()
 
 ---
 
