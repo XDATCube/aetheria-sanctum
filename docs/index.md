@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="IYS0yFQje0sfe4mwkNCbZ-91B-YfonuT5rjE0hiDzdQ" />
 ---
 layout: "default"
 title: "Biblioteca Soberana de Aetheria"
