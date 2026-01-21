@@ -173,7 +173,7 @@ NXG opera com sistema modular, conforme o seguinte:
 6. Módulo (secretaria) de mediação (ecossistema Estado Democrático);
 7. Módulo (secretaria) de arbitragem (ecossistema Estado Democrático);
 8. Módulo (secretaria) de análise de entidades em procedimento penal - Inquérito Policial;
-9. Módulo (secretaria) de análise de entidades em processo penal - Denúncia | Resposta acusação | Sentença;
+9. Módulo (secretaria) de análise de entidades Denúncia, Resposta acusação, Sentença em processo penal;
 10. Módulo (secretaria) de análise de entidades em jurisprudencia;
 11. Módulo (secretaria) de análise de entidades em contratos.
 12. Módulo (secretaria) Smart Contract - Blockchain;
