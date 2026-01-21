@@ -124,11 +124,13 @@ NXC opera com sistema modular (secretarias) conforme o seguinte:
 2. Módulo Agente de inteligência Artificial;
 3. Módulo (secretaria) pessoa física (KYC em tempo real);
 4. Módulo (secretaria) pessoa jurídica. (KYB em tempo real);
-5. Módulo (secretaria) de crédito social;
-6. Módulo (secretaria) de certificados (selos e certificados);
-7. Módulo (secretaria) de notificação ao usuário;
-8. Módulo (secretaria) de registro (Blockchain);
-9. Módulo (secretaria) de notificação entre Agentes de inteligência artificial;
+5. Módulo (secretaria) de crédito social - avaliação individual;
+6. Módulo (secretaria) de crédito empresarial - avaliação pelo povo de produtos e serviços;
+7. Módulo (secretaria) de crédito político - avaliação pelo povo de agente político;
+8. Módulo (secretaria) de certificados (selos e certificados);
+9. Módulo (secretaria) de notificação ao usuário;
+10. Módulo (secretaria) de registro (Blockchain);
+11. Módulo (secretaria) de notificação entre Agentes de inteligência artificial;
 
 Design e arquitetura do Ministério: [Nexus Civitas - NXC](https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/)
 
@@ -159,7 +161,7 @@ Design e arquitetura do Ministério: [Nexus Legis - NXC]()
 
 | Núcleo     | Nome Canônico | Símbolo |
 |------------|---------------|---------|
-|    IV     | Nexus Gaio    | NXG     |
+|    IV     | Nexus Gaio     | NXG     |
 
 Nexus Gaio é um Ministério com responsabilidade exclusiva para controle de Direitos e Deveres, sem intermediários, dos habitantes de Aetheria Sanctum e do Estado Democrático.
 
