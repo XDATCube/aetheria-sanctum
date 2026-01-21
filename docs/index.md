@@ -157,7 +157,11 @@ Design e arquitetura do Ministério: [Nexus Legis - NXC]()
 
 # 6 Núcleo IV – Nexus Gaio – Justica deterministica
 
-Nexus Gaio é um Ministério com responsabilidade exclusiva para controle de Direito e Deveres, sem intermediários, dos habitantes de Aetheria Sanctum d do Estado Democrático.
+| Núcleo     | Nome Canônico | Símbolo |
+|------------|---------------|---------|
+|    IV     | Nexus Gaio    | NXG     |
+
+Nexus Gaio é um Ministério com responsabilidade exclusiva para controle de Direitos e Deveres, sem intermediários, dos habitantes de Aetheria Sanctum e do Estado Democrático.
 
 NXG opera com sistema modular, conforme o seguinte:
 
@@ -166,6 +170,14 @@ NXG opera com sistema modular, conforme o seguinte:
 3. Módulo (secretaria) de notificação ao usuário;
 4. Módulo (secretaria) de notificação entre Agentes de inteligência artificial;
 5. Módulo (secretaria) de registro (Blockchain - ecossistema Aetheria);
+6. Módulo (secretaria) de mediação (ecossistema Estado Democrático);
+7. Módulo (secretaria) de arbitragem (ecossistema Estado Democrático);
+8. Módulo (secretaria) de análise de entidades em procedimento penal - Inquérito Policial;
+9. Módulo (secretaria) de análise de entidades em processo penal - Denúncia | Resposta acusação | Sentença;
+10. Módulo (secretaria) de análise de entidades em jurisprudencia;
+11. Módulo (secretaria) de análise de entidades em contratos.
+12. Módulo (secretaria) Smart Contract - Blockchain;
+13. Módulo (secretaria) análise de provas em processo ou procedimento de interesse para o Direito.
 
 Design e arquitetura do Ministério: [Nexus Gaio - NXC]()
 
