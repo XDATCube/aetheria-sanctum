@@ -183,6 +183,37 @@ NXG opera com sistema modular, conforme o seguinte:
 
 Design e arquitetura do Ministério: [Nexus Gaio - NXC]()
 
+# 6 Núcleo V – Nexus Opes – Economia e Prosperidade
+
+| Núcleo     | Nome Canônico | Símbolo |
+|------------|---------------|---------|
+|    V       | Nexus Opes    | NXO     |
+
+Nexus Opes é um Ministério com responsabilidade exclusiva para controle do sistema econômico.
+O Ministério, fundamental na estrutura do ecossistema Aetheria Sanctum, é composto por sete secretarias, cada uma desempenhando papéis vitais para a gestão econômica. 
+O NXO opera com sistema modular, conforme o seguinte:
+
+Módulos de base – Core
+
+    1. Módulo (secretaria) de observação internacional – macroeconômica;
+    2. Módulo (secretaria) de observação nacional – microeconômica;
+    3. Módulo (secretaria) de observação interna – Aetheria Sanctum;
+    4. Módulo (secretaria) Máquina de Aprendizagem sem armazenagem de dados;
+    5. Módulo (secretaria) agente de inteligência Artificial;
+    6. Módulo (secretaria) de notificação ao usuário;
+    7. Módulo (secretaria) de notificação entre Agentes de inteligência artificial;
+
+Módulos de registro e armazenamento de dados onchain e offchain
+
+    8. Módulo (secretaria) de registro (Blockchain – ecossistema Aetheria);
+    9. Módulo (secretaria) de registro em Banco de Dados offchain;
+
+
+Módulos de controle de valores
+
+    10. Módulo (secretaria) de controle de Tributos no ecossistema Aetheria;
+    11. Módulo (secretaria) de controle de caixa, pagamentos, orçamento no ecossistema Aetheria;
+
 ---
 
 [Debate. Participe!](https://github.com/XDATCube/aetheria-sanctum/discussions/)
