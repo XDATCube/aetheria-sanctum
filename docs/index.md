@@ -159,7 +159,10 @@ Design e arquitetura do Ministério: [Nexus Civitas - NXC](https://xdatcube.gith
 
 | Núcleo     | Nome Canônico | Símbolo | Módulos |
 |------------|---------------|---------|---------|
-|    III     | Nexus Legis   | NXL     |         |Nexus Legis é um ministério com responsabilidade exclusiva para controle das leis no ecossistema Nexus Aetheria.
+|    III     | Nexus Legis   | NXL     |   7     |
+
+Nexus Legis é um ministério com responsabilidade exclusiva para controle das leis no ecossistema Nexus Aetheria.
+
 NXL opera com sistema modular (secretaria), conforme o seguinte:
 
 ## Módulos de base – Core
