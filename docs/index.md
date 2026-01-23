@@ -198,12 +198,12 @@ NXL opera com sistema modular (secretaria), conforme o seguinte:
 
 ### Módulo legislação infraconstitucional
 
-    1. Direito penal;
-    2. Processo penal;
-    3. Lei de drogas;
-    4. Lei de lavagem de dinheiro;
-    5. Direito Civil – contratos;
-    6. Direito administrativo – licitações
+15. Direito penal;
+16. Processo penal;
+17. Lei de drogas;
+18. Lei de lavagem de dinheiro;
+19. Direito Civil – contratos;
+20. Direito administrativo – licitações.
 
 Design e arquitetura do Ministério: [Nexus Legis - NXC]()
 
