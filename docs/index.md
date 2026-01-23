@@ -99,17 +99,18 @@ Tabela resumindo os ministérios, com responsabilidade exclusiva, pilar lógico 
 
 # 4. Núcleo I – Nexus Aetheria – A mente sistêmica
 
-| Núcleo     | Nome Canônico | Símbolo |
-|------------|---------------|---------|
-|    I       | Nexus Legis   | NXL     |
+| Núcleo     | Nome Canônico | Símbolo | Módulos |
+|------------|---------------|---------|---------|
+|    I       | Nexus Legis   | NXL     |         |
 			
 			
 
 # 5 Núcleo II – Nexus Civitas – Ministério da cidadania
 
-| Núcleo     | Nome Canônico | Símbolo |
-|------------|---------------|---------|
-|    II      | Nexus Civitas | NXC     |
+| Núcleo     | Nome Canônico | Símbolo | Módulos |
+|------------|---------------|---------|---------|
+|    II      | Nexus Civitas |   NXC   |   14    |
+
 
 Nexus Civitas é um Ministério com responsabilidade exclusiva de identificar.
 
@@ -134,48 +135,75 @@ O NXC opera com sistema modular, conforme o seguinte:
 
 ### Módulos de identificação
 
-1. Módulo (secretaria) pessoa física (KYC em tempo real);
-2. Módulo (secretaria) pessoa jurídica. (KYB em tempo real);
+7. Módulo (secretaria) pessoa física (KYC em tempo real);
+8. Módulo (secretaria) pessoa jurídica. (KYB em tempo real);
 
 ### Módulos de avaliação
 
-3. Módulo (secretaria) de crédito social – avaliação individual;
-4. Módulo (secretaria) de crédito empresarial – avaliação pelo povo de produtos e serviços;
-5. Módulo (secretaria) de crédito político – avaliação pelo povo de agente político;
+9. Módulo (secretaria) de crédito social – avaliação individual;
+10. Módulo (secretaria) de crédito empresarial – avaliação pelo povo de produtos e serviços;
+11. Módulo (secretaria) de crédito político – avaliação pelo povo de agente político;
 
 ### Módulos de certificação
 
-6. Módulo (secretaria) de certificados (selos e certificados);
+12. Módulo (secretaria) de certificados (selos e certificados);
+
+### Módulos de registro de dados Onchain & Offchain
+
+13. Módulo (secretaria) de registro (Blockchain);
+14. Módulo (secretaria) de registro em Banco de dados Offchain.
+
+Design e arquitetura do Ministério: [Nexus Civitas - NXC](https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/)
+
+# 6 Núcleo III – Nexus Legis – Leis deterministicas
+
+| Núcleo     | Nome Canônico | Símbolo | Módulos |
+|------------|---------------|---------|---------|
+|    III     | Nexus Legis   | NXL     |         |Nexus Legis é um ministério com responsabilidade exclusiva para controle das leis no ecossistema Nexus Aetheria.
+NXL opera com sistema modular (secretaria), conforme o seguinte:
+
+## Módulos de base – Core
+
+### Módulos de observação – sensorial
+
+1. Módulo (secretaria) de observação do Legislativo no Estado Democrático;
+2. Módulo (secretaria) de observação interna – Aetheria Sanctum;
+
+### Módulos de aprendizagem de máquina
+
+3. Módulo (secretaria) Máquina de Aprendizagem sem armazenagem de dados;
+4. Módulo (secretaria) agente de inteligência Artificial;
+
+### Módulos de comunicação
+
+5. Módulo (secretaria) de notificação ao usuário;
+6. Módulo (secretaria) de notificação entre Agentes de inteligência artificial;
 
 ### Módulos de registro de dados Onchain & Offchain
 
 7. Módulo (secretaria) de registro (Blockchain);
 8. Módulo (secretaria) de registro em Banco de dados Offchain.
 
+### Módulo legislação constitucional
 
+9. Constituição brasileira.
 
-Design e arquitetura do Ministério: [Nexus Civitas - NXC](https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/)
+### Módulo legislação internacional
 
-# 6 Núcleo III – Nexus Legis – Leis deterministicas
+10. Tratado internacional sobre direitos humanos;
+11. Pacto de San José da Costa Rica;
+12. Tratado sobre direitos humanos da União Europeia.
+13. Tratados de Direito econômico e financeiro;
+14. Tratados de comércio.
 
-| Núcleo     | Nome Canônico | Símbolo |
-|------------|---------------|---------|
-|    III     | Nexus Legis   | NXL     |
+### Módulo legislação infraconstitucional
 
-Nexus Legis é um ministério com responsabilidade exclusiva para controle das leis no ecossistema Nexus Aetheria.
-NXL opera com sistema modular (secretaria), conforme o seguinte:
-
-1. Módulo (secretaria) Máquina de Aprendizagem sem armazenagem de dados;
-2. Módulo (secretaria) agente de inteligência Artificial;
-3. Módulo (secretaria) Direito Constitucional interno (ecossistema Aetheria);
-4. Módulo (secretaria) Direito Infraconstitucional interno (ecossistema Aetheria);
-5. Módulo (secretaria) Direito Constitucional externo; (ecossistema Estado Democrático);
-6. Módulo (secretaria) Direito Infraconstitucional externo (ecossistema Estado Democrático);
-7. Módulo (secretaria) Direito Internacional (ecossistema Estado Democrático);
-8. Módulo (secretaria) Direito interplanetário (Tecnocracia);
-9. Módulo (secretaria) de notificação ao usuário;
-10. Módulo (secretaria) de registro (Blockchain - ecossistema Aetheria);
-11. Módulo (secretaria) de notificação entre Agentes de inteligência artificial.
+    1. Direito penal;
+    2. Processo penal;
+    3. Lei de drogas;
+    4. Lei de lavagem de dinheiro;
+    5. Direito Civil – contratos;
+    6. Direito administrativo – licitações
 
 Design e arquitetura do Ministério: [Nexus Legis - NXC]()
 
