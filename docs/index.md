@@ -111,26 +111,48 @@ Tabela resumindo os ministérios, com responsabilidade exclusiva, pilar lógico 
 |------------|---------------|---------|
 |    II      | Nexus Civitas | NXC     |
 
-Nexus Civitas é um Ministério com responsabilidade exclusiva com finalidade de:
+Nexus Civitas é um Ministério com responsabilidade exclusiva de identificar.
 
-* Registar Pessoa Física;
-* Registrar Pessoa Jurídica;
-* Registrar crédito social (pessoa fisica / pessoa jurídica);
-* Criar, enviar certificados do sistema.
+O NXC opera com sistema modular, conforme o seguinte:
 
-NXC opera com sistema modular (secretarias) conforme o seguinte: 
+## Módulos de base – Core
 
-1. Módulo de Máquina de Aprendizagem sem armazenagem de dados;
-2. Módulo Agente de inteligência Artificial;
-3. Módulo (secretaria) pessoa física (KYC em tempo real);
-4. Módulo (secretaria) pessoa jurídica. (KYB em tempo real);
-5. Módulo (secretaria) de crédito social - avaliação individual;
-6. Módulo (secretaria) de crédito empresarial - avaliação pelo povo de produtos e serviços;
-7. Módulo (secretaria) de crédito político - avaliação pelo povo de agente político;
-8. Módulo (secretaria) de certificados (selos e certificados);
-9. Módulo (secretaria) de notificação ao usuário;
-10. Módulo (secretaria) de registro (Blockchain);
-11. Módulo (secretaria) de notificação entre Agentes de inteligência artificial;
+### Módulos de observação – sensorial
+
+1. Módulo (secretaria) de observação no Estado Democrático;
+2. Módulo (secretaria) de observação interna – Aetheria Sanctum;
+
+### Módulos de aprendizagem de máquina
+
+3. Módulo (secretaria) Máquina de Aprendizagem sem armazenagem de dados;
+4. Módulo (secretaria) agente de inteligência Artificial;
+
+### Módulos de comunicação
+
+5. Módulo (secretaria) de notificação ao usuário;
+6. Módulo (secretaria) de notificação entre Agentes de inteligência artificial;
+
+### Módulos de identificação
+
+1. Módulo (secretaria) pessoa física (KYC em tempo real);
+2. Módulo (secretaria) pessoa jurídica. (KYB em tempo real);
+
+### Módulos de avaliação
+
+3. Módulo (secretaria) de crédito social – avaliação individual;
+4. Módulo (secretaria) de crédito empresarial – avaliação pelo povo de produtos e serviços;
+5. Módulo (secretaria) de crédito político – avaliação pelo povo de agente político;
+
+### Módulos de certificação
+
+6. Módulo (secretaria) de certificados (selos e certificados);
+
+### Módulos de registro de dados Onchain & Offchain
+
+7. Módulo (secretaria) de registro (Blockchain);
+8. Módulo (secretaria) de registro em Banco de dados Offchain.
+
+
 
 Design e arquitetura do Ministério: [Nexus Civitas - NXC](https://xdatcube.github.io/aetheria-sanctum/fundacao-sociedade/nexus-civitas/)
 
