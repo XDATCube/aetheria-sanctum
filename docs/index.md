@@ -17,7 +17,16 @@ nav_order: 1
 
 Versão: 5.0 (Resultado da Análise de Otimização Nível 5)<br>
 Propósito: Definir a estrutura ministerial mínima, essencial e logicamente pura da Federação.<br>
+Em constante desenvolvimento.
 [Análise e debate: Versão: 4.0](https://github.com/XDATCube/aetheria-sanctum/discussions/4)
+
+---
+
+### Nexus Aurora - NXA - Agricultura e Pecuária
+
+Ecossistema Nexus Aurora online e em fase de teste final
+
+[Acesse - Nexus Aurora - NXA - WebApp](http://nexusaurora.com.br/)
 
 ---
 
@@ -260,7 +269,6 @@ Módulos de registro e armazenamento de dados onchain e offchain
 
 8. Módulo (secretaria) de registro (Blockchain – ecossistema Aetheria);
 9. Módulo (secretaria) de registro em Banco de Dados offchain;
-
 
 Módulos de controle de valores
 
