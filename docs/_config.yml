@@ -18,6 +18,9 @@ aux_links:
   "English Version":
     - "https://github.com/XDATCube/aetheria-sanctum"
 
+  "Investidores & Parceiros":
+    - "https://xdatcube.com/investors-and-partners/"
+
 # === SUPORTE A EQUAÇÕES MATEMÁTICAS (LaTeX) ===
 markdown: kramdown
 kramdown:
