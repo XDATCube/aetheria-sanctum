@@ -1,8 +1,9 @@
 ---
 layout: "default"
-title: "Solucao NXA"
+title: "III. Solução - NXA"
 parent: "III. A Infraestrutura da Nação"
-nav_order: 2
+nav_order: 1
 has_children: true
 
 ---
+
