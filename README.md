@@ -19,7 +19,7 @@ Current state apparatuses are legacy systems running on deprecated hardware (hum
 
 Before analyzing the code, understand the architecture. The theoretical foundation of the Post-Scarcity transition is detailed here:
 
-* **📄 [White Paper 1.0: The Genesis of Order](LINK_AQUI)**
+* **📄 [White Paper 1.0: The Genesis of Order](https://bit.ly/3LKs4Zg)**
     * *Focus:* Problems of legacy governance, the mathematical inevitability of Technocracy, and the ethical alignment of AI-State integration.
 * **📄 [White Paper 2.0: The Architectural Kernel](LINK_AQUI)**
     * *Focus:* Technical specifications of the Nexus Civitas module, Shadow Ledger implementation, and the consensus mechanism for resource allocation.
@@ -76,7 +76,7 @@ If you are proficient in **Rust, Cryptography, or AI Alignment**, review the `CO
 
 ### For Investors (Deep Tech / Smart Money)
 Nexus Aetheria is currently in the **Seed Stage**. We are opening a strategic round for partners who understand that the future of Government is SaaS (Software as a Service).
-* **Contact:** [SEU EMAIL OU LINK DO LINKEDIN]
+* **Contact:** [Dr. Alex Garcias -](http://www.linkedin.com/in/alex-garcias-nexus)
 
 ---
 
