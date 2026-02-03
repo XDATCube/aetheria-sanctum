@@ -282,6 +282,7 @@ Módulos de controle de valores
 | Núcleo     | Nome Canônico | Símbolo |
 |------------|---------------|---------|
 |    IV     | Nexus Aurora   | NXA     |
+
 ---
 
 [Debate. Participe!](https://github.com/XDATCube/aetheria-sanctum/discussions/)
