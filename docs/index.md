@@ -276,6 +276,13 @@ Módulos de controle de valores
 11. Módulo (secretaria) de controle de caixa, pagamentos, orçamento no ecossistema Aetheria;
 
 ---
+# 7 Núcleo V – Nexus Aurora – Agricultura & Pecuária
+
+
+| Núcleo     | Nome Canônico | Símbolo |
+|------------|---------------|---------|
+|    IV     | Nexus Aurora   | NXA     |
+---
 
 [Debate. Participe!](https://github.com/XDATCube/aetheria-sanctum/discussions/)
 
